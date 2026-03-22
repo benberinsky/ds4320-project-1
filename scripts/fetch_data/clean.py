@@ -322,6 +322,11 @@ def clean_tournament_games(logger) -> pd.DataFrame:
 
     # Apply team name mapping
     games = apply_team_mapping(games, ["WTeamName", "LTeamName"], logger)
+    
+    # Keep only analysis-relevant columns                      
+    games = games[["Season", "WTeamID", "WScore", "LTeamID",
+                   "LScore", "WSeed", "WTeamName", "LSeed",
+                   "LTeamName", "Round", "SeedDiff", "Upset"]]
 
     logger.info(f"  Tournament games: {games.shape}")
     return games
@@ -401,6 +406,42 @@ def save_mapping(logger) -> None:
     )
     save(mapping_df, "team_name_mapping", CLEAN_DIR, logger)
 
+def clean_kenpom(logger) -> dict:
+    """
+    Loads and column-filters the four KenPom tables.
+    """
+    logger.info("Cleaning KenPom tables...")
+
+    four_factors = load_raw("four_factors.csv", logger)
+    four_factors = four_factors.drop(columns=[
+        "DataThrough", "ConfOnly", "eFG_Pct", "TO_Pct", "OR_Pct",
+        "FT_Rate", "DeFG_Pct", "DTO_Pct", "DOR_Pct", "DFT_Rate",
+        "OE", "DE", "Tempo", "AdjOE", "AdjDE", "AdjTempo"
+    ])
+
+    height = load_raw("height.csv", logger)
+    height = height.drop(columns=[
+        "DataThrough", "AvgHgt", "HgtEff", "Hgt5", "Hgt4", "Hgt3",
+        "Hgt2", "Hgt1", "Exp", "Bench", "Continuity"
+    ])
+
+    ratings = load_raw("ratings.csv", logger)
+    ratings = ratings.drop(columns=[
+        "DataThrough", "AdjEM", "Pythag", "AdjOE", "OE", "AdjDE",
+        "DE", "Tempo", "AdjTempo", "Luck", "SOS", "SOSO", "SOSD",
+        "NCSOS", "APL_Off", "APL_Def", "ConfAPL_Off", "ConfAPL_Def"
+    ])
+
+    teams = load_raw("teams.csv", logger)
+    teams = teams.drop(columns=["Coach", "Arena", "ArenaCity", "ArenaState"])
+
+    return {
+        "four_factors": four_factors,
+        "height": height,
+        "ratings": ratings,
+        "teams": teams,
+    }
+
 
 def main():
     """
@@ -419,6 +460,7 @@ def main():
     # Clean
     games = clean_tournament_games(logger)
     seeds = clean_tournament_seeds(logger)
+    kenpom = clean_kenpom(logger) 
 
     # Verify
     logger.info("─" * 50)
@@ -431,6 +473,8 @@ def main():
     logger.info("Saving clean data...")
     save(games, "tournament_games", CLEAN_DIR, logger)
     save(seeds, "tournament_seeds", CLEAN_DIR, logger)
+    for name, df in kenpom.items():                          
+        save(df, name, CLEAN_DIR, logger)
     save_mapping(logger)
 
     # Summary

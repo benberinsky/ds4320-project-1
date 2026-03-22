@@ -1,0 +1,108 @@
+2026-03-22 15:04:04 | INFO | ──────────────────────────────────────────────────
+2026-03-22 15:04:04 | INFO | Pulling: ratings
+2026-03-22 15:04:05 | ERROR | ratings y=2002 | HTTP 404
+2026-03-22 15:04:05 | ERROR | ratings y=2003 | HTTP 404
+2026-03-22 15:04:05 | ERROR | ratings y=2004 | HTTP 404
+2026-03-22 15:04:05 | ERROR | ratings y=2005 | HTTP 404
+2026-03-22 15:04:05 | ERROR | ratings y=2006 | HTTP 404
+2026-03-22 15:04:05 | ERROR | ratings y=2007 | HTTP 404
+2026-03-22 15:04:05 | ERROR | ratings y=2008 | HTTP 404
+2026-03-22 15:04:05 | ERROR | ratings y=2009 | HTTP 404
+2026-03-22 15:04:05 | INFO |   ✓ ratings | 2010 | 347 teams
+2026-03-22 15:04:07 | INFO |   ✓ ratings | 2011 | 345 teams
+2026-03-22 15:04:08 | INFO |   ✓ ratings | 2012 | 345 teams
+2026-03-22 15:04:10 | INFO |   ✓ ratings | 2013 | 347 teams
+2026-03-22 15:04:12 | INFO |   ✓ ratings | 2014 | 351 teams
+2026-03-22 15:04:13 | INFO |   ✓ ratings | 2015 | 351 teams
+2026-03-22 15:04:15 | INFO |   ✓ ratings | 2016 | 351 teams
+2026-03-22 15:04:17 | INFO |   ✓ ratings | 2017 | 351 teams
+2026-03-22 15:04:18 | INFO |   ✓ ratings | 2018 | 351 teams
+2026-03-22 15:04:20 | INFO |   ✓ ratings | 2019 | 353 teams
+2026-03-22 15:04:21 | INFO |   ✓ ratings | 2020 | 353 teams
+2026-03-22 15:04:23 | INFO |   ✓ ratings | 2021 | 357 teams
+2026-03-22 15:04:25 | INFO |   ✓ ratings | 2022 | 358 teams
+2026-03-22 15:04:26 | INFO |   ✓ ratings | 2023 | 363 teams
+2026-03-22 15:04:28 | INFO |   ✓ ratings | 2024 | 362 teams
+2026-03-22 15:04:30 | INFO |   ✓ ratings | 2025 | 364 teams
+2026-03-22 15:04:31 | INFO | Saved ratings | CSV: 1356.0KB | Parquet: 690.8KB
+2026-03-22 15:04:31 | INFO | ──────────────────────────────────────────────────
+2026-03-22 15:04:31 | INFO | Pulling: four-factors
+2026-03-22 15:04:31 | INFO |   ✓ four-factors | 2002 | 327 teams
+2026-03-22 15:04:33 | INFO |   ✓ four-factors | 2003 | 327 teams
+2026-03-22 15:04:35 | INFO |   ✓ four-factors | 2004 | 326 teams
+2026-03-22 15:04:36 | INFO |   ✓ four-factors | 2005 | 330 teams
+2026-03-22 15:04:38 | INFO |   ✓ four-factors | 2006 | 334 teams
+2026-03-22 15:04:39 | INFO |   ✓ four-factors | 2007 | 336 teams
+2026-03-22 15:04:41 | INFO |   ✓ four-factors | 2008 | 341 teams
+2026-03-22 15:04:43 | INFO |   ✓ four-factors | 2009 | 344 teams
+2026-03-22 15:04:44 | INFO |   ✓ four-factors | 2010 | 347 teams
+2026-03-22 15:04:46 | INFO |   ✓ four-factors | 2011 | 345 teams
+2026-03-22 15:04:48 | INFO |   ✓ four-factors | 2012 | 345 teams
+2026-03-22 15:04:49 | INFO |   ✓ four-factors | 2013 | 347 teams
+2026-03-22 15:04:51 | INFO |   ✓ four-factors | 2014 | 351 teams
+2026-03-22 15:04:52 | INFO |   ✓ four-factors | 2015 | 351 teams
+2026-03-22 15:04:54 | INFO |   ✓ four-factors | 2016 | 351 teams
+2026-03-22 15:04:56 | INFO |   ✓ four-factors | 2017 | 351 teams
+2026-03-22 15:04:57 | INFO |   ✓ four-factors | 2018 | 351 teams
+2026-03-22 15:04:59 | INFO |   ✓ four-factors | 2019 | 353 teams
+2026-03-22 15:05:01 | INFO |   ✓ four-factors | 2020 | 353 teams
+2026-03-22 15:05:02 | INFO |   ✓ four-factors | 2021 | 357 teams
+2026-03-22 15:05:04 | INFO |   ✓ four-factors | 2022 | 358 teams
+2026-03-22 15:05:05 | INFO |   ✓ four-factors | 2023 | 363 teams
+2026-03-22 15:05:07 | INFO |   ✓ four-factors | 2024 | 362 teams
+2026-03-22 15:05:09 | INFO |   ✓ four-factors | 2025 | 364 teams
+2026-03-22 15:05:10 | INFO | Saved four_factors | CSV: 1651.0KB | Parquet: 965.8KB
+2026-03-22 15:05:10 | INFO | ──────────────────────────────────────────────────
+2026-03-22 15:05:10 | INFO | Pulling: height
+2026-03-22 15:05:10 | ERROR | height y=2002 | HTTP 404
+2026-03-22 15:05:10 | ERROR | height y=2003 | HTTP 404
+2026-03-22 15:05:10 | ERROR | height y=2004 | HTTP 404
+2026-03-22 15:05:10 | ERROR | height y=2005 | HTTP 404
+2026-03-22 15:05:11 | ERROR | height y=2006 | HTTP 404
+2026-03-22 15:05:11 | INFO |   ✓ height | 2007 | 336 teams
+2026-03-22 15:05:12 | INFO |   ✓ height | 2008 | 341 teams
+2026-03-22 15:05:14 | INFO |   ✓ height | 2009 | 344 teams
+2026-03-22 15:05:15 | INFO |   ✓ height | 2010 | 347 teams
+2026-03-22 15:05:17 | INFO |   ✓ height | 2011 | 345 teams
+2026-03-22 15:05:19 | INFO |   ✓ height | 2012 | 345 teams
+2026-03-22 15:05:20 | INFO |   ✓ height | 2013 | 347 teams
+2026-03-22 15:05:22 | INFO |   ✓ height | 2014 | 351 teams
+2026-03-22 15:05:23 | INFO |   ✓ height | 2015 | 351 teams
+2026-03-22 15:05:25 | INFO |   ✓ height | 2016 | 351 teams
+2026-03-22 15:05:27 | INFO |   ✓ height | 2017 | 351 teams
+2026-03-22 15:05:28 | INFO |   ✓ height | 2018 | 351 teams
+2026-03-22 15:05:30 | INFO |   ✓ height | 2019 | 353 teams
+2026-03-22 15:05:31 | INFO |   ✓ height | 2020 | 353 teams
+2026-03-22 15:05:33 | INFO |   ✓ height | 2021 | 357 teams
+2026-03-22 15:05:34 | INFO |   ✓ height | 2022 | 358 teams
+2026-03-22 15:05:36 | INFO |   ✓ height | 2023 | 363 teams
+2026-03-22 15:05:38 | INFO |   ✓ height | 2024 | 362 teams
+2026-03-22 15:05:39 | INFO |   ✓ height | 2025 | 364 teams
+2026-03-22 15:05:41 | INFO | Saved height | CSV: 874.7KB | Parquet: 284.8KB
+2026-03-22 15:05:41 | INFO | ──────────────────────────────────────────────────
+2026-03-22 15:05:41 | INFO | Pulling: pointdist
+2026-03-22 15:05:41 | INFO |   ✓ pointdist | 2002 | 327 teams
+2026-03-22 15:05:43 | INFO |   ✓ pointdist | 2003 | 327 teams
+2026-03-22 15:05:44 | INFO |   ✓ pointdist | 2004 | 326 teams
+2026-03-22 15:05:46 | INFO |   ✓ pointdist | 2005 | 330 teams
+2026-03-22 15:05:47 | INFO |   ✓ pointdist | 2006 | 334 teams
+2026-03-22 15:05:49 | INFO |   ✓ pointdist | 2007 | 336 teams
+2026-03-22 15:05:50 | INFO |   ✓ pointdist | 2008 | 341 teams
+2026-03-22 15:05:52 | INFO |   ✓ pointdist | 2009 | 344 teams
+2026-03-22 15:05:54 | INFO |   ✓ pointdist | 2010 | 347 teams
+2026-03-22 15:05:55 | INFO |   ✓ pointdist | 2011 | 345 teams
+2026-03-22 15:05:57 | INFO |   ✓ pointdist | 2012 | 345 teams
+2026-03-22 15:05:58 | INFO |   ✓ pointdist | 2013 | 347 teams
+2026-03-22 15:06:00 | INFO |   ✓ pointdist | 2014 | 351 teams
+2026-03-22 15:06:02 | INFO |   ✓ pointdist | 2015 | 351 teams
+2026-03-22 15:06:03 | INFO |   ✓ pointdist | 2016 | 351 teams
+2026-03-22 15:06:05 | INFO |   ✓ pointdist | 2017 | 351 teams
+2026-03-22 15:06:06 | INFO |   ✓ pointdist | 2018 | 351 teams
+2026-03-22 15:06:08 | INFO |   ✓ pointdist | 2019 | 353 teams
+2026-03-22 15:06:09 | INFO |   ✓ pointdist | 2020 | 353 teams
+2026-03-22 15:06:11 | INFO |   ✓ pointdist | 2021 | 357 teams
+2026-03-22 15:06:13 | INFO |   ✓ pointdist | 2022 | 358 teams
+2026-03-22 15:06:14 | INFO |   ✓ pointdist | 2023 | 363 teams
+2026-03-22 15:06:16 | INFO |   ✓ pointdist | 2024 | 362 teams
+2026-03-22 15:06:17 | INFO |   ✓ pointdist | 2025 | 364 teams
+2026-03-22 15:06:19 | INFO | Saved point_dist | CSV: 932.8KB | Parquet: 449.5KB
