@@ -1,0 +1,49 @@
+2026-03-22 20:48:53 | INFO | ══════════════════════════════════════════════════
+2026-03-22 20:48:53 | INFO | Data Cleaning Pipeline
+2026-03-22 20:48:53 | INFO | ══════════════════════════════════════════════════
+2026-03-22 20:48:53 | INFO | Cleaning tournament games...
+2026-03-22 20:48:53 | INFO |   ✓ Loaded MNCAATourneyDetailedResults.csv | (1449, 34)
+2026-03-22 20:48:53 | INFO |   ✓ Loaded MNCAATourneySeeds.csv | (2694, 3)
+2026-03-22 20:48:53 | INFO |   ✓ Loaded MTeams.csv | (381, 4)
+2026-03-22 20:48:53 | INFO |   Upsets: 285/1449 (19.7%)
+2026-03-22 20:48:53 | INFO |   Mapped WTeamName: 180 unique → 180 unique
+2026-03-22 20:48:53 | INFO |   Mapped LTeamName: 273 unique → 273 unique
+2026-03-22 20:48:53 | INFO |   Added key: WTeamSeason (755 unique)
+2026-03-22 20:48:53 | INFO |   Added key: LTeamSeason (1449 unique)
+2026-03-22 20:48:53 | INFO |   Tournament games: (1449, 14)
+2026-03-22 20:48:53 | INFO | Cleaning tournament seeds...
+2026-03-22 20:48:53 | INFO |   ✓ Loaded MNCAATourneySeeds.csv | (2694, 3)
+2026-03-22 20:48:53 | INFO |   ✓ Loaded MTeams.csv | (381, 4)
+2026-03-22 20:48:53 | INFO |   Mapped TeamName: 281 unique → 281 unique
+2026-03-22 20:48:53 | INFO |   Added key: TeamSeason (1605 unique)
+2026-03-22 20:48:53 | INFO |   Tournament seeds: (1605, 6)
+2026-03-22 20:48:53 | INFO | Cleaning KenPom tables...
+2026-03-22 20:48:53 | INFO |   ✓ Loaded four_factors.csv | (8314, 33)
+2026-03-22 20:48:53 | INFO |   Added key: TeamSeason (8314 unique)
+2026-03-22 20:48:53 | INFO |   ✓ Loaded height.csv | (6670, 25)
+2026-03-22 20:48:53 | INFO |   Added key: TeamSeason (6670 unique)
+2026-03-22 20:48:53 | INFO |   ✓ Loaded ratings.csv | (5649, 44)
+2026-03-22 20:48:53 | INFO |   Added key: TeamSeason (5649 unique)
+2026-03-22 20:48:53 | INFO |   ✓ Loaded teams.csv | (8314, 8)
+2026-03-22 20:48:53 | INFO |   Added key: TeamSeason (8314 unique)
+2026-03-22 20:48:53 | INFO | ──────────────────────────────────────────────────
+2026-03-22 20:48:53 | INFO | Verifying team name mappings...
+2026-03-22 20:48:53 | INFO |   ✓ Loaded four_factors.csv | (8314, 33)
+2026-03-22 20:48:53 | INFO |   ✓ All team names match KenPom
+2026-03-22 20:48:53 | INFO |   ✓ Loaded four_factors.csv | (8314, 33)
+2026-03-22 20:48:53 | INFO |   ✓ All team names match KenPom
+2026-03-22 20:48:53 | INFO | ──────────────────────────────────────────────────
+2026-03-22 20:48:53 | INFO | Saving clean data...
+2026-03-22 20:48:53 | INFO | Saved tournament_games | CSV: 118.5KB | Parquet: 44.6KB
+2026-03-22 20:48:53 | INFO | Saved tournament_seeds | CSV: 62.2KB | Parquet: 24.3KB
+2026-03-22 20:48:53 | INFO | Saved four_factors | CSV: 684.7KB | Parquet: 239.4KB
+2026-03-22 20:48:53 | INFO | Saved height | CSV: 480.6KB | Parquet: 167.3KB
+2026-03-22 20:48:53 | INFO | Saved ratings | CSV: 536.0KB | Parquet: 174.8KB
+2026-03-22 20:48:53 | INFO | Saved teams | CSV: 329.0KB | Parquet: 98.4KB
+2026-03-22 20:48:53 | INFO | Saved team_name_mapping | CSV: 2.6KB | Parquet: 4.2KB
+2026-03-22 20:48:53 | INFO | ══════════════════════════════════════════════════
+2026-03-22 20:48:53 | INFO | CLEANING COMPLETE
+2026-03-22 20:48:53 | INFO |   Games:   (1449, 14)
+2026-03-22 20:48:53 | INFO |   Seeds:   (1605, 6)
+2026-03-22 20:48:53 | INFO |   Mapping: 100 entries
+2026-03-22 20:48:53 | INFO | ══════════════════════════════════════════════════

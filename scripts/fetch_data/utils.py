@@ -17,8 +17,9 @@ BASE_URL   = "https://kenpom.com/api.php"
 START_YEAR = 2002
 END_YEAR   = 2025
 DELAY      = 1.5
-RAW_DIR    = "data/raw"
-CLEAN_DIR  = "data/clean"
+PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+RAW_DIR   = os.path.join(PROJECT_ROOT, "data", "raw")
+CLEAN_DIR = os.path.join(PROJECT_ROOT, "data", "clean")
 
 
 def setup_logger(name: str) -> logging.Logger:
