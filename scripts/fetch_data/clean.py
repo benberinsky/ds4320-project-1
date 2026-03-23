@@ -331,6 +331,10 @@ def clean_tournament_games(logger) -> pd.DataFrame:
                    "LScore", "WSeed", "WTeamName", "LSeed",
                    "LTeamName", "Round", "SeedDiff", "Upset",
                    "WTeamSeason", "LTeamSeason"]]
+   
+    # adding surrogate pk
+    games = games.reset_index(drop=True)
+    games.insert(0, "GameID", games.index + 1)
 
     logger.info(f"  Tournament games: {games.shape}")
     return games
