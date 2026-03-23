@@ -1,0 +1,7 @@
+2026-03-22 20:45:17 | INFO | ══════════════════════════════════════════════════
+2026-03-22 20:45:17 | INFO | Data Cleaning Pipeline
+2026-03-22 20:45:17 | INFO | ══════════════════════════════════════════════════
+2026-03-22 20:45:17 | INFO | Cleaning tournament games...
+2026-03-22 20:45:17 | ERROR |   ✗ Not found: data/raw/MNCAATourneyDetailedResults.csv
+2026-03-22 20:45:17 | ERROR |   ✗ Not found: data/raw/MNCAATourneySeeds.csv
+2026-03-22 20:45:17 | ERROR |   ✗ Not found: data/raw/MTeams.csv

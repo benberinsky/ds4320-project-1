@@ -1,1606 +1,1606 @@
-Season,TeamID,TeamName,SeedNum,Region
-2002,1268,Maryland,1,W
-2002,1163,Connecticut,2,W
-2002,1208,Georgia,3,W
-2002,1246,Kentucky,4,W
-2002,1266,Marquette,5,W
-2002,1403,Texas Tech,6,W
-2002,1301,N.C. State,7,W
-2002,1458,Wisconsin,8,W
-2002,1385,St. John's,9,W
-2002,1277,Michigan St.,10,W
-2002,1356,Southern Illinois,11,W
-2002,1409,Tulsa,12,W
-2002,1434,Valparaiso,13,W
-2002,1293,Murray St.,14,W
-2002,1214,Hampton,15,W
-2002,1108,Alcorn St.,16,W
-2002,1373,Siena,16,W
-2002,1242,Kansas,1,X
-2002,1332,Oregon,2,X
-2002,1280,Mississippi St.,3,X
-2002,1228,Illinois,4,X
-2002,1196,Florida,5,X
-2002,1400,Texas,6,X
-2002,1448,Wake Forest,7,X
-2002,1390,Stanford,8,X
-2002,1443,Western Kentucky,9,X
-2002,1337,Pepperdine,10,X
-2002,1130,Boston College,11,X
-2002,1166,Creighton,12,X
-2002,1361,San Diego St.,13,X
-2002,1270,McNeese St.,14,X
-2002,1285,Montana,15,X
-2002,1221,Holy Cross,16,X
-2002,1181,Duke,1,Y
-2002,1104,Alabama,2,Y
-2002,1338,Pittsburgh,3,Y
-2002,1425,USC,4,Y
-2002,1231,Indiana,5,Y
-2002,1143,California,6,Y
-2002,1329,Oklahoma St.,7,Y
-2002,1323,Notre Dame,8,Y
-2002,1150,Charlotte,9,Y
-2002,1245,Kent St.,10,Y
-2002,1335,Penn,11,Y
-2002,1428,Utah,12,Y
-2002,1423,UNC Wilmington,13,Y
-2002,1148,Central Connecticut,14,Y
-2002,1194,Florida Atlantic,15,Y
-2002,1457,Winthrop,16,Y
-2002,1153,Cincinnati,1,Z
-2002,1328,Oklahoma,2,Z
-2002,1112,Arizona,3,Z
-2002,1326,Ohio St.,4,Z
-2002,1274,Miami FL,5,Z
-2002,1211,Gonzaga,6,Z
-2002,1462,Xavier,7,Z
-2002,1417,UCLA,8,Z
-2002,1279,Mississippi,9,Z
-2002,1218,Hawaii,10,Z
-2002,1461,Wyoming,11,Z
-2002,1281,Missouri,12,Z
-2002,1172,Davidson,13,Z
-2002,1364,UC Santa Barbara,14,Z
-2002,1227,Illinois Chicago,15,Z
-2002,1131,Boston University,16,Z
-2003,1328,Oklahoma,1,W
-2003,1448,Wake Forest,2,W
-2003,1393,Syracuse,3,W
-2003,1257,Louisville,4,W
-2003,1280,Mississippi St.,5,W
-2003,1329,Oklahoma St.,6,W
-2003,1386,Saint Joseph's,7,W
-2003,1143,California,8,W
-2003,1301,N.C. State,9,W
-2003,1120,Auburn,10,W
-2003,1335,Penn,11,W
-2003,1139,Butler,12,W
-2003,1122,Austin Peay,13,W
-2003,1264,Manhattan,14,W
-2003,1190,East Tennessee St.,15,W
-2003,1354,South Carolina St.,16,W
-2003,1400,Texas,1,X
-2003,1196,Florida,2,X
-2003,1462,Xavier,3,X
-2003,1390,Stanford,4,X
-2003,1163,Connecticut,5,X
-2003,1268,Maryland,6,X
-2003,1277,Michigan St.,7,X
-2003,1261,LSU,8,X
-2003,1345,Purdue,9,X
-2003,1160,Colorado,10,X
-2003,1423,UNC Wilmington,11,X
-2003,1140,BYU,12,X
-2003,1360,San Diego,13,X
-2003,1407,Troy,14,X
-2003,1358,Sam Houston St.,15,X
-2003,1411,Texas Southern,16,X
-2003,1421,UNC Asheville,16,X
-2003,1246,Kentucky,1,Y
-2003,1338,Pittsburgh,2,Y
-2003,1266,Marquette,3,Y
-2003,1173,Dayton,4,Y
-2003,1458,Wisconsin,5,Y
-2003,1281,Missouri,6,Y
-2003,1231,Indiana,7,Y
-2003,1332,Oregon,8,Y
-2003,1428,Utah,9,Y
-2003,1104,Alabama,10,Y
-2003,1356,Southern Illinois,11,Y
-2003,1451,Weber St.,12,Y
-2003,1409,Tulsa,13,Y
-2003,1221,Holy Cross,14,Y
-2003,1447,Wagner,15,Y
-2003,1237,IUPUI,16,Y
-2003,1112,Arizona,1,Z
-2003,1242,Kansas,2,Z
-2003,1181,Duke,3,Z
-2003,1228,Illinois,4,Z
-2003,1323,Notre Dame,5,Z
-2003,1166,Creighton,6,Z
-2003,1272,Memphis,7,Z
-2003,1153,Cincinnati,8,Z
-2003,1211,Gonzaga,9,Z
-2003,1113,Arizona St.,10,Z
-2003,1141,Central Michigan,11,Z
-2003,1454,Milwaukee,12,Z
-2003,1443,Western Kentucky,13,Z
-2003,1161,Colorado St.,14,Z
-2003,1429,Utah St.,15,Z
-2003,1436,Vermont,16,Z
-2004,1181,Duke,1,W
-2004,1280,Mississippi St.,2,W
-2004,1400,Texas,3,W
-2004,1153,Cincinnati,4,W
-2004,1228,Illinois,5,W
-2004,1314,North Carolina,6,W
-2004,1462,Xavier,7,W
-2004,1371,Seton Hall,8,W
-2004,1112,Arizona,9,W
-2004,1257,Louisville,10,W
-2004,1102,Air Force,11,W
-2004,1293,Murray St.,12,W
-2004,1190,East Tennessee St.,13,W
-2004,1343,Princeton,14,W
-2004,1284,Monmouth,15,W
-2004,1106,Alabama St.,16,W
-2004,1390,Stanford,1,X
-2004,1163,Connecticut,2,X
-2004,1301,N.C. State,3,X
-2004,1268,Maryland,4,X
-2004,1393,Syracuse,5,X
-2004,1435,Vanderbilt,6,X
-2004,1177,DePaul,7,X
-2004,1104,Alabama,8,X
-2004,1356,Southern Illinois,9,X
-2004,1173,Dayton,10,X
-2004,1444,Western Michigan,11,X
-2004,1140,BYU,12,X
-2004,1431,UTEP,13,X
-2004,1418,Louisiana,14,X
-2004,1436,Vermont,15,X
-2004,1427,UTSA,16,X
-2004,1386,Saint Joseph's,1,Y
-2004,1329,Oklahoma St.,2,Y
-2004,1338,Pittsburgh,3,Y
-2004,1448,Wake Forest,4,Y
-2004,1196,Florida,5,Y
-2004,1458,Wisconsin,6,Y
-2004,1272,Memphis,7,Y
-2004,1403,Texas Tech,8,Y
-2004,1150,Charlotte,9,Y
-2004,1376,South Carolina,10,Y
-2004,1350,Richmond,11,Y
-2004,1264,Manhattan,12,Y
-2004,1433,VCU,13,Y
-2004,1416,UCF,14,Y
-2004,1186,Eastern Washington,15,Y
-2004,1251,Liberty,16,Y
-2004,1246,Kentucky,1,Z
-2004,1211,Gonzaga,2,Z
-2004,1210,Georgia Tech,3,Z
-2004,1242,Kansas,4,Z
-2004,1344,Providence,5,Z
-2004,1130,Boston College,6,Z
-2004,1277,Michigan St.,7,Z
-2004,1449,Washington,8,Z
-2004,1412,UAB,9,Z
-2004,1305,Nevada,10,Z
-2004,1428,Utah,11,Z
-2004,1334,Pacific,12,Z
-2004,1227,Illinois Chicago,13,Z
-2004,1320,Northern Iowa,14,Z
-2004,1434,Valparaiso,15,Z
-2004,1197,Florida A&M,16,Z
-2004,1250,Lehigh,16,Z
-2005,1449,Washington,1,W
-2005,1448,Wake Forest,2,W
-2005,1211,Gonzaga,3,W
-2005,1257,Louisville,4,W
-2005,1210,Georgia Tech,5,W
-2005,1403,Texas Tech,6,W
-2005,1452,West Virginia,7,W
-2005,1334,Pacific,8,W
-2005,1338,Pittsburgh,9,W
-2005,1166,Creighton,10,W
-2005,1417,UCLA,11,W
-2005,1203,George Washington,12,W
-2005,1418,Louisiana,13,W
-2005,1457,Winthrop,14,W
-2005,1151,Chattanooga,15,W
-2005,1285,Montana,16,W
-2005,1228,Illinois,1,X
-2005,1329,Oklahoma St.,2,X
-2005,1112,Arizona,3,X
-2005,1130,Boston College,4,X
-2005,1104,Alabama,5,X
-2005,1261,LSU,6,X
-2005,1356,Southern Illinois,7,X
-2005,1400,Texas,8,X
-2005,1305,Nevada,9,X
-2005,1388,Saint Mary's,10,X
-2005,1412,UAB,11,X
-2005,1454,Milwaukee,12,X
-2005,1335,Penn,13,X
-2005,1429,Utah St.,14,X
-2005,1368,Southeastern Louisiana,15,X
-2005,1192,Fairleigh Dickinson,16,X
-2005,1181,Duke,1,Y
-2005,1246,Kentucky,2,Y
-2005,1328,Oklahoma,3,Y
-2005,1393,Syracuse,4,Y
-2005,1277,Michigan St.,5,Y
-2005,1428,Utah,6,Y
-2005,1153,Cincinnati,7,Y
-2005,1390,Stanford,8,Y
-2005,1280,Mississippi St.,9,Y
-2005,1234,Iowa,10,Y
-2005,1431,UTEP,11,Y
-2005,1330,Old Dominion,12,Y
-2005,1436,Vermont,13,Y
-2005,1310,Niagara,14,Y
-2005,1184,Eastern Kentucky,15,Y
-2005,1175,Delaware St.,16,Y
-2005,1314,North Carolina,1,Z
-2005,1163,Connecticut,2,Z
-2005,1242,Kansas,3,Z
-2005,1196,Florida,4,Z
-2005,1437,Villanova,5,Z
-2005,1458,Wisconsin,6,Z
-2005,1150,Charlotte,7,Z
-2005,1278,Minnesota,8,Z
-2005,1235,Iowa St.,9,Z
-2005,1301,N.C. State,10,Z
-2005,1320,Northern Iowa,11,Z
-2005,1307,New Mexico,12,Z
-2005,1325,Ohio,13,Z
-2005,1137,Bucknell,14,Z
-2005,1416,UCF,15,Z
-2005,1105,Alabama A&M,16,Z
-2005,1324,Oakland,16,Z
-2006,1181,Duke,1,W
-2006,1400,Texas,2,W
-2006,1234,Iowa,3,W
-2006,1261,LSU,4,W
-2006,1393,Syracuse,5,W
-2006,1452,West Virginia,6,W
-2006,1143,California,7,W
-2006,1203,George Washington,8,W
-2006,1423,UNC Wilmington,9,W
-2006,1301,N.C. State,10,W
-2006,1356,Southern Illinois,11,W
-2006,1401,Texas A&M,12,W
-2006,1233,Iona,13,W
-2006,1322,Northwestern St.,14,W
-2006,1335,Penn,15,W
-2006,1380,Southern,16,W
-2006,1272,Memphis,1,X
-2006,1417,UCLA,2,X
-2006,1211,Gonzaga,3,X
-2006,1242,Kansas,4,X
-2006,1338,Pittsburgh,5,X
-2006,1231,Indiana,6,X
-2006,1266,Marquette,7,X
-2006,1116,Arkansas,8,X
-2006,1137,Bucknell,9,X
-2006,1104,Alabama,10,X
-2006,1361,San Diego St.,11,X
-2006,1245,Kent St.,12,X
-2006,1133,Bradley,13,X
-2006,1462,Xavier,14,X
-2006,1125,Belmont,15,X
-2006,1331,Oral Roberts,16,X
-2006,1437,Villanova,1,Y
-2006,1326,Ohio St.,2,Y
-2006,1196,Florida,3,Y
-2006,1130,Boston College,4,Y
-2006,1305,Nevada,5,Y
-2006,1328,Oklahoma,6,Y
-2006,1207,Georgetown,7,Y
-2006,1112,Arizona,8,Y
-2006,1458,Wisconsin,9,Y
-2006,1320,Northern Iowa,10,Y
-2006,1454,Milwaukee,11,Y
-2006,1285,Montana,12,Y
-2006,1334,Pacific,13,Y
-2006,1375,South Alabama,14,Y
-2006,1172,Davidson,15,Y
-2006,1214,Hampton,16,Y
-2006,1284,Monmouth,16,Y
-2006,1163,Connecticut,1,Z
-2006,1397,Tennessee,2,Z
-2006,1314,North Carolina,3,Z
-2006,1228,Illinois,4,Z
-2006,1449,Washington,5,Z
-2006,1277,Michigan St.,6,Z
-2006,1455,Wichita St.,7,Z
-2006,1246,Kentucky,8,Z
-2006,1412,UAB,9,Z
-2006,1371,Seton Hall,10,Z
-2006,1206,George Mason,11,Z
-2006,1429,Utah St.,12,Z
-2006,1102,Air Force,13,Z
-2006,1293,Murray St.,14,Z
-2006,1457,Winthrop,15,Z
-2006,1107,Albany,16,Z
-2007,1314,North Carolina,1,W
-2007,1207,Georgetown,2,W
-2007,1450,Washington St.,3,W
-2007,1400,Texas,4,W
-2007,1425,USC,5,W
-2007,1435,Vanderbilt,6,W
-2007,1130,Boston College,7,W
-2007,1266,Marquette,8,W
-2007,1277,Michigan St.,9,W
-2007,1403,Texas Tech,10,W
-2007,1203,George Washington,11,W
-2007,1116,Arkansas,12,W
-2007,1308,New Mexico St.,13,W
-2007,1331,Oral Roberts,14,W
-2007,1125,Belmont,15,W
-2007,1184,Eastern Kentucky,16,W
-2007,1326,Ohio St.,1,X
-2007,1272,Memphis,2,X
-2007,1401,Texas A&M,3,X
-2007,1438,Virginia,4,X
-2007,1397,Tennessee,5,X
-2007,1257,Louisville,6,X
-2007,1305,Nevada,7,X
-2007,1140,BYU,8,X
-2007,1462,Xavier,9,X
-2007,1166,Creighton,10,X
-2007,1390,Stanford,11,X
-2007,1253,Long Beach St.,12,X
-2007,1107,Albany,13,X
-2007,1335,Penn,14,X
-2007,1317,North Texas,15,X
-2007,1148,Central Connecticut,16,X
-2007,1196,Florida,1,Y
-2007,1458,Wisconsin,2,Y
-2007,1332,Oregon,3,Y
-2007,1268,Maryland,4,Y
-2007,1139,Butler,5,Y
-2007,1323,Notre Dame,6,Y
-2007,1424,UNLV,7,Y
-2007,1112,Arizona,8,Y
-2007,1345,Purdue,9,Y
-2007,1210,Georgia Tech,10,Y
-2007,1457,Winthrop,11,Y
-2007,1330,Old Dominion,12,Y
-2007,1172,Davidson,13,Y
-2007,1275,Miami OH,14,Y
-2007,1394,Texas A&M Corpus Chris,15,Y
-2007,1238,Jackson St.,16,Y
-2007,1242,Kansas,1,Z
-2007,1417,UCLA,2,Z
-2007,1338,Pittsburgh,3,Z
-2007,1356,Southern Illinois,4,Z
-2007,1439,Virginia Tech,5,Z
-2007,1181,Duke,6,Z
-2007,1231,Indiana,7,Z
-2007,1246,Kentucky,8,Z
-2007,1437,Villanova,9,Z
-2007,1211,Gonzaga,10,Z
-2007,1433,VCU,11,Z
-2007,1228,Illinois,12,Z
-2007,1221,Holy Cross,13,Z
-2007,1460,Wright St.,14,Z
-2007,1451,Weber St.,15,Z
-2007,1197,Florida A&M,16,Z
-2007,1310,Niagara,16,Z
-2008,1314,North Carolina,1,W
-2008,1397,Tennessee,2,W
-2008,1257,Louisville,3,W
-2008,1450,Washington St.,4,W
-2008,1323,Notre Dame,5,W
-2008,1328,Oklahoma,6,W
-2008,1139,Butler,7,W
-2008,1231,Indiana,8,W
-2008,1116,Arkansas,9,W
-2008,1375,South Alabama,10,W
-2008,1386,Saint Joseph's,11,W
-2008,1206,George Mason,12,W
-2008,1457,Winthrop,13,W
-2008,1129,Boise St.,14,W
-2008,1110,American,15,W
-2008,1164,Coppin St.,16,W
-2008,1291,Mount St. Mary's,16,W
-2008,1242,Kansas,1,X
-2008,1207,Georgetown,2,X
-2008,1458,Wisconsin,3,X
-2008,1435,Vanderbilt,4,X
-2008,1155,Clemson,5,X
-2008,1425,USC,6,X
-2008,1211,Gonzaga,7,X
-2008,1424,UNLV,8,X
-2008,1245,Kent St.,9,X
-2008,1172,Davidson,10,X
-2008,1243,Kansas St.,11,X
-2008,1437,Villanova,12,X
-2008,1373,Siena,13,X
-2008,1168,Cal St. Fullerton,14,X
-2008,1420,UMBC,15,X
-2008,1340,Portland St.,16,X
-2008,1272,Memphis,1,Y
-2008,1400,Texas,2,Y
-2008,1390,Stanford,3,Y
-2008,1338,Pittsburgh,4,Y
-2008,1277,Michigan St.,5,Y
-2008,1266,Marquette,6,Y
-2008,1274,Miami FL,7,Y
-2008,1280,Mississippi St.,8,Y
-2008,1332,Oregon,9,Y
-2008,1388,Saint Mary's,10,Y
-2008,1246,Kentucky,11,Y
-2008,1396,Temple,12,Y
-2008,1331,Oral Roberts,13,Y
-2008,1165,Cornell,14,Y
-2008,1122,Austin Peay,15,Y
-2008,1426,UT Arlington,16,Y
-2008,1417,UCLA,1,Z
-2008,1181,Duke,2,Z
-2008,1462,Xavier,3,Z
-2008,1163,Connecticut,4,Z
-2008,1179,Drake,5,Z
-2008,1345,Purdue,6,Z
-2008,1452,West Virginia,7,Z
-2008,1140,BYU,8,Z
-2008,1401,Texas A&M,9,Z
-2008,1112,Arizona,10,Z
-2008,1124,Baylor,11,Z
-2008,1443,Western Kentucky,12,Z
-2008,1360,San Diego,13,Z
-2008,1208,Georgia,14,Z
-2008,1125,Belmont,15,Z
-2008,1290,Mississippi Valley St.,16,Z
-2009,1338,Pittsburgh,1,W
-2009,1181,Duke,2,W
-2009,1437,Villanova,3,W
-2009,1462,Xavier,4,W
-2009,1199,Florida St.,5,W
-2009,1417,UCLA,6,W
-2009,1400,Texas,7,W
-2009,1329,Oklahoma St.,8,W
-2009,1397,Tennessee,9,W
-2009,1278,Minnesota,10,W
-2009,1433,VCU,11,W
-2009,1458,Wisconsin,12,W
-2009,1340,Portland St.,13,W
-2009,1110,American,14,W
-2009,1127,Binghamton,15,W
-2009,1190,East Tennessee St.,16,W
-2009,1314,North Carolina,1,X
-2009,1328,Oklahoma,2,X
-2009,1393,Syracuse,3,X
-2009,1211,Gonzaga,4,X
-2009,1228,Illinois,5,X
-2009,1113,Arizona St.,6,X
-2009,1155,Clemson,7,X
-2009,1261,LSU,8,X
-2009,1139,Butler,9,X
-2009,1276,Michigan,10,X
-2009,1396,Temple,11,X
-2009,1443,Western Kentucky,12,X
-2009,1103,Akron,13,X
-2009,1372,Stephen F. Austin,14,X
-2009,1288,Morgan St.,15,X
-2009,1347,Radford,16,X
-2009,1257,Louisville,1,Y
-2009,1277,Michigan St.,2,Y
-2009,1242,Kansas,3,Y
-2009,1448,Wake Forest,4,Y
-2009,1428,Utah,5,Y
-2009,1452,West Virginia,6,Y
-2009,1130,Boston College,7,Y
-2009,1326,Ohio St.,8,Y
-2009,1373,Siena,9,Y
-2009,1425,USC,10,Y
-2009,1173,Dayton,11,Y
-2009,1112,Arizona,12,Y
-2009,1156,Cleveland St.,13,Y
-2009,1295,North Dakota St.,14,Y
-2009,1352,Robert Morris,15,Y
-2009,1106,Alabama St.,16,Y
-2009,1287,Morehead St.,16,Y
-2009,1163,Connecticut,1,Z
-2009,1272,Memphis,2,Z
-2009,1281,Missouri,3,Z
-2009,1449,Washington,4,Z
-2009,1345,Purdue,5,Z
-2009,1266,Marquette,6,Z
-2009,1143,California,7,Z
-2009,1140,BYU,8,Z
-2009,1401,Texas A&M,9,Z
-2009,1268,Maryland,10,Z
-2009,1429,Utah St.,11,Z
-2009,1320,Northern Iowa,12,Z
-2009,1280,Mississippi St.,13,Z
-2009,1165,Cornell,14,Z
-2009,1169,Cal St. Northridge,15,Z
-2009,1151,Chattanooga,16,Z
-2010,1246,Kentucky,1,W
-2010,1452,West Virginia,2,W
-2010,1307,New Mexico,3,W
-2010,1458,Wisconsin,4,W
-2010,1396,Temple,5,W
-2010,1266,Marquette,6,W
-2010,1155,Clemson,7,W
-2010,1400,Texas,8,W
-2010,1448,Wake Forest,9,W
-2010,1281,Missouri,10,W
-2010,1449,Washington,11,W
-2010,1165,Cornell,12,W
-2010,1459,Wofford,13,W
-2010,1285,Montana,14,W
-2010,1288,Morgan St.,15,W
-2010,1190,East Tennessee St.,16,W
-2010,1181,Duke,1,X
-2010,1437,Villanova,2,X
-2010,1124,Baylor,3,X
-2010,1345,Purdue,4,X
-2010,1401,Texas A&M,5,X
-2010,1323,Notre Dame,6,X
-2010,1350,Richmond,7,X
-2010,1143,California,8,X
-2010,1257,Louisville,9,X
-2010,1388,Saint Mary's,10,X
-2010,1330,Old Dominion,11,X
-2010,1429,Utah St.,12,X
-2010,1373,Siena,13,X
-2010,1358,Sam Houston St.,14,X
-2010,1352,Robert Morris,15,X
-2010,1115,Arkansas Pine Bluff,16,X
-2010,1457,Winthrop,16,X
-2010,1242,Kansas,1,Y
-2010,1326,Ohio St.,2,Y
-2010,1207,Georgetown,3,Y
-2010,1268,Maryland,4,Y
-2010,1277,Michigan St.,5,Y
-2010,1397,Tennessee,6,Y
-2010,1329,Oklahoma St.,7,Y
-2010,1424,UNLV,8,Y
-2010,1320,Northern Iowa,9,Y
-2010,1210,Georgia Tech,10,Y
-2010,1361,San Diego St.,11,Y
-2010,1308,New Mexico St.,12,Y
-2010,1222,Houston,13,Y
-2010,1325,Ohio,14,Y
-2010,1364,UC Santa Barbara,15,Y
-2010,1250,Lehigh,16,Y
-2010,1393,Syracuse,1,Z
-2010,1243,Kansas St.,2,Z
-2010,1338,Pittsburgh,3,Z
-2010,1435,Vanderbilt,4,Z
-2010,1139,Butler,5,Z
-2010,1462,Xavier,6,Z
-2010,1140,BYU,7,Z
-2010,1211,Gonzaga,8,Z
-2010,1199,Florida St.,9,Z
-2010,1196,Florida,10,Z
-2010,1278,Minnesota,11,Z
-2010,1431,UTEP,12,Z
-2010,1293,Murray St.,13,Z
-2010,1324,Oakland,14,Z
-2010,1317,North Texas,15,Z
-2010,1436,Vermont,16,Z
-2011,1326,Ohio St.,1,W
-2011,1314,North Carolina,2,W
-2011,1393,Syracuse,3,W
-2011,1246,Kentucky,4,W
-2011,1452,West Virginia,5,W
-2011,1462,Xavier,6,W
-2011,1449,Washington,7,W
-2011,1206,George Mason,8,W
-2011,1437,Villanova,9,W
-2011,1208,Georgia,10,W
-2011,1266,Marquette,11,W
-2011,1155,Clemson,12,W
-2011,1412,UAB,12,W
-2011,1343,Princeton,13,W
-2011,1232,Indiana St.,14,W
-2011,1254,LIU Brooklyn,15,W
-2011,1106,Alabama St.,16,W
-2011,1427,UTSA,16,W
-2011,1181,Duke,1,X
-2011,1361,San Diego St.,2,X
-2011,1163,Connecticut,3,X
-2011,1400,Texas,4,X
-2011,1112,Arizona,5,X
-2011,1153,Cincinnati,6,X
-2011,1396,Temple,7,X
-2011,1276,Michigan,8,X
-2011,1397,Tennessee,9,X
-2011,1336,Penn St.,10,X
-2011,1281,Missouri,11,X
-2011,1272,Memphis,12,X
-2011,1324,Oakland,13,X
-2011,1137,Bucknell,14,X
-2011,1294,Northern Colorado,15,X
-2011,1214,Hampton,16,X
-2011,1338,Pittsburgh,1,Y
-2011,1196,Florida,2,Y
-2011,1140,BYU,3,Y
-2011,1458,Wisconsin,4,Y
-2011,1243,Kansas St.,5,Y
-2011,1385,St. John's,6,Y
-2011,1417,UCLA,7,Y
-2011,1139,Butler,8,Y
-2011,1330,Old Dominion,9,Y
-2011,1277,Michigan St.,10,Y
-2011,1211,Gonzaga,11,Y
-2011,1429,Utah St.,12,Y
-2011,1125,Belmont,13,Y
-2011,1459,Wofford,14,Y
-2011,1364,UC Santa Barbara,15,Y
-2011,1114,Little Rock,16,Y
-2011,1421,UNC Asheville,16,Y
-2011,1242,Kansas,1,Z
-2011,1323,Notre Dame,2,Z
-2011,1345,Purdue,3,Z
-2011,1257,Louisville,4,Z
-2011,1435,Vanderbilt,5,Z
-2011,1207,Georgetown,6,Z
-2011,1401,Texas A&M,7,Z
-2011,1424,UNLV,8,Z
-2011,1228,Illinois,9,Z
-2011,1199,Florida St.,10,Z
-2011,1425,USC,11,Z
-2011,1433,VCU,11,Z
-2011,1350,Richmond,12,Z
-2011,1287,Morehead St.,13,Z
-2011,1389,Saint Peter's,14,Z
-2011,1103,Akron,15,Z
-2011,1131,Boston University,16,Z
-2012,1393,Syracuse,1,W
-2012,1326,Ohio St.,2,W
-2012,1199,Florida St.,3,W
-2012,1458,Wisconsin,4,W
-2012,1435,Vanderbilt,5,W
-2012,1153,Cincinnati,6,W
-2012,1211,Gonzaga,7,W
-2012,1243,Kansas St.,8,W
-2012,1379,Southern Miss,9,W
-2012,1452,West Virginia,10,W
-2012,1400,Texas,11,W
-2012,1217,Harvard,12,W
-2012,1285,Montana,13,W
-2012,1382,St. Bonaventure,14,W
-2012,1259,Loyola MD,15,W
-2012,1421,UNC Asheville,16,W
-2012,1314,North Carolina,1,X
-2012,1242,Kansas,2,X
-2012,1207,Georgetown,3,X
-2012,1276,Michigan,4,X
-2012,1396,Temple,5,X
-2012,1361,San Diego St.,6,X
-2012,1388,Saint Mary's,7,X
-2012,1166,Creighton,8,X
-2012,1104,Alabama,9,X
-2012,1345,Purdue,10,X
-2012,1301,N.C. State,11,X
-2012,1143,California,12,X
-2012,1378,South Florida,12,X
-2012,1325,Ohio,13,X
-2012,1125,Belmont,14,X
-2012,1178,Detroit,15,X
-2012,1249,Lamar,16,X
-2012,1436,Vermont,16,X
-2012,1246,Kentucky,1,Y
-2012,1181,Duke,2,Y
-2012,1124,Baylor,3,Y
-2012,1231,Indiana,4,Y
-2012,1455,Wichita St.,5,Y
-2012,1424,UNLV,6,Y
-2012,1323,Notre Dame,7,Y
-2012,1235,Iowa St.,8,Y
-2012,1163,Connecticut,9,Y
-2012,1462,Xavier,10,Y
-2012,1160,Colorado,11,Y
-2012,1433,VCU,12,Y
-2012,1308,New Mexico St.,13,Y
-2012,1355,South Dakota St.,14,Y
-2012,1250,Lehigh,15,Y
-2012,1290,Mississippi Valley St.,16,Y
-2012,1443,Western Kentucky,16,Y
-2012,1277,Michigan St.,1,Z
-2012,1281,Missouri,2,Z
-2012,1266,Marquette,3,Z
-2012,1257,Louisville,4,Z
-2012,1307,New Mexico,5,Z
-2012,1293,Murray St.,6,Z
-2012,1196,Florida,7,Z
-2012,1272,Memphis,8,Z
-2012,1387,Saint Louis,9,Z
-2012,1438,Virginia,10,Z
-2012,1161,Colorado St.,11,Z
-2012,1253,Long Beach St.,12,Z
-2012,1172,Davidson,13,Z
-2012,1140,BYU,14,Z
-2012,1233,Iona,14,Z
-2012,1313,Norfolk St.,15,Z
-2012,1254,LIU Brooklyn,16,Z
-2013,1231,Indiana,1,W
-2013,1274,Miami FL,2,W
-2013,1266,Marquette,3,W
-2013,1393,Syracuse,4,W
-2013,1424,UNLV,5,W
-2013,1139,Butler,6,W
-2013,1228,Illinois,7,W
-2013,1301,N.C. State,8,W
-2013,1396,Temple,9,W
-2013,1160,Colorado,10,W
-2013,1137,Bucknell,11,W
-2013,1143,California,12,W
-2013,1285,Montana,13,W
-2013,1172,Davidson,14,W
-2013,1334,Pacific,15,W
-2013,1241,James Madison,16,W
-2013,1254,LIU Brooklyn,16,W
-2013,1242,Kansas,1,X
-2013,1207,Georgetown,2,X
-2013,1196,Florida,3,X
-2013,1276,Michigan,4,X
-2013,1433,VCU,5,X
-2013,1417,UCLA,6,X
-2013,1361,San Diego St.,7,X
-2013,1314,North Carolina,8,X
-2013,1437,Villanova,9,X
-2013,1328,Oklahoma,10,X
-2013,1278,Minnesota,11,X
-2013,1103,Akron,12,X
-2013,1355,South Dakota St.,13,X
-2013,1322,Northwestern St.,14,X
-2013,1195,Florida Gulf Coast,15,X
-2013,1443,Western Kentucky,16,X
-2013,1257,Louisville,1,Y
-2013,1181,Duke,2,Y
-2013,1277,Michigan St.,3,Y
-2013,1387,Saint Louis,4,Y
-2013,1329,Oklahoma St.,5,Y
-2013,1272,Memphis,6,Y
-2013,1166,Creighton,7,Y
-2013,1161,Colorado St.,8,Y
-2013,1281,Missouri,9,Y
-2013,1153,Cincinnati,10,Y
-2013,1292,Middle Tennessee,11,Y
-2013,1388,Saint Mary's,11,Y
-2013,1332,Oregon,12,Y
-2013,1308,New Mexico St.,13,Y
-2013,1434,Valparaiso,14,Y
-2013,1107,Albany,15,Y
-2013,1251,Liberty,16,Y
-2013,1299,North Carolina A&T,16,Y
-2013,1211,Gonzaga,1,Z
-2013,1326,Ohio St.,2,Z
-2013,1307,New Mexico,3,Z
-2013,1243,Kansas St.,4,Z
-2013,1458,Wisconsin,5,Z
-2013,1112,Arizona,6,Z
-2013,1323,Notre Dame,7,Z
-2013,1338,Pittsburgh,8,Z
-2013,1455,Wichita St.,9,Z
-2013,1235,Iowa St.,10,Z
-2013,1125,Belmont,11,Z
-2013,1279,Mississippi,12,Z
-2013,1129,Boise St.,13,Z
-2013,1247,La Salle,13,Z
-2013,1217,Harvard,14,Z
-2013,1233,Iona,15,Z
-2013,1380,Southern,16,Z
-2014,1438,Virginia,1,W
-2014,1437,Villanova,2,W
-2014,1235,Iowa St.,3,W
-2014,1277,Michigan St.,4,W
-2014,1153,Cincinnati,5,W
-2014,1314,North Carolina,6,W
-2014,1163,Connecticut,7,W
-2014,1272,Memphis,8,W
-2014,1203,George Washington,9,W
-2014,1386,Saint Joseph's,10,W
-2014,1344,Providence,11,W
-2014,1217,Harvard,12,W
-2014,1174,Delaware,13,W
-2014,1300,North Carolina Central,14,W
-2014,1454,Milwaukee,15,W
-2014,1157,Coastal Carolina,16,W
-2014,1196,Florida,1,X
-2014,1242,Kansas,2,X
-2014,1393,Syracuse,3,X
-2014,1417,UCLA,4,X
-2014,1433,VCU,5,X
-2014,1326,Ohio St.,6,X
-2014,1307,New Mexico,7,X
-2014,1160,Colorado,8,X
-2014,1338,Pittsburgh,9,X
-2014,1390,Stanford,10,X
-2014,1173,Dayton,11,X
-2014,1372,Stephen F. Austin,12,X
-2014,1409,Tulsa,13,X
-2014,1444,Western Michigan,14,X
-2014,1184,Eastern Kentucky,15,X
-2014,1107,Albany,16,X
-2014,1291,Mount St. Mary's,16,X
-2014,1455,Wichita St.,1,Y
-2014,1276,Michigan,2,Y
-2014,1181,Duke,3,Y
-2014,1257,Louisville,4,Y
-2014,1387,Saint Louis,5,Y
-2014,1269,Massachusetts,6,Y
-2014,1400,Texas,7,Y
-2014,1246,Kentucky,8,Y
-2014,1243,Kansas St.,9,Y
-2014,1113,Arizona St.,10,Y
-2014,1234,Iowa,11,Y
-2014,1397,Tennessee,11,Y
-2014,1301,N.C. State,12,Y
-2014,1462,Xavier,12,Y
-2014,1264,Manhattan,13,Y
-2014,1273,Mercer,14,Y
-2014,1459,Wofford,15,Y
-2014,1142,Cal Poly,16,Y
-2014,1411,Texas Southern,16,Y
-2014,1112,Arizona,1,Z
-2014,1458,Wisconsin,2,Z
-2014,1166,Creighton,3,Z
-2014,1361,San Diego St.,4,Z
-2014,1328,Oklahoma,5,Z
-2014,1124,Baylor,6,Z
-2014,1332,Oregon,7,Z
-2014,1211,Gonzaga,8,Z
-2014,1329,Oklahoma St.,9,Z
-2014,1140,BYU,10,Z
-2014,1304,Nebraska,11,Z
-2014,1295,North Dakota St.,12,Z
-2014,1308,New Mexico St.,13,Z
-2014,1418,Louisiana,14,Z
-2014,1110,American,15,Z
-2014,1451,Weber St.,16,Z
-2015,1437,Villanova,1,W
-2015,1438,Virginia,2,W
-2015,1328,Oklahoma,3,W
-2015,1257,Louisville,4,W
-2015,1320,Northern Iowa,5,W
-2015,1344,Providence,6,W
-2015,1277,Michigan St.,7,W
-2015,1301,N.C. State,8,W
-2015,1261,LSU,9,W
-2015,1208,Georgia,10,W
-2015,1129,Boise St.,11,W
-2015,1173,Dayton,11,W
-2015,1461,Wyoming,12,W
-2015,1414,UC Irvine,13,W
-2015,1107,Albany,14,W
-2015,1125,Belmont,15,W
-2015,1248,Lafayette,16,W
-2015,1181,Duke,1,X
-2015,1211,Gonzaga,2,X
-2015,1235,Iowa St.,3,X
-2015,1207,Georgetown,4,X
-2015,1428,Utah,5,X
-2015,1374,SMU,6,X
-2015,1234,Iowa,7,X
-2015,1361,San Diego St.,8,X
-2015,1385,St. John's,9,X
-2015,1172,Davidson,10,X
-2015,1417,UCLA,11,X
-2015,1372,Stephen F. Austin,12,X
-2015,1186,Eastern Washington,13,X
-2015,1412,UAB,14,X
-2015,1295,North Dakota St.,15,X
-2015,1316,North Florida,16,X
-2015,1352,Robert Morris,16,X
-2015,1246,Kentucky,1,Y
-2015,1242,Kansas,2,Y
-2015,1323,Notre Dame,3,Y
-2015,1268,Maryland,4,Y
-2015,1452,West Virginia,5,Y
-2015,1139,Butler,6,Y
-2015,1455,Wichita St.,7,Y
-2015,1153,Cincinnati,8,Y
-2015,1345,Purdue,9,Y
-2015,1231,Indiana,10,Y
-2015,1400,Texas,11,Y
-2015,1138,Buffalo,12,Y
-2015,1434,Valparaiso,13,Y
-2015,1318,Northeastern,14,Y
-2015,1308,New Mexico St.,15,Y
-2015,1214,Hampton,16,Y
-2015,1264,Manhattan,16,Y
-2015,1458,Wisconsin,1,Z
-2015,1112,Arizona,2,Z
-2015,1124,Baylor,3,Z
-2015,1314,North Carolina,4,Z
-2015,1116,Arkansas,5,Z
-2015,1462,Xavier,6,Z
-2015,1433,VCU,7,Z
-2015,1332,Oregon,8,Z
-2015,1329,Oklahoma St.,9,Z
-2015,1326,Ohio St.,10,Z
-2015,1140,BYU,11,Z
-2015,1279,Mississippi,11,Z
-2015,1459,Wofford,12,Z
-2015,1217,Harvard,13,Z
-2015,1209,Georgia St.,14,Z
-2015,1411,Texas Southern,15,Z
-2015,1157,Coastal Carolina,16,Z
-2016,1314,North Carolina,1,W
-2016,1462,Xavier,2,W
-2016,1452,West Virginia,3,W
-2016,1246,Kentucky,4,W
-2016,1231,Indiana,5,W
-2016,1323,Notre Dame,6,W
-2016,1458,Wisconsin,7,W
-2016,1425,USC,8,W
-2016,1344,Providence,9,W
-2016,1338,Pittsburgh,10,W
-2016,1276,Michigan,11,W
-2016,1409,Tulsa,11,W
-2016,1151,Chattanooga,12,W
-2016,1392,Stony Brook,13,W
-2016,1372,Stephen F. Austin,14,W
-2016,1451,Weber St.,15,W
-2016,1192,Fairleigh Dickinson,16,W
-2016,1195,Florida Gulf Coast,16,W
-2016,1438,Virginia,1,X
-2016,1277,Michigan St.,2,X
-2016,1428,Utah,3,X
-2016,1235,Iowa St.,4,X
-2016,1345,Purdue,5,X
-2016,1371,Seton Hall,6,X
-2016,1173,Dayton,7,X
-2016,1403,Texas Tech,8,X
-2016,1139,Butler,9,X
-2016,1393,Syracuse,10,X
-2016,1211,Gonzaga,11,X
-2016,1114,Little Rock,12,X
-2016,1233,Iona,13,X
-2016,1201,Fresno St.,14,X
-2016,1292,Middle Tennessee,15,X
-2016,1214,Hampton,16,X
-2016,1242,Kansas,1,Y
-2016,1437,Villanova,2,Y
-2016,1274,Miami FL,3,Y
-2016,1143,California,4,Y
-2016,1268,Maryland,5,Y
-2016,1112,Arizona,6,Y
-2016,1234,Iowa,7,Y
-2016,1160,Colorado,8,Y
-2016,1163,Connecticut,9,Y
-2016,1396,Temple,10,Y
-2016,1435,Vanderbilt,11,Y
-2016,1455,Wichita St.,11,Y
-2016,1355,South Dakota St.,12,Y
-2016,1218,Hawaii,13,Y
-2016,1138,Buffalo,14,Y
-2016,1421,UNC Asheville,15,Y
-2016,1122,Austin Peay,16,Y
-2016,1332,Oregon,1,Z
-2016,1328,Oklahoma,2,Z
-2016,1401,Texas A&M,3,Z
-2016,1181,Duke,4,Z
-2016,1124,Baylor,5,Z
-2016,1400,Texas,6,Z
-2016,1333,Oregon St.,7,Z
-2016,1386,Saint Joseph's,8,Z
-2016,1153,Cincinnati,9,Z
-2016,1433,VCU,10,Z
-2016,1320,Northern Iowa,11,Z
-2016,1463,Yale,12,Z
-2016,1423,UNC Wilmington,13,Z
-2016,1453,Green Bay,14,Z
-2016,1167,Cal St. Bakersfield,15,Z
-2016,1221,Holy Cross,16,Z
-2016,1380,Southern,16,Z
-2017,1437,Villanova,1,W
-2017,1181,Duke,2,W
-2017,1124,Baylor,3,W
-2017,1196,Florida,4,W
-2017,1438,Virginia,5,W
-2017,1374,SMU,6,W
-2017,1376,South Carolina,7,W
-2017,1458,Wisconsin,8,W
-2017,1439,Virginia Tech,9,W
-2017,1266,Marquette,10,W
-2017,1344,Providence,11,W
-2017,1425,USC,11,W
-2017,1423,UNC Wilmington,12,W
-2017,1190,East Tennessee St.,13,W
-2017,1308,New Mexico St.,14,W
-2017,1407,Troy,15,W
-2017,1291,Mount St. Mary's,16,W
-2017,1309,New Orleans,16,W
-2017,1211,Gonzaga,1,X
-2017,1112,Arizona,2,X
-2017,1199,Florida St.,3,X
-2017,1452,West Virginia,4,X
-2017,1323,Notre Dame,5,X
-2017,1268,Maryland,6,X
-2017,1388,Saint Mary's,7,X
-2017,1321,Northwestern,8,X
-2017,1435,Vanderbilt,9,X
-2017,1433,VCU,10,X
-2017,1462,Xavier,11,X
-2017,1343,Princeton,12,X
-2017,1137,Bucknell,13,X
-2017,1195,Florida Gulf Coast,14,X
-2017,1315,North Dakota,15,X
-2017,1355,South Dakota St.,16,X
-2017,1242,Kansas,1,Y
-2017,1257,Louisville,2,Y
-2017,1332,Oregon,3,Y
-2017,1345,Purdue,4,Y
-2017,1235,Iowa St.,5,Y
-2017,1166,Creighton,6,Y
-2017,1276,Michigan,7,Y
-2017,1274,Miami FL,8,Y
-2017,1277,Michigan St.,9,Y
-2017,1329,Oklahoma St.,10,Y
-2017,1348,Rhode Island,11,Y
-2017,1305,Nevada,12,Y
-2017,1436,Vermont,13,Y
-2017,1233,Iona,14,Y
-2017,1240,Jacksonville St.,15,Y
-2017,1300,North Carolina Central,16,Y
-2017,1413,UC Davis,16,Y
-2017,1314,North Carolina,1,Z
-2017,1246,Kentucky,2,Z
-2017,1417,UCLA,3,Z
-2017,1139,Butler,4,Z
-2017,1278,Minnesota,5,Z
-2017,1153,Cincinnati,6,Z
-2017,1173,Dayton,7,Z
-2017,1116,Arkansas,8,Z
-2017,1371,Seton Hall,9,Z
-2017,1455,Wichita St.,10,Z
-2017,1243,Kansas St.,11,Z
-2017,1448,Wake Forest,11,Z
-2017,1292,Middle Tennessee,12,Z
-2017,1457,Winthrop,13,Z
-2017,1245,Kent St.,14,Z
-2017,1297,Northern Kentucky,15,Z
-2017,1411,Texas Southern,16,Z
-2018,1437,Villanova,1,W
-2018,1345,Purdue,2,W
-2018,1403,Texas Tech,3,W
-2018,1455,Wichita St.,4,W
-2018,1452,West Virginia,5,W
-2018,1196,Florida,6,W
-2018,1116,Arkansas,7,W
-2018,1439,Virginia Tech,8,W
-2018,1104,Alabama,9,W
-2018,1139,Butler,10,W
-2018,1382,St. Bonaventure,11,W
-2018,1417,UCLA,11,W
-2018,1293,Murray St.,12,W
-2018,1267,Marshall,13,W
-2018,1372,Stephen F. Austin,14,W
-2018,1168,Cal St. Fullerton,15,W
-2018,1254,LIU Brooklyn,16,W
-2018,1347,Radford,16,W
-2018,1242,Kansas,1,X
-2018,1181,Duke,2,X
-2018,1277,Michigan St.,3,X
-2018,1120,Auburn,4,X
-2018,1155,Clemson,5,X
-2018,1395,TCU,6,X
-2018,1348,Rhode Island,7,X
-2018,1371,Seton Hall,8,X
-2018,1301,N.C. State,9,X
-2018,1328,Oklahoma,10,X
-2018,1113,Arizona St.,11,X
-2018,1393,Syracuse,11,X
-2018,1308,New Mexico St.,12,X
-2018,1158,College of Charleston,13,X
-2018,1137,Bucknell,14,X
-2018,1233,Iona,15,X
-2018,1335,Penn,16,X
-2018,1438,Virginia,1,Y
-2018,1153,Cincinnati,2,Y
-2018,1397,Tennessee,3,Y
-2018,1112,Arizona,4,Y
-2018,1246,Kentucky,5,Y
-2018,1274,Miami FL,6,Y
-2018,1305,Nevada,7,Y
-2018,1166,Creighton,8,Y
-2018,1243,Kansas St.,9,Y
-2018,1400,Texas,10,Y
-2018,1260,Loyola Chicago,11,Y
-2018,1172,Davidson,12,Y
-2018,1138,Buffalo,13,Y
-2018,1460,Wright St.,14,Y
-2018,1209,Georgia St.,15,Y
-2018,1420,UMBC,16,Y
-2018,1462,Xavier,1,Z
-2018,1314,North Carolina,2,Z
-2018,1276,Michigan,3,Z
-2018,1211,Gonzaga,4,Z
-2018,1326,Ohio St.,5,Z
-2018,1222,Houston,6,Z
-2018,1401,Texas A&M,7,Z
-2018,1281,Missouri,8,Z
-2018,1199,Florida St.,9,Z
-2018,1344,Providence,10,Z
-2018,1361,San Diego St.,11,Z
-2018,1355,South Dakota St.,12,Z
-2018,1422,UNC Greensboro,13,Z
-2018,1285,Montana,14,Z
-2018,1252,Lipscomb,15,Z
-2018,1300,North Carolina Central,16,Z
-2018,1411,Texas Southern,16,Z
-2019,1181,Duke,1,W
-2019,1277,Michigan St.,2,W
-2019,1261,LSU,3,W
-2019,1439,Virginia Tech,4,W
-2019,1280,Mississippi St.,5,W
-2019,1268,Maryland,6,W
-2019,1257,Louisville,7,W
-2019,1433,VCU,8,W
-2019,1416,UCF,9,W
-2019,1278,Minnesota,10,W
-2019,1125,Belmont,11,W
-2019,1396,Temple,11,W
-2019,1251,Liberty,12,W
-2019,1387,Saint Louis,13,W
-2019,1463,Yale,14,W
-2019,1133,Bradley,15,W
-2019,1295,North Dakota St.,16,W
-2019,1300,North Carolina Central,16,W
-2019,1211,Gonzaga,1,X
-2019,1276,Michigan,2,X
-2019,1403,Texas Tech,3,X
-2019,1199,Florida St.,4,X
-2019,1266,Marquette,5,X
-2019,1138,Buffalo,6,X
-2019,1305,Nevada,7,X
-2019,1393,Syracuse,8,X
-2019,1124,Baylor,9,X
-2019,1196,Florida,10,X
-2019,1113,Arizona St.,11,X
-2019,1385,St. John's,11,X
-2019,1293,Murray St.,12,X
-2019,1436,Vermont,13,X
-2019,1297,Northern Kentucky,14,X
-2019,1285,Montana,15,X
-2019,1192,Fairleigh Dickinson,16,X
-2019,1341,Prairie View A&M,16,X
-2019,1314,North Carolina,1,Y
-2019,1246,Kentucky,2,Y
-2019,1222,Houston,3,Y
-2019,1242,Kansas,4,Y
-2019,1120,Auburn,5,Y
-2019,1235,Iowa St.,6,Y
-2019,1459,Wofford,7,Y
-2019,1429,Utah St.,8,Y
-2019,1449,Washington,9,Y
-2019,1371,Seton Hall,10,Y
-2019,1326,Ohio St.,11,Y
-2019,1308,New Mexico St.,12,Y
-2019,1318,Northeastern,13,Y
-2019,1209,Georgia St.,14,Y
-2019,1101,Abilene Christian,15,Y
-2019,1233,Iona,16,Y
-2019,1438,Virginia,1,Z
-2019,1397,Tennessee,2,Z
-2019,1345,Purdue,3,Z
-2019,1243,Kansas St.,4,Z
-2019,1458,Wisconsin,5,Z
-2019,1437,Villanova,6,Z
-2019,1153,Cincinnati,7,Z
-2019,1279,Mississippi,8,Z
-2019,1328,Oklahoma,9,Z
-2019,1234,Iowa,10,Z
-2019,1388,Saint Mary's,11,Z
-2019,1332,Oregon,12,Z
-2019,1414,UC Irvine,13,Z
-2019,1330,Old Dominion,14,Z
-2019,1159,Colgate,15,Z
-2019,1205,Gardner Webb,16,Z
-2021,1276,Michigan,1,W
-2021,1104,Alabama,2,W
-2021,1400,Texas,3,W
-2021,1199,Florida St.,4,W
-2021,1160,Colorado,5,W
-2021,1140,BYU,6,W
-2021,1163,Connecticut,7,W
-2021,1261,LSU,8,W
-2021,1382,St. Bonaventure,9,W
-2021,1268,Maryland,10,W
-2021,1277,Michigan St.,11,W
-2021,1417,UCLA,11,W
-2021,1207,Georgetown,12,W
-2021,1422,UNC Greensboro,13,W
-2021,1101,Abilene Christian,14,W
-2021,1233,Iona,15,W
-2021,1291,Mount St. Mary's,16,W
-2021,1411,Texas Southern,16,W
-2021,1211,Gonzaga,1,X
-2021,1234,Iowa,2,X
-2021,1242,Kansas,3,X
-2021,1438,Virginia,4,X
-2021,1166,Creighton,5,X
-2021,1425,USC,6,X
-2021,1332,Oregon,7,X
-2021,1328,Oklahoma,8,X
-2021,1281,Missouri,9,X
-2021,1433,VCU,10,X
-2021,1179,Drake,11,X
-2021,1455,Wichita St.,11,X
-2021,1364,UC Santa Barbara,12,X
-2021,1325,Ohio,13,X
-2021,1186,Eastern Washington,14,X
-2021,1213,Grand Canyon,15,X
-2021,1111,Appalachian St.,16,X
-2021,1313,Norfolk St.,16,X
-2021,1228,Illinois,1,Y
-2021,1222,Houston,2,Y
-2021,1452,West Virginia,3,Y
-2021,1329,Oklahoma St.,4,Y
-2021,1397,Tennessee,5,Y
-2021,1361,San Diego St.,6,Y
-2021,1155,Clemson,7,Y
-2021,1260,Loyola Chicago,8,Y
-2021,1210,Georgia Tech,9,Y
-2021,1353,Rutgers,10,Y
-2021,1393,Syracuse,11,Y
-2021,1333,Oregon St.,12,Y
-2021,1251,Liberty,13,Y
-2021,1287,Morehead St.,14,Y
-2021,1156,Cleveland St.,15,Y
-2021,1180,Drexel,16,Y
-2021,1124,Baylor,1,Z
-2021,1326,Ohio St.,2,Z
-2021,1116,Arkansas,3,Z
-2021,1345,Purdue,4,Z
-2021,1437,Villanova,5,Z
-2021,1403,Texas Tech,6,Z
-2021,1196,Florida,7,Z
-2021,1314,North Carolina,8,Z
-2021,1458,Wisconsin,9,Z
-2021,1439,Virginia Tech,10,Z
-2021,1429,Utah St.,11,Z
-2021,1457,Winthrop,12,Z
-2021,1317,North Texas,13,Z
-2021,1159,Colgate,14,Z
-2021,1331,Oral Roberts,15,Z
-2021,1216,Hartford,16,Z
-2022,1124,Baylor,1,W
-2022,1246,Kentucky,2,W
-2022,1345,Purdue,3,W
-2022,1417,UCLA,4,W
-2022,1388,Saint Mary's,5,W
-2022,1400,Texas,6,W
-2022,1293,Murray St.,7,W
-2022,1314,North Carolina,8,W
-2022,1266,Marquette,9,W
-2022,1362,San Francisco,10,W
-2022,1439,Virginia Tech,11,W
-2022,1231,Indiana,12,W
-2022,1461,Wyoming,12,W
-2022,1103,Akron,13,W
-2022,1463,Yale,14,W
-2022,1389,Saint Peter's,15,W
-2022,1313,Norfolk St.,16,W
-2022,1211,Gonzaga,1,X
-2022,1181,Duke,2,X
-2022,1403,Texas Tech,3,X
-2022,1116,Arkansas,4,X
-2022,1163,Connecticut,5,X
-2022,1104,Alabama,6,X
-2022,1277,Michigan St.,7,X
-2022,1129,Boise St.,8,X
-2022,1272,Memphis,9,X
-2022,1172,Davidson,10,X
-2022,1323,Notre Dame,11,X
-2022,1353,Rutgers,11,X
-2022,1308,New Mexico St.,12,X
-2022,1436,Vermont,13,X
-2022,1286,Montana St.,14,X
-2022,1168,Cal St. Fullerton,15,X
-2022,1209,Georgia St.,16,X
-2022,1242,Kansas,1,Y
-2022,1120,Auburn,2,Y
-2022,1458,Wisconsin,3,Y
-2022,1344,Providence,4,Y
-2022,1234,Iowa,5,Y
-2022,1261,LSU,6,Y
-2022,1425,USC,7,Y
-2022,1361,San Diego St.,8,Y
-2022,1166,Creighton,9,Y
-2022,1274,Miami FL,10,Y
-2022,1235,Iowa St.,11,Y
-2022,1350,Richmond,12,Y
-2022,1355,South Dakota St.,13,Y
-2022,1159,Colgate,14,Y
-2022,1240,Jacksonville St.,15,Y
-2022,1394,Texas A&M Corpus Chris,16,Y
-2022,1411,Texas Southern,16,Y
-2022,1112,Arizona,1,Z
-2022,1437,Villanova,2,Z
-2022,1397,Tennessee,3,Z
-2022,1228,Illinois,4,Z
-2022,1222,Houston,5,Z
-2022,1161,Colorado St.,6,Z
-2022,1326,Ohio St.,7,Z
-2022,1371,Seton Hall,8,Z
-2022,1395,TCU,9,Z
-2022,1260,Loyola Chicago,10,Z
-2022,1276,Michigan,11,Z
-2022,1412,UAB,12,Z
-2022,1151,Chattanooga,13,Z
-2022,1255,Longwood,14,Z
-2022,1174,Delaware,15,Z
-2022,1136,Bryant,16,Z
-2022,1460,Wright St.,16,Z
-2023,1345,Purdue,1,W
-2023,1266,Marquette,2,W
-2023,1243,Kansas St.,3,W
-2023,1397,Tennessee,4,W
-2023,1181,Duke,5,W
-2023,1246,Kentucky,6,W
-2023,1277,Michigan St.,7,W
-2023,1272,Memphis,8,W
-2023,1194,Florida Atlantic,9,W
-2023,1425,USC,10,W
-2023,1344,Providence,11,W
-2023,1331,Oral Roberts,12,W
-2023,1418,Louisiana,13,W
-2023,1286,Montana St.,14,W
-2023,1436,Vermont,15,W
-2023,1192,Fairleigh Dickinson,16,W
-2023,1411,Texas Southern,16,W
-2023,1104,Alabama,1,X
-2023,1112,Arizona,2,X
-2023,1124,Baylor,3,X
-2023,1438,Virginia,4,X
-2023,1361,San Diego St.,5,X
-2023,1166,Creighton,6,X
-2023,1281,Missouri,7,X
-2023,1268,Maryland,8,X
-2023,1452,West Virginia,9,X
-2023,1429,Utah St.,10,X
-2023,1301,N.C. State,11,X
-2023,1158,College of Charleston,12,X
-2023,1202,Furman,13,X
-2023,1364,UC Santa Barbara,14,X
-2023,1343,Princeton,15,X
-2023,1369,Southeast Missouri St.,16,X
-2023,1394,Texas A&M Corpus Chris,16,X
-2023,1222,Houston,1,Y
-2023,1400,Texas,2,Y
-2023,1462,Xavier,3,Y
-2023,1231,Indiana,4,Y
-2023,1274,Miami FL,5,Y
-2023,1235,Iowa St.,6,Y
-2023,1401,Texas A&M,7,Y
-2023,1234,Iowa,8,Y
-2023,1120,Auburn,9,Y
-2023,1336,Penn St.,10,Y
-2023,1280,Mississippi St.,11,Y
-2023,1338,Pittsburgh,11,Y
-2023,1179,Drake,12,Y
-2023,1245,Kent St.,13,Y
-2023,1244,Kennesaw St.,14,Y
-2023,1159,Colgate,15,Y
-2023,1297,Northern Kentucky,16,Y
-2023,1242,Kansas,1,Z
-2023,1417,UCLA,2,Z
-2023,1211,Gonzaga,3,Z
-2023,1163,Connecticut,4,Z
-2023,1388,Saint Mary's,5,Z
-2023,1395,TCU,6,Z
-2023,1321,Northwestern,7,Z
-2023,1116,Arkansas,8,Z
-2023,1228,Illinois,9,Z
-2023,1129,Boise St.,10,Z
-2023,1113,Arizona St.,11,Z
-2023,1305,Nevada,11,Z
-2023,1433,VCU,12,Z
-2023,1233,Iona,13,Z
-2023,1213,Grand Canyon,14,Z
-2023,1421,UNC Asheville,15,Z
-2023,1224,Howard,16,Z
-2024,1163,Connecticut,1,W
-2024,1235,Iowa St.,2,W
-2024,1228,Illinois,3,W
-2024,1120,Auburn,4,W
-2024,1361,San Diego St.,5,W
-2024,1140,BYU,6,W
-2024,1450,Washington St.,7,W
-2024,1194,Florida Atlantic,8,W
-2024,1321,Northwestern,9,W
-2024,1179,Drake,10,W
-2024,1182,Duquesne,11,W
-2024,1412,UAB,12,W
-2024,1463,Yale,13,W
-2024,1287,Morehead St.,14,W
-2024,1355,South Dakota St.,15,W
-2024,1391,Stetson,16,W
-2024,1314,North Carolina,1,X
-2024,1112,Arizona,2,X
-2024,1124,Baylor,3,X
-2024,1104,Alabama,4,X
-2024,1388,Saint Mary's,5,X
-2024,1155,Clemson,6,X
-2024,1173,Dayton,7,X
-2024,1280,Mississippi St.,8,X
-2024,1277,Michigan St.,9,X
-2024,1305,Nevada,10,X
-2024,1307,New Mexico,11,X
-2024,1213,Grand Canyon,12,X
-2024,1158,College of Charleston,13,X
-2024,1159,Colgate,14,X
-2024,1253,Long Beach St.,15,X
-2024,1224,Howard,16,X
-2024,1447,Wagner,16,X
-2024,1345,Purdue,1,Y
-2024,1397,Tennessee,2,Y
-2024,1166,Creighton,3,Y
-2024,1242,Kansas,4,Y
-2024,1211,Gonzaga,5,Y
-2024,1376,South Carolina,6,Y
-2024,1400,Texas,7,Y
-2024,1429,Utah St.,8,Y
-2024,1395,TCU,9,Y
-2024,1161,Colorado St.,10,Y
-2024,1438,Virginia,10,Y
-2024,1332,Oregon,11,Y
-2024,1270,McNeese St.,12,Y
-2024,1359,Samford,13,Y
-2024,1103,Akron,14,Y
-2024,1389,Saint Peter's,15,Y
-2024,1212,Grambling St.,16,Y
-2024,1286,Montana St.,16,Y
-2024,1222,Houston,1,Z
-2024,1266,Marquette,2,Z
-2024,1246,Kentucky,3,Z
-2024,1181,Duke,4,Z
-2024,1458,Wisconsin,5,Z
-2024,1403,Texas Tech,6,Z
-2024,1196,Florida,7,Z
-2024,1304,Nebraska,8,Z
-2024,1401,Texas A&M,9,Z
-2024,1129,Boise St.,10,Z
-2024,1160,Colorado,10,Z
-2024,1301,N.C. State,11,Z
-2024,1241,James Madison,12,Z
-2024,1436,Vermont,13,Z
-2024,1324,Oakland,14,Z
-2024,1443,Western Kentucky,15,Z
-2024,1255,Longwood,16,Z
-2025,1181,Duke,1,W
-2025,1104,Alabama,2,W
-2025,1458,Wisconsin,3,W
-2025,1112,Arizona,4,W
-2025,1332,Oregon,5,W
-2025,1140,BYU,6,W
-2025,1388,Saint Mary's,7,W
-2025,1280,Mississippi St.,8,W
-2025,1124,Baylor,9,W
-2025,1435,Vanderbilt,10,W
-2025,1433,VCU,11,W
-2025,1251,Liberty,12,W
-2025,1103,Akron,13,W
-2025,1285,Montana,14,W
-2025,1352,Robert Morris,15,W
-2025,1110,American,16,W
-2025,1291,Mount St. Mary's,16,W
-2025,1222,Houston,1,X
-2025,1397,Tennessee,2,X
-2025,1246,Kentucky,3,X
-2025,1345,Purdue,4,X
-2025,1155,Clemson,5,X
-2025,1228,Illinois,6,X
-2025,1417,UCLA,7,X
-2025,1211,Gonzaga,8,X
-2025,1208,Georgia,9,X
-2025,1429,Utah St.,10,X
-2025,1400,Texas,11,X
-2025,1462,Xavier,11,X
-2025,1270,McNeese St.,12,X
-2025,1219,High Point,13,X
-2025,1407,Troy,14,X
-2025,1459,Wofford,15,X
-2025,1188,SIUE,16,X
-2025,1120,Auburn,1,Y
-2025,1277,Michigan St.,2,Y
-2025,1235,Iowa St.,3,Y
-2025,1401,Texas A&M,4,Y
-2025,1276,Michigan,5,Y
-2025,1279,Mississippi,6,Y
-2025,1266,Marquette,7,Y
-2025,1257,Louisville,8,Y
-2025,1166,Creighton,9,Y
-2025,1307,New Mexico,10,Y
-2025,1314,North Carolina,11,Y
-2025,1361,San Diego St.,11,Y
-2025,1471,UC San Diego,12,Y
-2025,1463,Yale,13,Y
-2025,1252,Lipscomb,14,Y
-2025,1136,Bryant,15,Y
-2025,1106,Alabama St.,16,Y
-2025,1384,St. Francis PA,16,Y
-2025,1196,Florida,1,Z
-2025,1385,St. John's,2,Z
-2025,1403,Texas Tech,3,Z
-2025,1268,Maryland,4,Z
-2025,1272,Memphis,5,Z
-2025,1281,Missouri,6,Z
-2025,1242,Kansas,7,Z
-2025,1163,Connecticut,8,Z
-2025,1328,Oklahoma,9,Z
-2025,1116,Arkansas,10,Z
-2025,1179,Drake,11,Z
-2025,1161,Colorado St.,12,Z
-2025,1213,Grand Canyon,13,Z
-2025,1423,UNC Wilmington,14,Z
-2025,1303,Nebraska Omaha,15,Z
-2025,1313,Norfolk St.,16,Z
-2026,1181,Duke,1,W
-2026,1163,Connecticut,2,W
-2026,1277,Michigan St.,3,W
-2026,1242,Kansas,4,W
-2026,1385,St. John's,5,W
-2026,1257,Louisville,6,W
-2026,1417,UCLA,7,W
-2026,1326,Ohio St.,8,W
-2026,1395,TCU,9,W
-2026,1416,UCF,10,W
-2026,1378,South Florida,11,W
-2026,1320,Northern Iowa,12,W
-2026,1465,Cal Baptist,13,W
-2026,1295,North Dakota St.,14,W
-2026,1202,Furman,15,W
-2026,1373,Siena,16,W
-2026,1196,Florida,1,X
-2026,1222,Houston,2,X
-2026,1228,Illinois,3,X
-2026,1304,Nebraska,4,X
-2026,1435,Vanderbilt,5,X
-2026,1314,North Carolina,6,X
-2026,1388,Saint Mary's,7,X
-2026,1155,Clemson,8,X
-2026,1234,Iowa,9,X
-2026,1401,Texas A&M,10,X
-2026,1433,VCU,11,X
-2026,1270,McNeese St.,12,X
-2026,1407,Troy,13,X
-2026,1335,Penn,14,X
-2026,1225,Idaho,15,X
-2026,1250,Lehigh,16,X
-2026,1341,Prairie View A&M,16,X
-2026,1276,Michigan,1,Y
-2026,1235,Iowa St.,2,Y
-2026,1438,Virginia,3,Y
-2026,1104,Alabama,4,Y
-2026,1403,Texas Tech,5,Y
-2026,1397,Tennessee,6,Y
-2026,1246,Kentucky,7,Y
-2026,1208,Georgia,8,Y
-2026,1387,Saint Louis,9,Y
-2026,1365,Santa Clara,10,Y
-2026,1275,Miami OH,11,Y
-2026,1374,SMU,11,Y
-2026,1103,Akron,12,Y
-2026,1220,Hofstra,13,Y
-2026,1460,Wright St.,14,Y
-2026,1398,Tennessee St.,15,Y
-2026,1224,Howard,16,Y
-2026,1420,UMBC,16,Y
-2026,1112,Arizona,1,Z
-2026,1345,Purdue,2,Z
-2026,1211,Gonzaga,3,Z
-2026,1116,Arkansas,4,Z
-2026,1458,Wisconsin,5,Z
-2026,1140,BYU,6,Z
-2026,1274,Miami FL,7,Z
-2026,1437,Villanova,8,Z
-2026,1429,Utah St.,9,Z
-2026,1281,Missouri,10,Z
-2026,1301,N.C. State,11,Z
-2026,1400,Texas,11,Z
-2026,1219,High Point,12,Z
-2026,1218,Hawaii,13,Z
-2026,1244,Kennesaw St.,14,Z
-2026,1474,Queens,15,Z
-2026,1254,LIU Brooklyn,16,Z
+Season,TeamID,TeamName,SeedNum,Region,TeamSeason
+2002,1268,Maryland,1,W,Maryland_2002
+2002,1163,Connecticut,2,W,Connecticut_2002
+2002,1208,Georgia,3,W,Georgia_2002
+2002,1246,Kentucky,4,W,Kentucky_2002
+2002,1266,Marquette,5,W,Marquette_2002
+2002,1403,Texas Tech,6,W,Texas Tech_2002
+2002,1301,N.C. State,7,W,N.C. State_2002
+2002,1458,Wisconsin,8,W,Wisconsin_2002
+2002,1385,St. John's,9,W,St. John's_2002
+2002,1277,Michigan St.,10,W,Michigan St._2002
+2002,1356,Southern Illinois,11,W,Southern Illinois_2002
+2002,1409,Tulsa,12,W,Tulsa_2002
+2002,1434,Valparaiso,13,W,Valparaiso_2002
+2002,1293,Murray St.,14,W,Murray St._2002
+2002,1214,Hampton,15,W,Hampton_2002
+2002,1108,Alcorn St.,16,W,Alcorn St._2002
+2002,1373,Siena,16,W,Siena_2002
+2002,1242,Kansas,1,X,Kansas_2002
+2002,1332,Oregon,2,X,Oregon_2002
+2002,1280,Mississippi St.,3,X,Mississippi St._2002
+2002,1228,Illinois,4,X,Illinois_2002
+2002,1196,Florida,5,X,Florida_2002
+2002,1400,Texas,6,X,Texas_2002
+2002,1448,Wake Forest,7,X,Wake Forest_2002
+2002,1390,Stanford,8,X,Stanford_2002
+2002,1443,Western Kentucky,9,X,Western Kentucky_2002
+2002,1337,Pepperdine,10,X,Pepperdine_2002
+2002,1130,Boston College,11,X,Boston College_2002
+2002,1166,Creighton,12,X,Creighton_2002
+2002,1361,San Diego St.,13,X,San Diego St._2002
+2002,1270,McNeese St.,14,X,McNeese St._2002
+2002,1285,Montana,15,X,Montana_2002
+2002,1221,Holy Cross,16,X,Holy Cross_2002
+2002,1181,Duke,1,Y,Duke_2002
+2002,1104,Alabama,2,Y,Alabama_2002
+2002,1338,Pittsburgh,3,Y,Pittsburgh_2002
+2002,1425,USC,4,Y,USC_2002
+2002,1231,Indiana,5,Y,Indiana_2002
+2002,1143,California,6,Y,California_2002
+2002,1329,Oklahoma St.,7,Y,Oklahoma St._2002
+2002,1323,Notre Dame,8,Y,Notre Dame_2002
+2002,1150,Charlotte,9,Y,Charlotte_2002
+2002,1245,Kent St.,10,Y,Kent St._2002
+2002,1335,Penn,11,Y,Penn_2002
+2002,1428,Utah,12,Y,Utah_2002
+2002,1423,UNC Wilmington,13,Y,UNC Wilmington_2002
+2002,1148,Central Connecticut,14,Y,Central Connecticut_2002
+2002,1194,Florida Atlantic,15,Y,Florida Atlantic_2002
+2002,1457,Winthrop,16,Y,Winthrop_2002
+2002,1153,Cincinnati,1,Z,Cincinnati_2002
+2002,1328,Oklahoma,2,Z,Oklahoma_2002
+2002,1112,Arizona,3,Z,Arizona_2002
+2002,1326,Ohio St.,4,Z,Ohio St._2002
+2002,1274,Miami FL,5,Z,Miami FL_2002
+2002,1211,Gonzaga,6,Z,Gonzaga_2002
+2002,1462,Xavier,7,Z,Xavier_2002
+2002,1417,UCLA,8,Z,UCLA_2002
+2002,1279,Mississippi,9,Z,Mississippi_2002
+2002,1218,Hawaii,10,Z,Hawaii_2002
+2002,1461,Wyoming,11,Z,Wyoming_2002
+2002,1281,Missouri,12,Z,Missouri_2002
+2002,1172,Davidson,13,Z,Davidson_2002
+2002,1364,UC Santa Barbara,14,Z,UC Santa Barbara_2002
+2002,1227,Illinois Chicago,15,Z,Illinois Chicago_2002
+2002,1131,Boston University,16,Z,Boston University_2002
+2003,1328,Oklahoma,1,W,Oklahoma_2003
+2003,1448,Wake Forest,2,W,Wake Forest_2003
+2003,1393,Syracuse,3,W,Syracuse_2003
+2003,1257,Louisville,4,W,Louisville_2003
+2003,1280,Mississippi St.,5,W,Mississippi St._2003
+2003,1329,Oklahoma St.,6,W,Oklahoma St._2003
+2003,1386,Saint Joseph's,7,W,Saint Joseph's_2003
+2003,1143,California,8,W,California_2003
+2003,1301,N.C. State,9,W,N.C. State_2003
+2003,1120,Auburn,10,W,Auburn_2003
+2003,1335,Penn,11,W,Penn_2003
+2003,1139,Butler,12,W,Butler_2003
+2003,1122,Austin Peay,13,W,Austin Peay_2003
+2003,1264,Manhattan,14,W,Manhattan_2003
+2003,1190,East Tennessee St.,15,W,East Tennessee St._2003
+2003,1354,South Carolina St.,16,W,South Carolina St._2003
+2003,1400,Texas,1,X,Texas_2003
+2003,1196,Florida,2,X,Florida_2003
+2003,1462,Xavier,3,X,Xavier_2003
+2003,1390,Stanford,4,X,Stanford_2003
+2003,1163,Connecticut,5,X,Connecticut_2003
+2003,1268,Maryland,6,X,Maryland_2003
+2003,1277,Michigan St.,7,X,Michigan St._2003
+2003,1261,LSU,8,X,LSU_2003
+2003,1345,Purdue,9,X,Purdue_2003
+2003,1160,Colorado,10,X,Colorado_2003
+2003,1423,UNC Wilmington,11,X,UNC Wilmington_2003
+2003,1140,BYU,12,X,BYU_2003
+2003,1360,San Diego,13,X,San Diego_2003
+2003,1407,Troy,14,X,Troy_2003
+2003,1358,Sam Houston St.,15,X,Sam Houston St._2003
+2003,1411,Texas Southern,16,X,Texas Southern_2003
+2003,1421,UNC Asheville,16,X,UNC Asheville_2003
+2003,1246,Kentucky,1,Y,Kentucky_2003
+2003,1338,Pittsburgh,2,Y,Pittsburgh_2003
+2003,1266,Marquette,3,Y,Marquette_2003
+2003,1173,Dayton,4,Y,Dayton_2003
+2003,1458,Wisconsin,5,Y,Wisconsin_2003
+2003,1281,Missouri,6,Y,Missouri_2003
+2003,1231,Indiana,7,Y,Indiana_2003
+2003,1332,Oregon,8,Y,Oregon_2003
+2003,1428,Utah,9,Y,Utah_2003
+2003,1104,Alabama,10,Y,Alabama_2003
+2003,1356,Southern Illinois,11,Y,Southern Illinois_2003
+2003,1451,Weber St.,12,Y,Weber St._2003
+2003,1409,Tulsa,13,Y,Tulsa_2003
+2003,1221,Holy Cross,14,Y,Holy Cross_2003
+2003,1447,Wagner,15,Y,Wagner_2003
+2003,1237,IUPUI,16,Y,IUPUI_2003
+2003,1112,Arizona,1,Z,Arizona_2003
+2003,1242,Kansas,2,Z,Kansas_2003
+2003,1181,Duke,3,Z,Duke_2003
+2003,1228,Illinois,4,Z,Illinois_2003
+2003,1323,Notre Dame,5,Z,Notre Dame_2003
+2003,1166,Creighton,6,Z,Creighton_2003
+2003,1272,Memphis,7,Z,Memphis_2003
+2003,1153,Cincinnati,8,Z,Cincinnati_2003
+2003,1211,Gonzaga,9,Z,Gonzaga_2003
+2003,1113,Arizona St.,10,Z,Arizona St._2003
+2003,1141,Central Michigan,11,Z,Central Michigan_2003
+2003,1454,Milwaukee,12,Z,Milwaukee_2003
+2003,1443,Western Kentucky,13,Z,Western Kentucky_2003
+2003,1161,Colorado St.,14,Z,Colorado St._2003
+2003,1429,Utah St.,15,Z,Utah St._2003
+2003,1436,Vermont,16,Z,Vermont_2003
+2004,1181,Duke,1,W,Duke_2004
+2004,1280,Mississippi St.,2,W,Mississippi St._2004
+2004,1400,Texas,3,W,Texas_2004
+2004,1153,Cincinnati,4,W,Cincinnati_2004
+2004,1228,Illinois,5,W,Illinois_2004
+2004,1314,North Carolina,6,W,North Carolina_2004
+2004,1462,Xavier,7,W,Xavier_2004
+2004,1371,Seton Hall,8,W,Seton Hall_2004
+2004,1112,Arizona,9,W,Arizona_2004
+2004,1257,Louisville,10,W,Louisville_2004
+2004,1102,Air Force,11,W,Air Force_2004
+2004,1293,Murray St.,12,W,Murray St._2004
+2004,1190,East Tennessee St.,13,W,East Tennessee St._2004
+2004,1343,Princeton,14,W,Princeton_2004
+2004,1284,Monmouth,15,W,Monmouth_2004
+2004,1106,Alabama St.,16,W,Alabama St._2004
+2004,1390,Stanford,1,X,Stanford_2004
+2004,1163,Connecticut,2,X,Connecticut_2004
+2004,1301,N.C. State,3,X,N.C. State_2004
+2004,1268,Maryland,4,X,Maryland_2004
+2004,1393,Syracuse,5,X,Syracuse_2004
+2004,1435,Vanderbilt,6,X,Vanderbilt_2004
+2004,1177,DePaul,7,X,DePaul_2004
+2004,1104,Alabama,8,X,Alabama_2004
+2004,1356,Southern Illinois,9,X,Southern Illinois_2004
+2004,1173,Dayton,10,X,Dayton_2004
+2004,1444,Western Michigan,11,X,Western Michigan_2004
+2004,1140,BYU,12,X,BYU_2004
+2004,1431,UTEP,13,X,UTEP_2004
+2004,1418,Louisiana,14,X,Louisiana_2004
+2004,1436,Vermont,15,X,Vermont_2004
+2004,1427,UTSA,16,X,UTSA_2004
+2004,1386,Saint Joseph's,1,Y,Saint Joseph's_2004
+2004,1329,Oklahoma St.,2,Y,Oklahoma St._2004
+2004,1338,Pittsburgh,3,Y,Pittsburgh_2004
+2004,1448,Wake Forest,4,Y,Wake Forest_2004
+2004,1196,Florida,5,Y,Florida_2004
+2004,1458,Wisconsin,6,Y,Wisconsin_2004
+2004,1272,Memphis,7,Y,Memphis_2004
+2004,1403,Texas Tech,8,Y,Texas Tech_2004
+2004,1150,Charlotte,9,Y,Charlotte_2004
+2004,1376,South Carolina,10,Y,South Carolina_2004
+2004,1350,Richmond,11,Y,Richmond_2004
+2004,1264,Manhattan,12,Y,Manhattan_2004
+2004,1433,VCU,13,Y,VCU_2004
+2004,1416,UCF,14,Y,UCF_2004
+2004,1186,Eastern Washington,15,Y,Eastern Washington_2004
+2004,1251,Liberty,16,Y,Liberty_2004
+2004,1246,Kentucky,1,Z,Kentucky_2004
+2004,1211,Gonzaga,2,Z,Gonzaga_2004
+2004,1210,Georgia Tech,3,Z,Georgia Tech_2004
+2004,1242,Kansas,4,Z,Kansas_2004
+2004,1344,Providence,5,Z,Providence_2004
+2004,1130,Boston College,6,Z,Boston College_2004
+2004,1277,Michigan St.,7,Z,Michigan St._2004
+2004,1449,Washington,8,Z,Washington_2004
+2004,1412,UAB,9,Z,UAB_2004
+2004,1305,Nevada,10,Z,Nevada_2004
+2004,1428,Utah,11,Z,Utah_2004
+2004,1334,Pacific,12,Z,Pacific_2004
+2004,1227,Illinois Chicago,13,Z,Illinois Chicago_2004
+2004,1320,Northern Iowa,14,Z,Northern Iowa_2004
+2004,1434,Valparaiso,15,Z,Valparaiso_2004
+2004,1197,Florida A&M,16,Z,Florida A&M_2004
+2004,1250,Lehigh,16,Z,Lehigh_2004
+2005,1449,Washington,1,W,Washington_2005
+2005,1448,Wake Forest,2,W,Wake Forest_2005
+2005,1211,Gonzaga,3,W,Gonzaga_2005
+2005,1257,Louisville,4,W,Louisville_2005
+2005,1210,Georgia Tech,5,W,Georgia Tech_2005
+2005,1403,Texas Tech,6,W,Texas Tech_2005
+2005,1452,West Virginia,7,W,West Virginia_2005
+2005,1334,Pacific,8,W,Pacific_2005
+2005,1338,Pittsburgh,9,W,Pittsburgh_2005
+2005,1166,Creighton,10,W,Creighton_2005
+2005,1417,UCLA,11,W,UCLA_2005
+2005,1203,George Washington,12,W,George Washington_2005
+2005,1418,Louisiana,13,W,Louisiana_2005
+2005,1457,Winthrop,14,W,Winthrop_2005
+2005,1151,Chattanooga,15,W,Chattanooga_2005
+2005,1285,Montana,16,W,Montana_2005
+2005,1228,Illinois,1,X,Illinois_2005
+2005,1329,Oklahoma St.,2,X,Oklahoma St._2005
+2005,1112,Arizona,3,X,Arizona_2005
+2005,1130,Boston College,4,X,Boston College_2005
+2005,1104,Alabama,5,X,Alabama_2005
+2005,1261,LSU,6,X,LSU_2005
+2005,1356,Southern Illinois,7,X,Southern Illinois_2005
+2005,1400,Texas,8,X,Texas_2005
+2005,1305,Nevada,9,X,Nevada_2005
+2005,1388,Saint Mary's,10,X,Saint Mary's_2005
+2005,1412,UAB,11,X,UAB_2005
+2005,1454,Milwaukee,12,X,Milwaukee_2005
+2005,1335,Penn,13,X,Penn_2005
+2005,1429,Utah St.,14,X,Utah St._2005
+2005,1368,Southeastern Louisiana,15,X,Southeastern Louisiana_2005
+2005,1192,Fairleigh Dickinson,16,X,Fairleigh Dickinson_2005
+2005,1181,Duke,1,Y,Duke_2005
+2005,1246,Kentucky,2,Y,Kentucky_2005
+2005,1328,Oklahoma,3,Y,Oklahoma_2005
+2005,1393,Syracuse,4,Y,Syracuse_2005
+2005,1277,Michigan St.,5,Y,Michigan St._2005
+2005,1428,Utah,6,Y,Utah_2005
+2005,1153,Cincinnati,7,Y,Cincinnati_2005
+2005,1390,Stanford,8,Y,Stanford_2005
+2005,1280,Mississippi St.,9,Y,Mississippi St._2005
+2005,1234,Iowa,10,Y,Iowa_2005
+2005,1431,UTEP,11,Y,UTEP_2005
+2005,1330,Old Dominion,12,Y,Old Dominion_2005
+2005,1436,Vermont,13,Y,Vermont_2005
+2005,1310,Niagara,14,Y,Niagara_2005
+2005,1184,Eastern Kentucky,15,Y,Eastern Kentucky_2005
+2005,1175,Delaware St.,16,Y,Delaware St._2005
+2005,1314,North Carolina,1,Z,North Carolina_2005
+2005,1163,Connecticut,2,Z,Connecticut_2005
+2005,1242,Kansas,3,Z,Kansas_2005
+2005,1196,Florida,4,Z,Florida_2005
+2005,1437,Villanova,5,Z,Villanova_2005
+2005,1458,Wisconsin,6,Z,Wisconsin_2005
+2005,1150,Charlotte,7,Z,Charlotte_2005
+2005,1278,Minnesota,8,Z,Minnesota_2005
+2005,1235,Iowa St.,9,Z,Iowa St._2005
+2005,1301,N.C. State,10,Z,N.C. State_2005
+2005,1320,Northern Iowa,11,Z,Northern Iowa_2005
+2005,1307,New Mexico,12,Z,New Mexico_2005
+2005,1325,Ohio,13,Z,Ohio_2005
+2005,1137,Bucknell,14,Z,Bucknell_2005
+2005,1416,UCF,15,Z,UCF_2005
+2005,1105,Alabama A&M,16,Z,Alabama A&M_2005
+2005,1324,Oakland,16,Z,Oakland_2005
+2006,1181,Duke,1,W,Duke_2006
+2006,1400,Texas,2,W,Texas_2006
+2006,1234,Iowa,3,W,Iowa_2006
+2006,1261,LSU,4,W,LSU_2006
+2006,1393,Syracuse,5,W,Syracuse_2006
+2006,1452,West Virginia,6,W,West Virginia_2006
+2006,1143,California,7,W,California_2006
+2006,1203,George Washington,8,W,George Washington_2006
+2006,1423,UNC Wilmington,9,W,UNC Wilmington_2006
+2006,1301,N.C. State,10,W,N.C. State_2006
+2006,1356,Southern Illinois,11,W,Southern Illinois_2006
+2006,1401,Texas A&M,12,W,Texas A&M_2006
+2006,1233,Iona,13,W,Iona_2006
+2006,1322,Northwestern St.,14,W,Northwestern St._2006
+2006,1335,Penn,15,W,Penn_2006
+2006,1380,Southern,16,W,Southern_2006
+2006,1272,Memphis,1,X,Memphis_2006
+2006,1417,UCLA,2,X,UCLA_2006
+2006,1211,Gonzaga,3,X,Gonzaga_2006
+2006,1242,Kansas,4,X,Kansas_2006
+2006,1338,Pittsburgh,5,X,Pittsburgh_2006
+2006,1231,Indiana,6,X,Indiana_2006
+2006,1266,Marquette,7,X,Marquette_2006
+2006,1116,Arkansas,8,X,Arkansas_2006
+2006,1137,Bucknell,9,X,Bucknell_2006
+2006,1104,Alabama,10,X,Alabama_2006
+2006,1361,San Diego St.,11,X,San Diego St._2006
+2006,1245,Kent St.,12,X,Kent St._2006
+2006,1133,Bradley,13,X,Bradley_2006
+2006,1462,Xavier,14,X,Xavier_2006
+2006,1125,Belmont,15,X,Belmont_2006
+2006,1331,Oral Roberts,16,X,Oral Roberts_2006
+2006,1437,Villanova,1,Y,Villanova_2006
+2006,1326,Ohio St.,2,Y,Ohio St._2006
+2006,1196,Florida,3,Y,Florida_2006
+2006,1130,Boston College,4,Y,Boston College_2006
+2006,1305,Nevada,5,Y,Nevada_2006
+2006,1328,Oklahoma,6,Y,Oklahoma_2006
+2006,1207,Georgetown,7,Y,Georgetown_2006
+2006,1112,Arizona,8,Y,Arizona_2006
+2006,1458,Wisconsin,9,Y,Wisconsin_2006
+2006,1320,Northern Iowa,10,Y,Northern Iowa_2006
+2006,1454,Milwaukee,11,Y,Milwaukee_2006
+2006,1285,Montana,12,Y,Montana_2006
+2006,1334,Pacific,13,Y,Pacific_2006
+2006,1375,South Alabama,14,Y,South Alabama_2006
+2006,1172,Davidson,15,Y,Davidson_2006
+2006,1214,Hampton,16,Y,Hampton_2006
+2006,1284,Monmouth,16,Y,Monmouth_2006
+2006,1163,Connecticut,1,Z,Connecticut_2006
+2006,1397,Tennessee,2,Z,Tennessee_2006
+2006,1314,North Carolina,3,Z,North Carolina_2006
+2006,1228,Illinois,4,Z,Illinois_2006
+2006,1449,Washington,5,Z,Washington_2006
+2006,1277,Michigan St.,6,Z,Michigan St._2006
+2006,1455,Wichita St.,7,Z,Wichita St._2006
+2006,1246,Kentucky,8,Z,Kentucky_2006
+2006,1412,UAB,9,Z,UAB_2006
+2006,1371,Seton Hall,10,Z,Seton Hall_2006
+2006,1206,George Mason,11,Z,George Mason_2006
+2006,1429,Utah St.,12,Z,Utah St._2006
+2006,1102,Air Force,13,Z,Air Force_2006
+2006,1293,Murray St.,14,Z,Murray St._2006
+2006,1457,Winthrop,15,Z,Winthrop_2006
+2006,1107,Albany,16,Z,Albany_2006
+2007,1314,North Carolina,1,W,North Carolina_2007
+2007,1207,Georgetown,2,W,Georgetown_2007
+2007,1450,Washington St.,3,W,Washington St._2007
+2007,1400,Texas,4,W,Texas_2007
+2007,1425,USC,5,W,USC_2007
+2007,1435,Vanderbilt,6,W,Vanderbilt_2007
+2007,1130,Boston College,7,W,Boston College_2007
+2007,1266,Marquette,8,W,Marquette_2007
+2007,1277,Michigan St.,9,W,Michigan St._2007
+2007,1403,Texas Tech,10,W,Texas Tech_2007
+2007,1203,George Washington,11,W,George Washington_2007
+2007,1116,Arkansas,12,W,Arkansas_2007
+2007,1308,New Mexico St.,13,W,New Mexico St._2007
+2007,1331,Oral Roberts,14,W,Oral Roberts_2007
+2007,1125,Belmont,15,W,Belmont_2007
+2007,1184,Eastern Kentucky,16,W,Eastern Kentucky_2007
+2007,1326,Ohio St.,1,X,Ohio St._2007
+2007,1272,Memphis,2,X,Memphis_2007
+2007,1401,Texas A&M,3,X,Texas A&M_2007
+2007,1438,Virginia,4,X,Virginia_2007
+2007,1397,Tennessee,5,X,Tennessee_2007
+2007,1257,Louisville,6,X,Louisville_2007
+2007,1305,Nevada,7,X,Nevada_2007
+2007,1140,BYU,8,X,BYU_2007
+2007,1462,Xavier,9,X,Xavier_2007
+2007,1166,Creighton,10,X,Creighton_2007
+2007,1390,Stanford,11,X,Stanford_2007
+2007,1253,Long Beach St.,12,X,Long Beach St._2007
+2007,1107,Albany,13,X,Albany_2007
+2007,1335,Penn,14,X,Penn_2007
+2007,1317,North Texas,15,X,North Texas_2007
+2007,1148,Central Connecticut,16,X,Central Connecticut_2007
+2007,1196,Florida,1,Y,Florida_2007
+2007,1458,Wisconsin,2,Y,Wisconsin_2007
+2007,1332,Oregon,3,Y,Oregon_2007
+2007,1268,Maryland,4,Y,Maryland_2007
+2007,1139,Butler,5,Y,Butler_2007
+2007,1323,Notre Dame,6,Y,Notre Dame_2007
+2007,1424,UNLV,7,Y,UNLV_2007
+2007,1112,Arizona,8,Y,Arizona_2007
+2007,1345,Purdue,9,Y,Purdue_2007
+2007,1210,Georgia Tech,10,Y,Georgia Tech_2007
+2007,1457,Winthrop,11,Y,Winthrop_2007
+2007,1330,Old Dominion,12,Y,Old Dominion_2007
+2007,1172,Davidson,13,Y,Davidson_2007
+2007,1275,Miami OH,14,Y,Miami OH_2007
+2007,1394,Texas A&M Corpus Chris,15,Y,Texas A&M Corpus Chris_2007
+2007,1238,Jackson St.,16,Y,Jackson St._2007
+2007,1242,Kansas,1,Z,Kansas_2007
+2007,1417,UCLA,2,Z,UCLA_2007
+2007,1338,Pittsburgh,3,Z,Pittsburgh_2007
+2007,1356,Southern Illinois,4,Z,Southern Illinois_2007
+2007,1439,Virginia Tech,5,Z,Virginia Tech_2007
+2007,1181,Duke,6,Z,Duke_2007
+2007,1231,Indiana,7,Z,Indiana_2007
+2007,1246,Kentucky,8,Z,Kentucky_2007
+2007,1437,Villanova,9,Z,Villanova_2007
+2007,1211,Gonzaga,10,Z,Gonzaga_2007
+2007,1433,VCU,11,Z,VCU_2007
+2007,1228,Illinois,12,Z,Illinois_2007
+2007,1221,Holy Cross,13,Z,Holy Cross_2007
+2007,1460,Wright St.,14,Z,Wright St._2007
+2007,1451,Weber St.,15,Z,Weber St._2007
+2007,1197,Florida A&M,16,Z,Florida A&M_2007
+2007,1310,Niagara,16,Z,Niagara_2007
+2008,1314,North Carolina,1,W,North Carolina_2008
+2008,1397,Tennessee,2,W,Tennessee_2008
+2008,1257,Louisville,3,W,Louisville_2008
+2008,1450,Washington St.,4,W,Washington St._2008
+2008,1323,Notre Dame,5,W,Notre Dame_2008
+2008,1328,Oklahoma,6,W,Oklahoma_2008
+2008,1139,Butler,7,W,Butler_2008
+2008,1231,Indiana,8,W,Indiana_2008
+2008,1116,Arkansas,9,W,Arkansas_2008
+2008,1375,South Alabama,10,W,South Alabama_2008
+2008,1386,Saint Joseph's,11,W,Saint Joseph's_2008
+2008,1206,George Mason,12,W,George Mason_2008
+2008,1457,Winthrop,13,W,Winthrop_2008
+2008,1129,Boise St.,14,W,Boise St._2008
+2008,1110,American,15,W,American_2008
+2008,1164,Coppin St.,16,W,Coppin St._2008
+2008,1291,Mount St. Mary's,16,W,Mount St. Mary's_2008
+2008,1242,Kansas,1,X,Kansas_2008
+2008,1207,Georgetown,2,X,Georgetown_2008
+2008,1458,Wisconsin,3,X,Wisconsin_2008
+2008,1435,Vanderbilt,4,X,Vanderbilt_2008
+2008,1155,Clemson,5,X,Clemson_2008
+2008,1425,USC,6,X,USC_2008
+2008,1211,Gonzaga,7,X,Gonzaga_2008
+2008,1424,UNLV,8,X,UNLV_2008
+2008,1245,Kent St.,9,X,Kent St._2008
+2008,1172,Davidson,10,X,Davidson_2008
+2008,1243,Kansas St.,11,X,Kansas St._2008
+2008,1437,Villanova,12,X,Villanova_2008
+2008,1373,Siena,13,X,Siena_2008
+2008,1168,Cal St. Fullerton,14,X,Cal St. Fullerton_2008
+2008,1420,UMBC,15,X,UMBC_2008
+2008,1340,Portland St.,16,X,Portland St._2008
+2008,1272,Memphis,1,Y,Memphis_2008
+2008,1400,Texas,2,Y,Texas_2008
+2008,1390,Stanford,3,Y,Stanford_2008
+2008,1338,Pittsburgh,4,Y,Pittsburgh_2008
+2008,1277,Michigan St.,5,Y,Michigan St._2008
+2008,1266,Marquette,6,Y,Marquette_2008
+2008,1274,Miami FL,7,Y,Miami FL_2008
+2008,1280,Mississippi St.,8,Y,Mississippi St._2008
+2008,1332,Oregon,9,Y,Oregon_2008
+2008,1388,Saint Mary's,10,Y,Saint Mary's_2008
+2008,1246,Kentucky,11,Y,Kentucky_2008
+2008,1396,Temple,12,Y,Temple_2008
+2008,1331,Oral Roberts,13,Y,Oral Roberts_2008
+2008,1165,Cornell,14,Y,Cornell_2008
+2008,1122,Austin Peay,15,Y,Austin Peay_2008
+2008,1426,UT Arlington,16,Y,UT Arlington_2008
+2008,1417,UCLA,1,Z,UCLA_2008
+2008,1181,Duke,2,Z,Duke_2008
+2008,1462,Xavier,3,Z,Xavier_2008
+2008,1163,Connecticut,4,Z,Connecticut_2008
+2008,1179,Drake,5,Z,Drake_2008
+2008,1345,Purdue,6,Z,Purdue_2008
+2008,1452,West Virginia,7,Z,West Virginia_2008
+2008,1140,BYU,8,Z,BYU_2008
+2008,1401,Texas A&M,9,Z,Texas A&M_2008
+2008,1112,Arizona,10,Z,Arizona_2008
+2008,1124,Baylor,11,Z,Baylor_2008
+2008,1443,Western Kentucky,12,Z,Western Kentucky_2008
+2008,1360,San Diego,13,Z,San Diego_2008
+2008,1208,Georgia,14,Z,Georgia_2008
+2008,1125,Belmont,15,Z,Belmont_2008
+2008,1290,Mississippi Valley St.,16,Z,Mississippi Valley St._2008
+2009,1338,Pittsburgh,1,W,Pittsburgh_2009
+2009,1181,Duke,2,W,Duke_2009
+2009,1437,Villanova,3,W,Villanova_2009
+2009,1462,Xavier,4,W,Xavier_2009
+2009,1199,Florida St.,5,W,Florida St._2009
+2009,1417,UCLA,6,W,UCLA_2009
+2009,1400,Texas,7,W,Texas_2009
+2009,1329,Oklahoma St.,8,W,Oklahoma St._2009
+2009,1397,Tennessee,9,W,Tennessee_2009
+2009,1278,Minnesota,10,W,Minnesota_2009
+2009,1433,VCU,11,W,VCU_2009
+2009,1458,Wisconsin,12,W,Wisconsin_2009
+2009,1340,Portland St.,13,W,Portland St._2009
+2009,1110,American,14,W,American_2009
+2009,1127,Binghamton,15,W,Binghamton_2009
+2009,1190,East Tennessee St.,16,W,East Tennessee St._2009
+2009,1314,North Carolina,1,X,North Carolina_2009
+2009,1328,Oklahoma,2,X,Oklahoma_2009
+2009,1393,Syracuse,3,X,Syracuse_2009
+2009,1211,Gonzaga,4,X,Gonzaga_2009
+2009,1228,Illinois,5,X,Illinois_2009
+2009,1113,Arizona St.,6,X,Arizona St._2009
+2009,1155,Clemson,7,X,Clemson_2009
+2009,1261,LSU,8,X,LSU_2009
+2009,1139,Butler,9,X,Butler_2009
+2009,1276,Michigan,10,X,Michigan_2009
+2009,1396,Temple,11,X,Temple_2009
+2009,1443,Western Kentucky,12,X,Western Kentucky_2009
+2009,1103,Akron,13,X,Akron_2009
+2009,1372,Stephen F. Austin,14,X,Stephen F. Austin_2009
+2009,1288,Morgan St.,15,X,Morgan St._2009
+2009,1347,Radford,16,X,Radford_2009
+2009,1257,Louisville,1,Y,Louisville_2009
+2009,1277,Michigan St.,2,Y,Michigan St._2009
+2009,1242,Kansas,3,Y,Kansas_2009
+2009,1448,Wake Forest,4,Y,Wake Forest_2009
+2009,1428,Utah,5,Y,Utah_2009
+2009,1452,West Virginia,6,Y,West Virginia_2009
+2009,1130,Boston College,7,Y,Boston College_2009
+2009,1326,Ohio St.,8,Y,Ohio St._2009
+2009,1373,Siena,9,Y,Siena_2009
+2009,1425,USC,10,Y,USC_2009
+2009,1173,Dayton,11,Y,Dayton_2009
+2009,1112,Arizona,12,Y,Arizona_2009
+2009,1156,Cleveland St.,13,Y,Cleveland St._2009
+2009,1295,North Dakota St.,14,Y,North Dakota St._2009
+2009,1352,Robert Morris,15,Y,Robert Morris_2009
+2009,1106,Alabama St.,16,Y,Alabama St._2009
+2009,1287,Morehead St.,16,Y,Morehead St._2009
+2009,1163,Connecticut,1,Z,Connecticut_2009
+2009,1272,Memphis,2,Z,Memphis_2009
+2009,1281,Missouri,3,Z,Missouri_2009
+2009,1449,Washington,4,Z,Washington_2009
+2009,1345,Purdue,5,Z,Purdue_2009
+2009,1266,Marquette,6,Z,Marquette_2009
+2009,1143,California,7,Z,California_2009
+2009,1140,BYU,8,Z,BYU_2009
+2009,1401,Texas A&M,9,Z,Texas A&M_2009
+2009,1268,Maryland,10,Z,Maryland_2009
+2009,1429,Utah St.,11,Z,Utah St._2009
+2009,1320,Northern Iowa,12,Z,Northern Iowa_2009
+2009,1280,Mississippi St.,13,Z,Mississippi St._2009
+2009,1165,Cornell,14,Z,Cornell_2009
+2009,1169,Cal St. Northridge,15,Z,Cal St. Northridge_2009
+2009,1151,Chattanooga,16,Z,Chattanooga_2009
+2010,1246,Kentucky,1,W,Kentucky_2010
+2010,1452,West Virginia,2,W,West Virginia_2010
+2010,1307,New Mexico,3,W,New Mexico_2010
+2010,1458,Wisconsin,4,W,Wisconsin_2010
+2010,1396,Temple,5,W,Temple_2010
+2010,1266,Marquette,6,W,Marquette_2010
+2010,1155,Clemson,7,W,Clemson_2010
+2010,1400,Texas,8,W,Texas_2010
+2010,1448,Wake Forest,9,W,Wake Forest_2010
+2010,1281,Missouri,10,W,Missouri_2010
+2010,1449,Washington,11,W,Washington_2010
+2010,1165,Cornell,12,W,Cornell_2010
+2010,1459,Wofford,13,W,Wofford_2010
+2010,1285,Montana,14,W,Montana_2010
+2010,1288,Morgan St.,15,W,Morgan St._2010
+2010,1190,East Tennessee St.,16,W,East Tennessee St._2010
+2010,1181,Duke,1,X,Duke_2010
+2010,1437,Villanova,2,X,Villanova_2010
+2010,1124,Baylor,3,X,Baylor_2010
+2010,1345,Purdue,4,X,Purdue_2010
+2010,1401,Texas A&M,5,X,Texas A&M_2010
+2010,1323,Notre Dame,6,X,Notre Dame_2010
+2010,1350,Richmond,7,X,Richmond_2010
+2010,1143,California,8,X,California_2010
+2010,1257,Louisville,9,X,Louisville_2010
+2010,1388,Saint Mary's,10,X,Saint Mary's_2010
+2010,1330,Old Dominion,11,X,Old Dominion_2010
+2010,1429,Utah St.,12,X,Utah St._2010
+2010,1373,Siena,13,X,Siena_2010
+2010,1358,Sam Houston St.,14,X,Sam Houston St._2010
+2010,1352,Robert Morris,15,X,Robert Morris_2010
+2010,1115,Arkansas Pine Bluff,16,X,Arkansas Pine Bluff_2010
+2010,1457,Winthrop,16,X,Winthrop_2010
+2010,1242,Kansas,1,Y,Kansas_2010
+2010,1326,Ohio St.,2,Y,Ohio St._2010
+2010,1207,Georgetown,3,Y,Georgetown_2010
+2010,1268,Maryland,4,Y,Maryland_2010
+2010,1277,Michigan St.,5,Y,Michigan St._2010
+2010,1397,Tennessee,6,Y,Tennessee_2010
+2010,1329,Oklahoma St.,7,Y,Oklahoma St._2010
+2010,1424,UNLV,8,Y,UNLV_2010
+2010,1320,Northern Iowa,9,Y,Northern Iowa_2010
+2010,1210,Georgia Tech,10,Y,Georgia Tech_2010
+2010,1361,San Diego St.,11,Y,San Diego St._2010
+2010,1308,New Mexico St.,12,Y,New Mexico St._2010
+2010,1222,Houston,13,Y,Houston_2010
+2010,1325,Ohio,14,Y,Ohio_2010
+2010,1364,UC Santa Barbara,15,Y,UC Santa Barbara_2010
+2010,1250,Lehigh,16,Y,Lehigh_2010
+2010,1393,Syracuse,1,Z,Syracuse_2010
+2010,1243,Kansas St.,2,Z,Kansas St._2010
+2010,1338,Pittsburgh,3,Z,Pittsburgh_2010
+2010,1435,Vanderbilt,4,Z,Vanderbilt_2010
+2010,1139,Butler,5,Z,Butler_2010
+2010,1462,Xavier,6,Z,Xavier_2010
+2010,1140,BYU,7,Z,BYU_2010
+2010,1211,Gonzaga,8,Z,Gonzaga_2010
+2010,1199,Florida St.,9,Z,Florida St._2010
+2010,1196,Florida,10,Z,Florida_2010
+2010,1278,Minnesota,11,Z,Minnesota_2010
+2010,1431,UTEP,12,Z,UTEP_2010
+2010,1293,Murray St.,13,Z,Murray St._2010
+2010,1324,Oakland,14,Z,Oakland_2010
+2010,1317,North Texas,15,Z,North Texas_2010
+2010,1436,Vermont,16,Z,Vermont_2010
+2011,1326,Ohio St.,1,W,Ohio St._2011
+2011,1314,North Carolina,2,W,North Carolina_2011
+2011,1393,Syracuse,3,W,Syracuse_2011
+2011,1246,Kentucky,4,W,Kentucky_2011
+2011,1452,West Virginia,5,W,West Virginia_2011
+2011,1462,Xavier,6,W,Xavier_2011
+2011,1449,Washington,7,W,Washington_2011
+2011,1206,George Mason,8,W,George Mason_2011
+2011,1437,Villanova,9,W,Villanova_2011
+2011,1208,Georgia,10,W,Georgia_2011
+2011,1266,Marquette,11,W,Marquette_2011
+2011,1155,Clemson,12,W,Clemson_2011
+2011,1412,UAB,12,W,UAB_2011
+2011,1343,Princeton,13,W,Princeton_2011
+2011,1232,Indiana St.,14,W,Indiana St._2011
+2011,1254,LIU Brooklyn,15,W,LIU Brooklyn_2011
+2011,1106,Alabama St.,16,W,Alabama St._2011
+2011,1427,UTSA,16,W,UTSA_2011
+2011,1181,Duke,1,X,Duke_2011
+2011,1361,San Diego St.,2,X,San Diego St._2011
+2011,1163,Connecticut,3,X,Connecticut_2011
+2011,1400,Texas,4,X,Texas_2011
+2011,1112,Arizona,5,X,Arizona_2011
+2011,1153,Cincinnati,6,X,Cincinnati_2011
+2011,1396,Temple,7,X,Temple_2011
+2011,1276,Michigan,8,X,Michigan_2011
+2011,1397,Tennessee,9,X,Tennessee_2011
+2011,1336,Penn St.,10,X,Penn St._2011
+2011,1281,Missouri,11,X,Missouri_2011
+2011,1272,Memphis,12,X,Memphis_2011
+2011,1324,Oakland,13,X,Oakland_2011
+2011,1137,Bucknell,14,X,Bucknell_2011
+2011,1294,Northern Colorado,15,X,Northern Colorado_2011
+2011,1214,Hampton,16,X,Hampton_2011
+2011,1338,Pittsburgh,1,Y,Pittsburgh_2011
+2011,1196,Florida,2,Y,Florida_2011
+2011,1140,BYU,3,Y,BYU_2011
+2011,1458,Wisconsin,4,Y,Wisconsin_2011
+2011,1243,Kansas St.,5,Y,Kansas St._2011
+2011,1385,St. John's,6,Y,St. John's_2011
+2011,1417,UCLA,7,Y,UCLA_2011
+2011,1139,Butler,8,Y,Butler_2011
+2011,1330,Old Dominion,9,Y,Old Dominion_2011
+2011,1277,Michigan St.,10,Y,Michigan St._2011
+2011,1211,Gonzaga,11,Y,Gonzaga_2011
+2011,1429,Utah St.,12,Y,Utah St._2011
+2011,1125,Belmont,13,Y,Belmont_2011
+2011,1459,Wofford,14,Y,Wofford_2011
+2011,1364,UC Santa Barbara,15,Y,UC Santa Barbara_2011
+2011,1114,Little Rock,16,Y,Little Rock_2011
+2011,1421,UNC Asheville,16,Y,UNC Asheville_2011
+2011,1242,Kansas,1,Z,Kansas_2011
+2011,1323,Notre Dame,2,Z,Notre Dame_2011
+2011,1345,Purdue,3,Z,Purdue_2011
+2011,1257,Louisville,4,Z,Louisville_2011
+2011,1435,Vanderbilt,5,Z,Vanderbilt_2011
+2011,1207,Georgetown,6,Z,Georgetown_2011
+2011,1401,Texas A&M,7,Z,Texas A&M_2011
+2011,1424,UNLV,8,Z,UNLV_2011
+2011,1228,Illinois,9,Z,Illinois_2011
+2011,1199,Florida St.,10,Z,Florida St._2011
+2011,1425,USC,11,Z,USC_2011
+2011,1433,VCU,11,Z,VCU_2011
+2011,1350,Richmond,12,Z,Richmond_2011
+2011,1287,Morehead St.,13,Z,Morehead St._2011
+2011,1389,Saint Peter's,14,Z,Saint Peter's_2011
+2011,1103,Akron,15,Z,Akron_2011
+2011,1131,Boston University,16,Z,Boston University_2011
+2012,1393,Syracuse,1,W,Syracuse_2012
+2012,1326,Ohio St.,2,W,Ohio St._2012
+2012,1199,Florida St.,3,W,Florida St._2012
+2012,1458,Wisconsin,4,W,Wisconsin_2012
+2012,1435,Vanderbilt,5,W,Vanderbilt_2012
+2012,1153,Cincinnati,6,W,Cincinnati_2012
+2012,1211,Gonzaga,7,W,Gonzaga_2012
+2012,1243,Kansas St.,8,W,Kansas St._2012
+2012,1379,Southern Miss,9,W,Southern Miss_2012
+2012,1452,West Virginia,10,W,West Virginia_2012
+2012,1400,Texas,11,W,Texas_2012
+2012,1217,Harvard,12,W,Harvard_2012
+2012,1285,Montana,13,W,Montana_2012
+2012,1382,St. Bonaventure,14,W,St. Bonaventure_2012
+2012,1259,Loyola MD,15,W,Loyola MD_2012
+2012,1421,UNC Asheville,16,W,UNC Asheville_2012
+2012,1314,North Carolina,1,X,North Carolina_2012
+2012,1242,Kansas,2,X,Kansas_2012
+2012,1207,Georgetown,3,X,Georgetown_2012
+2012,1276,Michigan,4,X,Michigan_2012
+2012,1396,Temple,5,X,Temple_2012
+2012,1361,San Diego St.,6,X,San Diego St._2012
+2012,1388,Saint Mary's,7,X,Saint Mary's_2012
+2012,1166,Creighton,8,X,Creighton_2012
+2012,1104,Alabama,9,X,Alabama_2012
+2012,1345,Purdue,10,X,Purdue_2012
+2012,1301,N.C. State,11,X,N.C. State_2012
+2012,1143,California,12,X,California_2012
+2012,1378,South Florida,12,X,South Florida_2012
+2012,1325,Ohio,13,X,Ohio_2012
+2012,1125,Belmont,14,X,Belmont_2012
+2012,1178,Detroit,15,X,Detroit_2012
+2012,1249,Lamar,16,X,Lamar_2012
+2012,1436,Vermont,16,X,Vermont_2012
+2012,1246,Kentucky,1,Y,Kentucky_2012
+2012,1181,Duke,2,Y,Duke_2012
+2012,1124,Baylor,3,Y,Baylor_2012
+2012,1231,Indiana,4,Y,Indiana_2012
+2012,1455,Wichita St.,5,Y,Wichita St._2012
+2012,1424,UNLV,6,Y,UNLV_2012
+2012,1323,Notre Dame,7,Y,Notre Dame_2012
+2012,1235,Iowa St.,8,Y,Iowa St._2012
+2012,1163,Connecticut,9,Y,Connecticut_2012
+2012,1462,Xavier,10,Y,Xavier_2012
+2012,1160,Colorado,11,Y,Colorado_2012
+2012,1433,VCU,12,Y,VCU_2012
+2012,1308,New Mexico St.,13,Y,New Mexico St._2012
+2012,1355,South Dakota St.,14,Y,South Dakota St._2012
+2012,1250,Lehigh,15,Y,Lehigh_2012
+2012,1290,Mississippi Valley St.,16,Y,Mississippi Valley St._2012
+2012,1443,Western Kentucky,16,Y,Western Kentucky_2012
+2012,1277,Michigan St.,1,Z,Michigan St._2012
+2012,1281,Missouri,2,Z,Missouri_2012
+2012,1266,Marquette,3,Z,Marquette_2012
+2012,1257,Louisville,4,Z,Louisville_2012
+2012,1307,New Mexico,5,Z,New Mexico_2012
+2012,1293,Murray St.,6,Z,Murray St._2012
+2012,1196,Florida,7,Z,Florida_2012
+2012,1272,Memphis,8,Z,Memphis_2012
+2012,1387,Saint Louis,9,Z,Saint Louis_2012
+2012,1438,Virginia,10,Z,Virginia_2012
+2012,1161,Colorado St.,11,Z,Colorado St._2012
+2012,1253,Long Beach St.,12,Z,Long Beach St._2012
+2012,1172,Davidson,13,Z,Davidson_2012
+2012,1140,BYU,14,Z,BYU_2012
+2012,1233,Iona,14,Z,Iona_2012
+2012,1313,Norfolk St.,15,Z,Norfolk St._2012
+2012,1254,LIU Brooklyn,16,Z,LIU Brooklyn_2012
+2013,1231,Indiana,1,W,Indiana_2013
+2013,1274,Miami FL,2,W,Miami FL_2013
+2013,1266,Marquette,3,W,Marquette_2013
+2013,1393,Syracuse,4,W,Syracuse_2013
+2013,1424,UNLV,5,W,UNLV_2013
+2013,1139,Butler,6,W,Butler_2013
+2013,1228,Illinois,7,W,Illinois_2013
+2013,1301,N.C. State,8,W,N.C. State_2013
+2013,1396,Temple,9,W,Temple_2013
+2013,1160,Colorado,10,W,Colorado_2013
+2013,1137,Bucknell,11,W,Bucknell_2013
+2013,1143,California,12,W,California_2013
+2013,1285,Montana,13,W,Montana_2013
+2013,1172,Davidson,14,W,Davidson_2013
+2013,1334,Pacific,15,W,Pacific_2013
+2013,1241,James Madison,16,W,James Madison_2013
+2013,1254,LIU Brooklyn,16,W,LIU Brooklyn_2013
+2013,1242,Kansas,1,X,Kansas_2013
+2013,1207,Georgetown,2,X,Georgetown_2013
+2013,1196,Florida,3,X,Florida_2013
+2013,1276,Michigan,4,X,Michigan_2013
+2013,1433,VCU,5,X,VCU_2013
+2013,1417,UCLA,6,X,UCLA_2013
+2013,1361,San Diego St.,7,X,San Diego St._2013
+2013,1314,North Carolina,8,X,North Carolina_2013
+2013,1437,Villanova,9,X,Villanova_2013
+2013,1328,Oklahoma,10,X,Oklahoma_2013
+2013,1278,Minnesota,11,X,Minnesota_2013
+2013,1103,Akron,12,X,Akron_2013
+2013,1355,South Dakota St.,13,X,South Dakota St._2013
+2013,1322,Northwestern St.,14,X,Northwestern St._2013
+2013,1195,Florida Gulf Coast,15,X,Florida Gulf Coast_2013
+2013,1443,Western Kentucky,16,X,Western Kentucky_2013
+2013,1257,Louisville,1,Y,Louisville_2013
+2013,1181,Duke,2,Y,Duke_2013
+2013,1277,Michigan St.,3,Y,Michigan St._2013
+2013,1387,Saint Louis,4,Y,Saint Louis_2013
+2013,1329,Oklahoma St.,5,Y,Oklahoma St._2013
+2013,1272,Memphis,6,Y,Memphis_2013
+2013,1166,Creighton,7,Y,Creighton_2013
+2013,1161,Colorado St.,8,Y,Colorado St._2013
+2013,1281,Missouri,9,Y,Missouri_2013
+2013,1153,Cincinnati,10,Y,Cincinnati_2013
+2013,1292,Middle Tennessee,11,Y,Middle Tennessee_2013
+2013,1388,Saint Mary's,11,Y,Saint Mary's_2013
+2013,1332,Oregon,12,Y,Oregon_2013
+2013,1308,New Mexico St.,13,Y,New Mexico St._2013
+2013,1434,Valparaiso,14,Y,Valparaiso_2013
+2013,1107,Albany,15,Y,Albany_2013
+2013,1251,Liberty,16,Y,Liberty_2013
+2013,1299,North Carolina A&T,16,Y,North Carolina A&T_2013
+2013,1211,Gonzaga,1,Z,Gonzaga_2013
+2013,1326,Ohio St.,2,Z,Ohio St._2013
+2013,1307,New Mexico,3,Z,New Mexico_2013
+2013,1243,Kansas St.,4,Z,Kansas St._2013
+2013,1458,Wisconsin,5,Z,Wisconsin_2013
+2013,1112,Arizona,6,Z,Arizona_2013
+2013,1323,Notre Dame,7,Z,Notre Dame_2013
+2013,1338,Pittsburgh,8,Z,Pittsburgh_2013
+2013,1455,Wichita St.,9,Z,Wichita St._2013
+2013,1235,Iowa St.,10,Z,Iowa St._2013
+2013,1125,Belmont,11,Z,Belmont_2013
+2013,1279,Mississippi,12,Z,Mississippi_2013
+2013,1129,Boise St.,13,Z,Boise St._2013
+2013,1247,La Salle,13,Z,La Salle_2013
+2013,1217,Harvard,14,Z,Harvard_2013
+2013,1233,Iona,15,Z,Iona_2013
+2013,1380,Southern,16,Z,Southern_2013
+2014,1438,Virginia,1,W,Virginia_2014
+2014,1437,Villanova,2,W,Villanova_2014
+2014,1235,Iowa St.,3,W,Iowa St._2014
+2014,1277,Michigan St.,4,W,Michigan St._2014
+2014,1153,Cincinnati,5,W,Cincinnati_2014
+2014,1314,North Carolina,6,W,North Carolina_2014
+2014,1163,Connecticut,7,W,Connecticut_2014
+2014,1272,Memphis,8,W,Memphis_2014
+2014,1203,George Washington,9,W,George Washington_2014
+2014,1386,Saint Joseph's,10,W,Saint Joseph's_2014
+2014,1344,Providence,11,W,Providence_2014
+2014,1217,Harvard,12,W,Harvard_2014
+2014,1174,Delaware,13,W,Delaware_2014
+2014,1300,North Carolina Central,14,W,North Carolina Central_2014
+2014,1454,Milwaukee,15,W,Milwaukee_2014
+2014,1157,Coastal Carolina,16,W,Coastal Carolina_2014
+2014,1196,Florida,1,X,Florida_2014
+2014,1242,Kansas,2,X,Kansas_2014
+2014,1393,Syracuse,3,X,Syracuse_2014
+2014,1417,UCLA,4,X,UCLA_2014
+2014,1433,VCU,5,X,VCU_2014
+2014,1326,Ohio St.,6,X,Ohio St._2014
+2014,1307,New Mexico,7,X,New Mexico_2014
+2014,1160,Colorado,8,X,Colorado_2014
+2014,1338,Pittsburgh,9,X,Pittsburgh_2014
+2014,1390,Stanford,10,X,Stanford_2014
+2014,1173,Dayton,11,X,Dayton_2014
+2014,1372,Stephen F. Austin,12,X,Stephen F. Austin_2014
+2014,1409,Tulsa,13,X,Tulsa_2014
+2014,1444,Western Michigan,14,X,Western Michigan_2014
+2014,1184,Eastern Kentucky,15,X,Eastern Kentucky_2014
+2014,1107,Albany,16,X,Albany_2014
+2014,1291,Mount St. Mary's,16,X,Mount St. Mary's_2014
+2014,1455,Wichita St.,1,Y,Wichita St._2014
+2014,1276,Michigan,2,Y,Michigan_2014
+2014,1181,Duke,3,Y,Duke_2014
+2014,1257,Louisville,4,Y,Louisville_2014
+2014,1387,Saint Louis,5,Y,Saint Louis_2014
+2014,1269,Massachusetts,6,Y,Massachusetts_2014
+2014,1400,Texas,7,Y,Texas_2014
+2014,1246,Kentucky,8,Y,Kentucky_2014
+2014,1243,Kansas St.,9,Y,Kansas St._2014
+2014,1113,Arizona St.,10,Y,Arizona St._2014
+2014,1234,Iowa,11,Y,Iowa_2014
+2014,1397,Tennessee,11,Y,Tennessee_2014
+2014,1301,N.C. State,12,Y,N.C. State_2014
+2014,1462,Xavier,12,Y,Xavier_2014
+2014,1264,Manhattan,13,Y,Manhattan_2014
+2014,1273,Mercer,14,Y,Mercer_2014
+2014,1459,Wofford,15,Y,Wofford_2014
+2014,1142,Cal Poly,16,Y,Cal Poly_2014
+2014,1411,Texas Southern,16,Y,Texas Southern_2014
+2014,1112,Arizona,1,Z,Arizona_2014
+2014,1458,Wisconsin,2,Z,Wisconsin_2014
+2014,1166,Creighton,3,Z,Creighton_2014
+2014,1361,San Diego St.,4,Z,San Diego St._2014
+2014,1328,Oklahoma,5,Z,Oklahoma_2014
+2014,1124,Baylor,6,Z,Baylor_2014
+2014,1332,Oregon,7,Z,Oregon_2014
+2014,1211,Gonzaga,8,Z,Gonzaga_2014
+2014,1329,Oklahoma St.,9,Z,Oklahoma St._2014
+2014,1140,BYU,10,Z,BYU_2014
+2014,1304,Nebraska,11,Z,Nebraska_2014
+2014,1295,North Dakota St.,12,Z,North Dakota St._2014
+2014,1308,New Mexico St.,13,Z,New Mexico St._2014
+2014,1418,Louisiana,14,Z,Louisiana_2014
+2014,1110,American,15,Z,American_2014
+2014,1451,Weber St.,16,Z,Weber St._2014
+2015,1437,Villanova,1,W,Villanova_2015
+2015,1438,Virginia,2,W,Virginia_2015
+2015,1328,Oklahoma,3,W,Oklahoma_2015
+2015,1257,Louisville,4,W,Louisville_2015
+2015,1320,Northern Iowa,5,W,Northern Iowa_2015
+2015,1344,Providence,6,W,Providence_2015
+2015,1277,Michigan St.,7,W,Michigan St._2015
+2015,1301,N.C. State,8,W,N.C. State_2015
+2015,1261,LSU,9,W,LSU_2015
+2015,1208,Georgia,10,W,Georgia_2015
+2015,1129,Boise St.,11,W,Boise St._2015
+2015,1173,Dayton,11,W,Dayton_2015
+2015,1461,Wyoming,12,W,Wyoming_2015
+2015,1414,UC Irvine,13,W,UC Irvine_2015
+2015,1107,Albany,14,W,Albany_2015
+2015,1125,Belmont,15,W,Belmont_2015
+2015,1248,Lafayette,16,W,Lafayette_2015
+2015,1181,Duke,1,X,Duke_2015
+2015,1211,Gonzaga,2,X,Gonzaga_2015
+2015,1235,Iowa St.,3,X,Iowa St._2015
+2015,1207,Georgetown,4,X,Georgetown_2015
+2015,1428,Utah,5,X,Utah_2015
+2015,1374,SMU,6,X,SMU_2015
+2015,1234,Iowa,7,X,Iowa_2015
+2015,1361,San Diego St.,8,X,San Diego St._2015
+2015,1385,St. John's,9,X,St. John's_2015
+2015,1172,Davidson,10,X,Davidson_2015
+2015,1417,UCLA,11,X,UCLA_2015
+2015,1372,Stephen F. Austin,12,X,Stephen F. Austin_2015
+2015,1186,Eastern Washington,13,X,Eastern Washington_2015
+2015,1412,UAB,14,X,UAB_2015
+2015,1295,North Dakota St.,15,X,North Dakota St._2015
+2015,1316,North Florida,16,X,North Florida_2015
+2015,1352,Robert Morris,16,X,Robert Morris_2015
+2015,1246,Kentucky,1,Y,Kentucky_2015
+2015,1242,Kansas,2,Y,Kansas_2015
+2015,1323,Notre Dame,3,Y,Notre Dame_2015
+2015,1268,Maryland,4,Y,Maryland_2015
+2015,1452,West Virginia,5,Y,West Virginia_2015
+2015,1139,Butler,6,Y,Butler_2015
+2015,1455,Wichita St.,7,Y,Wichita St._2015
+2015,1153,Cincinnati,8,Y,Cincinnati_2015
+2015,1345,Purdue,9,Y,Purdue_2015
+2015,1231,Indiana,10,Y,Indiana_2015
+2015,1400,Texas,11,Y,Texas_2015
+2015,1138,Buffalo,12,Y,Buffalo_2015
+2015,1434,Valparaiso,13,Y,Valparaiso_2015
+2015,1318,Northeastern,14,Y,Northeastern_2015
+2015,1308,New Mexico St.,15,Y,New Mexico St._2015
+2015,1214,Hampton,16,Y,Hampton_2015
+2015,1264,Manhattan,16,Y,Manhattan_2015
+2015,1458,Wisconsin,1,Z,Wisconsin_2015
+2015,1112,Arizona,2,Z,Arizona_2015
+2015,1124,Baylor,3,Z,Baylor_2015
+2015,1314,North Carolina,4,Z,North Carolina_2015
+2015,1116,Arkansas,5,Z,Arkansas_2015
+2015,1462,Xavier,6,Z,Xavier_2015
+2015,1433,VCU,7,Z,VCU_2015
+2015,1332,Oregon,8,Z,Oregon_2015
+2015,1329,Oklahoma St.,9,Z,Oklahoma St._2015
+2015,1326,Ohio St.,10,Z,Ohio St._2015
+2015,1140,BYU,11,Z,BYU_2015
+2015,1279,Mississippi,11,Z,Mississippi_2015
+2015,1459,Wofford,12,Z,Wofford_2015
+2015,1217,Harvard,13,Z,Harvard_2015
+2015,1209,Georgia St.,14,Z,Georgia St._2015
+2015,1411,Texas Southern,15,Z,Texas Southern_2015
+2015,1157,Coastal Carolina,16,Z,Coastal Carolina_2015
+2016,1314,North Carolina,1,W,North Carolina_2016
+2016,1462,Xavier,2,W,Xavier_2016
+2016,1452,West Virginia,3,W,West Virginia_2016
+2016,1246,Kentucky,4,W,Kentucky_2016
+2016,1231,Indiana,5,W,Indiana_2016
+2016,1323,Notre Dame,6,W,Notre Dame_2016
+2016,1458,Wisconsin,7,W,Wisconsin_2016
+2016,1425,USC,8,W,USC_2016
+2016,1344,Providence,9,W,Providence_2016
+2016,1338,Pittsburgh,10,W,Pittsburgh_2016
+2016,1276,Michigan,11,W,Michigan_2016
+2016,1409,Tulsa,11,W,Tulsa_2016
+2016,1151,Chattanooga,12,W,Chattanooga_2016
+2016,1392,Stony Brook,13,W,Stony Brook_2016
+2016,1372,Stephen F. Austin,14,W,Stephen F. Austin_2016
+2016,1451,Weber St.,15,W,Weber St._2016
+2016,1192,Fairleigh Dickinson,16,W,Fairleigh Dickinson_2016
+2016,1195,Florida Gulf Coast,16,W,Florida Gulf Coast_2016
+2016,1438,Virginia,1,X,Virginia_2016
+2016,1277,Michigan St.,2,X,Michigan St._2016
+2016,1428,Utah,3,X,Utah_2016
+2016,1235,Iowa St.,4,X,Iowa St._2016
+2016,1345,Purdue,5,X,Purdue_2016
+2016,1371,Seton Hall,6,X,Seton Hall_2016
+2016,1173,Dayton,7,X,Dayton_2016
+2016,1403,Texas Tech,8,X,Texas Tech_2016
+2016,1139,Butler,9,X,Butler_2016
+2016,1393,Syracuse,10,X,Syracuse_2016
+2016,1211,Gonzaga,11,X,Gonzaga_2016
+2016,1114,Little Rock,12,X,Little Rock_2016
+2016,1233,Iona,13,X,Iona_2016
+2016,1201,Fresno St.,14,X,Fresno St._2016
+2016,1292,Middle Tennessee,15,X,Middle Tennessee_2016
+2016,1214,Hampton,16,X,Hampton_2016
+2016,1242,Kansas,1,Y,Kansas_2016
+2016,1437,Villanova,2,Y,Villanova_2016
+2016,1274,Miami FL,3,Y,Miami FL_2016
+2016,1143,California,4,Y,California_2016
+2016,1268,Maryland,5,Y,Maryland_2016
+2016,1112,Arizona,6,Y,Arizona_2016
+2016,1234,Iowa,7,Y,Iowa_2016
+2016,1160,Colorado,8,Y,Colorado_2016
+2016,1163,Connecticut,9,Y,Connecticut_2016
+2016,1396,Temple,10,Y,Temple_2016
+2016,1435,Vanderbilt,11,Y,Vanderbilt_2016
+2016,1455,Wichita St.,11,Y,Wichita St._2016
+2016,1355,South Dakota St.,12,Y,South Dakota St._2016
+2016,1218,Hawaii,13,Y,Hawaii_2016
+2016,1138,Buffalo,14,Y,Buffalo_2016
+2016,1421,UNC Asheville,15,Y,UNC Asheville_2016
+2016,1122,Austin Peay,16,Y,Austin Peay_2016
+2016,1332,Oregon,1,Z,Oregon_2016
+2016,1328,Oklahoma,2,Z,Oklahoma_2016
+2016,1401,Texas A&M,3,Z,Texas A&M_2016
+2016,1181,Duke,4,Z,Duke_2016
+2016,1124,Baylor,5,Z,Baylor_2016
+2016,1400,Texas,6,Z,Texas_2016
+2016,1333,Oregon St.,7,Z,Oregon St._2016
+2016,1386,Saint Joseph's,8,Z,Saint Joseph's_2016
+2016,1153,Cincinnati,9,Z,Cincinnati_2016
+2016,1433,VCU,10,Z,VCU_2016
+2016,1320,Northern Iowa,11,Z,Northern Iowa_2016
+2016,1463,Yale,12,Z,Yale_2016
+2016,1423,UNC Wilmington,13,Z,UNC Wilmington_2016
+2016,1453,Green Bay,14,Z,Green Bay_2016
+2016,1167,Cal St. Bakersfield,15,Z,Cal St. Bakersfield_2016
+2016,1221,Holy Cross,16,Z,Holy Cross_2016
+2016,1380,Southern,16,Z,Southern_2016
+2017,1437,Villanova,1,W,Villanova_2017
+2017,1181,Duke,2,W,Duke_2017
+2017,1124,Baylor,3,W,Baylor_2017
+2017,1196,Florida,4,W,Florida_2017
+2017,1438,Virginia,5,W,Virginia_2017
+2017,1374,SMU,6,W,SMU_2017
+2017,1376,South Carolina,7,W,South Carolina_2017
+2017,1458,Wisconsin,8,W,Wisconsin_2017
+2017,1439,Virginia Tech,9,W,Virginia Tech_2017
+2017,1266,Marquette,10,W,Marquette_2017
+2017,1344,Providence,11,W,Providence_2017
+2017,1425,USC,11,W,USC_2017
+2017,1423,UNC Wilmington,12,W,UNC Wilmington_2017
+2017,1190,East Tennessee St.,13,W,East Tennessee St._2017
+2017,1308,New Mexico St.,14,W,New Mexico St._2017
+2017,1407,Troy,15,W,Troy_2017
+2017,1291,Mount St. Mary's,16,W,Mount St. Mary's_2017
+2017,1309,New Orleans,16,W,New Orleans_2017
+2017,1211,Gonzaga,1,X,Gonzaga_2017
+2017,1112,Arizona,2,X,Arizona_2017
+2017,1199,Florida St.,3,X,Florida St._2017
+2017,1452,West Virginia,4,X,West Virginia_2017
+2017,1323,Notre Dame,5,X,Notre Dame_2017
+2017,1268,Maryland,6,X,Maryland_2017
+2017,1388,Saint Mary's,7,X,Saint Mary's_2017
+2017,1321,Northwestern,8,X,Northwestern_2017
+2017,1435,Vanderbilt,9,X,Vanderbilt_2017
+2017,1433,VCU,10,X,VCU_2017
+2017,1462,Xavier,11,X,Xavier_2017
+2017,1343,Princeton,12,X,Princeton_2017
+2017,1137,Bucknell,13,X,Bucknell_2017
+2017,1195,Florida Gulf Coast,14,X,Florida Gulf Coast_2017
+2017,1315,North Dakota,15,X,North Dakota_2017
+2017,1355,South Dakota St.,16,X,South Dakota St._2017
+2017,1242,Kansas,1,Y,Kansas_2017
+2017,1257,Louisville,2,Y,Louisville_2017
+2017,1332,Oregon,3,Y,Oregon_2017
+2017,1345,Purdue,4,Y,Purdue_2017
+2017,1235,Iowa St.,5,Y,Iowa St._2017
+2017,1166,Creighton,6,Y,Creighton_2017
+2017,1276,Michigan,7,Y,Michigan_2017
+2017,1274,Miami FL,8,Y,Miami FL_2017
+2017,1277,Michigan St.,9,Y,Michigan St._2017
+2017,1329,Oklahoma St.,10,Y,Oklahoma St._2017
+2017,1348,Rhode Island,11,Y,Rhode Island_2017
+2017,1305,Nevada,12,Y,Nevada_2017
+2017,1436,Vermont,13,Y,Vermont_2017
+2017,1233,Iona,14,Y,Iona_2017
+2017,1240,Jacksonville St.,15,Y,Jacksonville St._2017
+2017,1300,North Carolina Central,16,Y,North Carolina Central_2017
+2017,1413,UC Davis,16,Y,UC Davis_2017
+2017,1314,North Carolina,1,Z,North Carolina_2017
+2017,1246,Kentucky,2,Z,Kentucky_2017
+2017,1417,UCLA,3,Z,UCLA_2017
+2017,1139,Butler,4,Z,Butler_2017
+2017,1278,Minnesota,5,Z,Minnesota_2017
+2017,1153,Cincinnati,6,Z,Cincinnati_2017
+2017,1173,Dayton,7,Z,Dayton_2017
+2017,1116,Arkansas,8,Z,Arkansas_2017
+2017,1371,Seton Hall,9,Z,Seton Hall_2017
+2017,1455,Wichita St.,10,Z,Wichita St._2017
+2017,1243,Kansas St.,11,Z,Kansas St._2017
+2017,1448,Wake Forest,11,Z,Wake Forest_2017
+2017,1292,Middle Tennessee,12,Z,Middle Tennessee_2017
+2017,1457,Winthrop,13,Z,Winthrop_2017
+2017,1245,Kent St.,14,Z,Kent St._2017
+2017,1297,Northern Kentucky,15,Z,Northern Kentucky_2017
+2017,1411,Texas Southern,16,Z,Texas Southern_2017
+2018,1437,Villanova,1,W,Villanova_2018
+2018,1345,Purdue,2,W,Purdue_2018
+2018,1403,Texas Tech,3,W,Texas Tech_2018
+2018,1455,Wichita St.,4,W,Wichita St._2018
+2018,1452,West Virginia,5,W,West Virginia_2018
+2018,1196,Florida,6,W,Florida_2018
+2018,1116,Arkansas,7,W,Arkansas_2018
+2018,1439,Virginia Tech,8,W,Virginia Tech_2018
+2018,1104,Alabama,9,W,Alabama_2018
+2018,1139,Butler,10,W,Butler_2018
+2018,1382,St. Bonaventure,11,W,St. Bonaventure_2018
+2018,1417,UCLA,11,W,UCLA_2018
+2018,1293,Murray St.,12,W,Murray St._2018
+2018,1267,Marshall,13,W,Marshall_2018
+2018,1372,Stephen F. Austin,14,W,Stephen F. Austin_2018
+2018,1168,Cal St. Fullerton,15,W,Cal St. Fullerton_2018
+2018,1254,LIU Brooklyn,16,W,LIU Brooklyn_2018
+2018,1347,Radford,16,W,Radford_2018
+2018,1242,Kansas,1,X,Kansas_2018
+2018,1181,Duke,2,X,Duke_2018
+2018,1277,Michigan St.,3,X,Michigan St._2018
+2018,1120,Auburn,4,X,Auburn_2018
+2018,1155,Clemson,5,X,Clemson_2018
+2018,1395,TCU,6,X,TCU_2018
+2018,1348,Rhode Island,7,X,Rhode Island_2018
+2018,1371,Seton Hall,8,X,Seton Hall_2018
+2018,1301,N.C. State,9,X,N.C. State_2018
+2018,1328,Oklahoma,10,X,Oklahoma_2018
+2018,1113,Arizona St.,11,X,Arizona St._2018
+2018,1393,Syracuse,11,X,Syracuse_2018
+2018,1308,New Mexico St.,12,X,New Mexico St._2018
+2018,1158,College of Charleston,13,X,College of Charleston_2018
+2018,1137,Bucknell,14,X,Bucknell_2018
+2018,1233,Iona,15,X,Iona_2018
+2018,1335,Penn,16,X,Penn_2018
+2018,1438,Virginia,1,Y,Virginia_2018
+2018,1153,Cincinnati,2,Y,Cincinnati_2018
+2018,1397,Tennessee,3,Y,Tennessee_2018
+2018,1112,Arizona,4,Y,Arizona_2018
+2018,1246,Kentucky,5,Y,Kentucky_2018
+2018,1274,Miami FL,6,Y,Miami FL_2018
+2018,1305,Nevada,7,Y,Nevada_2018
+2018,1166,Creighton,8,Y,Creighton_2018
+2018,1243,Kansas St.,9,Y,Kansas St._2018
+2018,1400,Texas,10,Y,Texas_2018
+2018,1260,Loyola Chicago,11,Y,Loyola Chicago_2018
+2018,1172,Davidson,12,Y,Davidson_2018
+2018,1138,Buffalo,13,Y,Buffalo_2018
+2018,1460,Wright St.,14,Y,Wright St._2018
+2018,1209,Georgia St.,15,Y,Georgia St._2018
+2018,1420,UMBC,16,Y,UMBC_2018
+2018,1462,Xavier,1,Z,Xavier_2018
+2018,1314,North Carolina,2,Z,North Carolina_2018
+2018,1276,Michigan,3,Z,Michigan_2018
+2018,1211,Gonzaga,4,Z,Gonzaga_2018
+2018,1326,Ohio St.,5,Z,Ohio St._2018
+2018,1222,Houston,6,Z,Houston_2018
+2018,1401,Texas A&M,7,Z,Texas A&M_2018
+2018,1281,Missouri,8,Z,Missouri_2018
+2018,1199,Florida St.,9,Z,Florida St._2018
+2018,1344,Providence,10,Z,Providence_2018
+2018,1361,San Diego St.,11,Z,San Diego St._2018
+2018,1355,South Dakota St.,12,Z,South Dakota St._2018
+2018,1422,UNC Greensboro,13,Z,UNC Greensboro_2018
+2018,1285,Montana,14,Z,Montana_2018
+2018,1252,Lipscomb,15,Z,Lipscomb_2018
+2018,1300,North Carolina Central,16,Z,North Carolina Central_2018
+2018,1411,Texas Southern,16,Z,Texas Southern_2018
+2019,1181,Duke,1,W,Duke_2019
+2019,1277,Michigan St.,2,W,Michigan St._2019
+2019,1261,LSU,3,W,LSU_2019
+2019,1439,Virginia Tech,4,W,Virginia Tech_2019
+2019,1280,Mississippi St.,5,W,Mississippi St._2019
+2019,1268,Maryland,6,W,Maryland_2019
+2019,1257,Louisville,7,W,Louisville_2019
+2019,1433,VCU,8,W,VCU_2019
+2019,1416,UCF,9,W,UCF_2019
+2019,1278,Minnesota,10,W,Minnesota_2019
+2019,1125,Belmont,11,W,Belmont_2019
+2019,1396,Temple,11,W,Temple_2019
+2019,1251,Liberty,12,W,Liberty_2019
+2019,1387,Saint Louis,13,W,Saint Louis_2019
+2019,1463,Yale,14,W,Yale_2019
+2019,1133,Bradley,15,W,Bradley_2019
+2019,1295,North Dakota St.,16,W,North Dakota St._2019
+2019,1300,North Carolina Central,16,W,North Carolina Central_2019
+2019,1211,Gonzaga,1,X,Gonzaga_2019
+2019,1276,Michigan,2,X,Michigan_2019
+2019,1403,Texas Tech,3,X,Texas Tech_2019
+2019,1199,Florida St.,4,X,Florida St._2019
+2019,1266,Marquette,5,X,Marquette_2019
+2019,1138,Buffalo,6,X,Buffalo_2019
+2019,1305,Nevada,7,X,Nevada_2019
+2019,1393,Syracuse,8,X,Syracuse_2019
+2019,1124,Baylor,9,X,Baylor_2019
+2019,1196,Florida,10,X,Florida_2019
+2019,1113,Arizona St.,11,X,Arizona St._2019
+2019,1385,St. John's,11,X,St. John's_2019
+2019,1293,Murray St.,12,X,Murray St._2019
+2019,1436,Vermont,13,X,Vermont_2019
+2019,1297,Northern Kentucky,14,X,Northern Kentucky_2019
+2019,1285,Montana,15,X,Montana_2019
+2019,1192,Fairleigh Dickinson,16,X,Fairleigh Dickinson_2019
+2019,1341,Prairie View A&M,16,X,Prairie View A&M_2019
+2019,1314,North Carolina,1,Y,North Carolina_2019
+2019,1246,Kentucky,2,Y,Kentucky_2019
+2019,1222,Houston,3,Y,Houston_2019
+2019,1242,Kansas,4,Y,Kansas_2019
+2019,1120,Auburn,5,Y,Auburn_2019
+2019,1235,Iowa St.,6,Y,Iowa St._2019
+2019,1459,Wofford,7,Y,Wofford_2019
+2019,1429,Utah St.,8,Y,Utah St._2019
+2019,1449,Washington,9,Y,Washington_2019
+2019,1371,Seton Hall,10,Y,Seton Hall_2019
+2019,1326,Ohio St.,11,Y,Ohio St._2019
+2019,1308,New Mexico St.,12,Y,New Mexico St._2019
+2019,1318,Northeastern,13,Y,Northeastern_2019
+2019,1209,Georgia St.,14,Y,Georgia St._2019
+2019,1101,Abilene Christian,15,Y,Abilene Christian_2019
+2019,1233,Iona,16,Y,Iona_2019
+2019,1438,Virginia,1,Z,Virginia_2019
+2019,1397,Tennessee,2,Z,Tennessee_2019
+2019,1345,Purdue,3,Z,Purdue_2019
+2019,1243,Kansas St.,4,Z,Kansas St._2019
+2019,1458,Wisconsin,5,Z,Wisconsin_2019
+2019,1437,Villanova,6,Z,Villanova_2019
+2019,1153,Cincinnati,7,Z,Cincinnati_2019
+2019,1279,Mississippi,8,Z,Mississippi_2019
+2019,1328,Oklahoma,9,Z,Oklahoma_2019
+2019,1234,Iowa,10,Z,Iowa_2019
+2019,1388,Saint Mary's,11,Z,Saint Mary's_2019
+2019,1332,Oregon,12,Z,Oregon_2019
+2019,1414,UC Irvine,13,Z,UC Irvine_2019
+2019,1330,Old Dominion,14,Z,Old Dominion_2019
+2019,1159,Colgate,15,Z,Colgate_2019
+2019,1205,Gardner Webb,16,Z,Gardner Webb_2019
+2021,1276,Michigan,1,W,Michigan_2021
+2021,1104,Alabama,2,W,Alabama_2021
+2021,1400,Texas,3,W,Texas_2021
+2021,1199,Florida St.,4,W,Florida St._2021
+2021,1160,Colorado,5,W,Colorado_2021
+2021,1140,BYU,6,W,BYU_2021
+2021,1163,Connecticut,7,W,Connecticut_2021
+2021,1261,LSU,8,W,LSU_2021
+2021,1382,St. Bonaventure,9,W,St. Bonaventure_2021
+2021,1268,Maryland,10,W,Maryland_2021
+2021,1277,Michigan St.,11,W,Michigan St._2021
+2021,1417,UCLA,11,W,UCLA_2021
+2021,1207,Georgetown,12,W,Georgetown_2021
+2021,1422,UNC Greensboro,13,W,UNC Greensboro_2021
+2021,1101,Abilene Christian,14,W,Abilene Christian_2021
+2021,1233,Iona,15,W,Iona_2021
+2021,1291,Mount St. Mary's,16,W,Mount St. Mary's_2021
+2021,1411,Texas Southern,16,W,Texas Southern_2021
+2021,1211,Gonzaga,1,X,Gonzaga_2021
+2021,1234,Iowa,2,X,Iowa_2021
+2021,1242,Kansas,3,X,Kansas_2021
+2021,1438,Virginia,4,X,Virginia_2021
+2021,1166,Creighton,5,X,Creighton_2021
+2021,1425,USC,6,X,USC_2021
+2021,1332,Oregon,7,X,Oregon_2021
+2021,1328,Oklahoma,8,X,Oklahoma_2021
+2021,1281,Missouri,9,X,Missouri_2021
+2021,1433,VCU,10,X,VCU_2021
+2021,1179,Drake,11,X,Drake_2021
+2021,1455,Wichita St.,11,X,Wichita St._2021
+2021,1364,UC Santa Barbara,12,X,UC Santa Barbara_2021
+2021,1325,Ohio,13,X,Ohio_2021
+2021,1186,Eastern Washington,14,X,Eastern Washington_2021
+2021,1213,Grand Canyon,15,X,Grand Canyon_2021
+2021,1111,Appalachian St.,16,X,Appalachian St._2021
+2021,1313,Norfolk St.,16,X,Norfolk St._2021
+2021,1228,Illinois,1,Y,Illinois_2021
+2021,1222,Houston,2,Y,Houston_2021
+2021,1452,West Virginia,3,Y,West Virginia_2021
+2021,1329,Oklahoma St.,4,Y,Oklahoma St._2021
+2021,1397,Tennessee,5,Y,Tennessee_2021
+2021,1361,San Diego St.,6,Y,San Diego St._2021
+2021,1155,Clemson,7,Y,Clemson_2021
+2021,1260,Loyola Chicago,8,Y,Loyola Chicago_2021
+2021,1210,Georgia Tech,9,Y,Georgia Tech_2021
+2021,1353,Rutgers,10,Y,Rutgers_2021
+2021,1393,Syracuse,11,Y,Syracuse_2021
+2021,1333,Oregon St.,12,Y,Oregon St._2021
+2021,1251,Liberty,13,Y,Liberty_2021
+2021,1287,Morehead St.,14,Y,Morehead St._2021
+2021,1156,Cleveland St.,15,Y,Cleveland St._2021
+2021,1180,Drexel,16,Y,Drexel_2021
+2021,1124,Baylor,1,Z,Baylor_2021
+2021,1326,Ohio St.,2,Z,Ohio St._2021
+2021,1116,Arkansas,3,Z,Arkansas_2021
+2021,1345,Purdue,4,Z,Purdue_2021
+2021,1437,Villanova,5,Z,Villanova_2021
+2021,1403,Texas Tech,6,Z,Texas Tech_2021
+2021,1196,Florida,7,Z,Florida_2021
+2021,1314,North Carolina,8,Z,North Carolina_2021
+2021,1458,Wisconsin,9,Z,Wisconsin_2021
+2021,1439,Virginia Tech,10,Z,Virginia Tech_2021
+2021,1429,Utah St.,11,Z,Utah St._2021
+2021,1457,Winthrop,12,Z,Winthrop_2021
+2021,1317,North Texas,13,Z,North Texas_2021
+2021,1159,Colgate,14,Z,Colgate_2021
+2021,1331,Oral Roberts,15,Z,Oral Roberts_2021
+2021,1216,Hartford,16,Z,Hartford_2021
+2022,1124,Baylor,1,W,Baylor_2022
+2022,1246,Kentucky,2,W,Kentucky_2022
+2022,1345,Purdue,3,W,Purdue_2022
+2022,1417,UCLA,4,W,UCLA_2022
+2022,1388,Saint Mary's,5,W,Saint Mary's_2022
+2022,1400,Texas,6,W,Texas_2022
+2022,1293,Murray St.,7,W,Murray St._2022
+2022,1314,North Carolina,8,W,North Carolina_2022
+2022,1266,Marquette,9,W,Marquette_2022
+2022,1362,San Francisco,10,W,San Francisco_2022
+2022,1439,Virginia Tech,11,W,Virginia Tech_2022
+2022,1231,Indiana,12,W,Indiana_2022
+2022,1461,Wyoming,12,W,Wyoming_2022
+2022,1103,Akron,13,W,Akron_2022
+2022,1463,Yale,14,W,Yale_2022
+2022,1389,Saint Peter's,15,W,Saint Peter's_2022
+2022,1313,Norfolk St.,16,W,Norfolk St._2022
+2022,1211,Gonzaga,1,X,Gonzaga_2022
+2022,1181,Duke,2,X,Duke_2022
+2022,1403,Texas Tech,3,X,Texas Tech_2022
+2022,1116,Arkansas,4,X,Arkansas_2022
+2022,1163,Connecticut,5,X,Connecticut_2022
+2022,1104,Alabama,6,X,Alabama_2022
+2022,1277,Michigan St.,7,X,Michigan St._2022
+2022,1129,Boise St.,8,X,Boise St._2022
+2022,1272,Memphis,9,X,Memphis_2022
+2022,1172,Davidson,10,X,Davidson_2022
+2022,1323,Notre Dame,11,X,Notre Dame_2022
+2022,1353,Rutgers,11,X,Rutgers_2022
+2022,1308,New Mexico St.,12,X,New Mexico St._2022
+2022,1436,Vermont,13,X,Vermont_2022
+2022,1286,Montana St.,14,X,Montana St._2022
+2022,1168,Cal St. Fullerton,15,X,Cal St. Fullerton_2022
+2022,1209,Georgia St.,16,X,Georgia St._2022
+2022,1242,Kansas,1,Y,Kansas_2022
+2022,1120,Auburn,2,Y,Auburn_2022
+2022,1458,Wisconsin,3,Y,Wisconsin_2022
+2022,1344,Providence,4,Y,Providence_2022
+2022,1234,Iowa,5,Y,Iowa_2022
+2022,1261,LSU,6,Y,LSU_2022
+2022,1425,USC,7,Y,USC_2022
+2022,1361,San Diego St.,8,Y,San Diego St._2022
+2022,1166,Creighton,9,Y,Creighton_2022
+2022,1274,Miami FL,10,Y,Miami FL_2022
+2022,1235,Iowa St.,11,Y,Iowa St._2022
+2022,1350,Richmond,12,Y,Richmond_2022
+2022,1355,South Dakota St.,13,Y,South Dakota St._2022
+2022,1159,Colgate,14,Y,Colgate_2022
+2022,1240,Jacksonville St.,15,Y,Jacksonville St._2022
+2022,1394,Texas A&M Corpus Chris,16,Y,Texas A&M Corpus Chris_2022
+2022,1411,Texas Southern,16,Y,Texas Southern_2022
+2022,1112,Arizona,1,Z,Arizona_2022
+2022,1437,Villanova,2,Z,Villanova_2022
+2022,1397,Tennessee,3,Z,Tennessee_2022
+2022,1228,Illinois,4,Z,Illinois_2022
+2022,1222,Houston,5,Z,Houston_2022
+2022,1161,Colorado St.,6,Z,Colorado St._2022
+2022,1326,Ohio St.,7,Z,Ohio St._2022
+2022,1371,Seton Hall,8,Z,Seton Hall_2022
+2022,1395,TCU,9,Z,TCU_2022
+2022,1260,Loyola Chicago,10,Z,Loyola Chicago_2022
+2022,1276,Michigan,11,Z,Michigan_2022
+2022,1412,UAB,12,Z,UAB_2022
+2022,1151,Chattanooga,13,Z,Chattanooga_2022
+2022,1255,Longwood,14,Z,Longwood_2022
+2022,1174,Delaware,15,Z,Delaware_2022
+2022,1136,Bryant,16,Z,Bryant_2022
+2022,1460,Wright St.,16,Z,Wright St._2022
+2023,1345,Purdue,1,W,Purdue_2023
+2023,1266,Marquette,2,W,Marquette_2023
+2023,1243,Kansas St.,3,W,Kansas St._2023
+2023,1397,Tennessee,4,W,Tennessee_2023
+2023,1181,Duke,5,W,Duke_2023
+2023,1246,Kentucky,6,W,Kentucky_2023
+2023,1277,Michigan St.,7,W,Michigan St._2023
+2023,1272,Memphis,8,W,Memphis_2023
+2023,1194,Florida Atlantic,9,W,Florida Atlantic_2023
+2023,1425,USC,10,W,USC_2023
+2023,1344,Providence,11,W,Providence_2023
+2023,1331,Oral Roberts,12,W,Oral Roberts_2023
+2023,1418,Louisiana,13,W,Louisiana_2023
+2023,1286,Montana St.,14,W,Montana St._2023
+2023,1436,Vermont,15,W,Vermont_2023
+2023,1192,Fairleigh Dickinson,16,W,Fairleigh Dickinson_2023
+2023,1411,Texas Southern,16,W,Texas Southern_2023
+2023,1104,Alabama,1,X,Alabama_2023
+2023,1112,Arizona,2,X,Arizona_2023
+2023,1124,Baylor,3,X,Baylor_2023
+2023,1438,Virginia,4,X,Virginia_2023
+2023,1361,San Diego St.,5,X,San Diego St._2023
+2023,1166,Creighton,6,X,Creighton_2023
+2023,1281,Missouri,7,X,Missouri_2023
+2023,1268,Maryland,8,X,Maryland_2023
+2023,1452,West Virginia,9,X,West Virginia_2023
+2023,1429,Utah St.,10,X,Utah St._2023
+2023,1301,N.C. State,11,X,N.C. State_2023
+2023,1158,College of Charleston,12,X,College of Charleston_2023
+2023,1202,Furman,13,X,Furman_2023
+2023,1364,UC Santa Barbara,14,X,UC Santa Barbara_2023
+2023,1343,Princeton,15,X,Princeton_2023
+2023,1369,Southeast Missouri St.,16,X,Southeast Missouri St._2023
+2023,1394,Texas A&M Corpus Chris,16,X,Texas A&M Corpus Chris_2023
+2023,1222,Houston,1,Y,Houston_2023
+2023,1400,Texas,2,Y,Texas_2023
+2023,1462,Xavier,3,Y,Xavier_2023
+2023,1231,Indiana,4,Y,Indiana_2023
+2023,1274,Miami FL,5,Y,Miami FL_2023
+2023,1235,Iowa St.,6,Y,Iowa St._2023
+2023,1401,Texas A&M,7,Y,Texas A&M_2023
+2023,1234,Iowa,8,Y,Iowa_2023
+2023,1120,Auburn,9,Y,Auburn_2023
+2023,1336,Penn St.,10,Y,Penn St._2023
+2023,1280,Mississippi St.,11,Y,Mississippi St._2023
+2023,1338,Pittsburgh,11,Y,Pittsburgh_2023
+2023,1179,Drake,12,Y,Drake_2023
+2023,1245,Kent St.,13,Y,Kent St._2023
+2023,1244,Kennesaw St.,14,Y,Kennesaw St._2023
+2023,1159,Colgate,15,Y,Colgate_2023
+2023,1297,Northern Kentucky,16,Y,Northern Kentucky_2023
+2023,1242,Kansas,1,Z,Kansas_2023
+2023,1417,UCLA,2,Z,UCLA_2023
+2023,1211,Gonzaga,3,Z,Gonzaga_2023
+2023,1163,Connecticut,4,Z,Connecticut_2023
+2023,1388,Saint Mary's,5,Z,Saint Mary's_2023
+2023,1395,TCU,6,Z,TCU_2023
+2023,1321,Northwestern,7,Z,Northwestern_2023
+2023,1116,Arkansas,8,Z,Arkansas_2023
+2023,1228,Illinois,9,Z,Illinois_2023
+2023,1129,Boise St.,10,Z,Boise St._2023
+2023,1113,Arizona St.,11,Z,Arizona St._2023
+2023,1305,Nevada,11,Z,Nevada_2023
+2023,1433,VCU,12,Z,VCU_2023
+2023,1233,Iona,13,Z,Iona_2023
+2023,1213,Grand Canyon,14,Z,Grand Canyon_2023
+2023,1421,UNC Asheville,15,Z,UNC Asheville_2023
+2023,1224,Howard,16,Z,Howard_2023
+2024,1163,Connecticut,1,W,Connecticut_2024
+2024,1235,Iowa St.,2,W,Iowa St._2024
+2024,1228,Illinois,3,W,Illinois_2024
+2024,1120,Auburn,4,W,Auburn_2024
+2024,1361,San Diego St.,5,W,San Diego St._2024
+2024,1140,BYU,6,W,BYU_2024
+2024,1450,Washington St.,7,W,Washington St._2024
+2024,1194,Florida Atlantic,8,W,Florida Atlantic_2024
+2024,1321,Northwestern,9,W,Northwestern_2024
+2024,1179,Drake,10,W,Drake_2024
+2024,1182,Duquesne,11,W,Duquesne_2024
+2024,1412,UAB,12,W,UAB_2024
+2024,1463,Yale,13,W,Yale_2024
+2024,1287,Morehead St.,14,W,Morehead St._2024
+2024,1355,South Dakota St.,15,W,South Dakota St._2024
+2024,1391,Stetson,16,W,Stetson_2024
+2024,1314,North Carolina,1,X,North Carolina_2024
+2024,1112,Arizona,2,X,Arizona_2024
+2024,1124,Baylor,3,X,Baylor_2024
+2024,1104,Alabama,4,X,Alabama_2024
+2024,1388,Saint Mary's,5,X,Saint Mary's_2024
+2024,1155,Clemson,6,X,Clemson_2024
+2024,1173,Dayton,7,X,Dayton_2024
+2024,1280,Mississippi St.,8,X,Mississippi St._2024
+2024,1277,Michigan St.,9,X,Michigan St._2024
+2024,1305,Nevada,10,X,Nevada_2024
+2024,1307,New Mexico,11,X,New Mexico_2024
+2024,1213,Grand Canyon,12,X,Grand Canyon_2024
+2024,1158,College of Charleston,13,X,College of Charleston_2024
+2024,1159,Colgate,14,X,Colgate_2024
+2024,1253,Long Beach St.,15,X,Long Beach St._2024
+2024,1224,Howard,16,X,Howard_2024
+2024,1447,Wagner,16,X,Wagner_2024
+2024,1345,Purdue,1,Y,Purdue_2024
+2024,1397,Tennessee,2,Y,Tennessee_2024
+2024,1166,Creighton,3,Y,Creighton_2024
+2024,1242,Kansas,4,Y,Kansas_2024
+2024,1211,Gonzaga,5,Y,Gonzaga_2024
+2024,1376,South Carolina,6,Y,South Carolina_2024
+2024,1400,Texas,7,Y,Texas_2024
+2024,1429,Utah St.,8,Y,Utah St._2024
+2024,1395,TCU,9,Y,TCU_2024
+2024,1161,Colorado St.,10,Y,Colorado St._2024
+2024,1438,Virginia,10,Y,Virginia_2024
+2024,1332,Oregon,11,Y,Oregon_2024
+2024,1270,McNeese St.,12,Y,McNeese St._2024
+2024,1359,Samford,13,Y,Samford_2024
+2024,1103,Akron,14,Y,Akron_2024
+2024,1389,Saint Peter's,15,Y,Saint Peter's_2024
+2024,1212,Grambling St.,16,Y,Grambling St._2024
+2024,1286,Montana St.,16,Y,Montana St._2024
+2024,1222,Houston,1,Z,Houston_2024
+2024,1266,Marquette,2,Z,Marquette_2024
+2024,1246,Kentucky,3,Z,Kentucky_2024
+2024,1181,Duke,4,Z,Duke_2024
+2024,1458,Wisconsin,5,Z,Wisconsin_2024
+2024,1403,Texas Tech,6,Z,Texas Tech_2024
+2024,1196,Florida,7,Z,Florida_2024
+2024,1304,Nebraska,8,Z,Nebraska_2024
+2024,1401,Texas A&M,9,Z,Texas A&M_2024
+2024,1129,Boise St.,10,Z,Boise St._2024
+2024,1160,Colorado,10,Z,Colorado_2024
+2024,1301,N.C. State,11,Z,N.C. State_2024
+2024,1241,James Madison,12,Z,James Madison_2024
+2024,1436,Vermont,13,Z,Vermont_2024
+2024,1324,Oakland,14,Z,Oakland_2024
+2024,1443,Western Kentucky,15,Z,Western Kentucky_2024
+2024,1255,Longwood,16,Z,Longwood_2024
+2025,1181,Duke,1,W,Duke_2025
+2025,1104,Alabama,2,W,Alabama_2025
+2025,1458,Wisconsin,3,W,Wisconsin_2025
+2025,1112,Arizona,4,W,Arizona_2025
+2025,1332,Oregon,5,W,Oregon_2025
+2025,1140,BYU,6,W,BYU_2025
+2025,1388,Saint Mary's,7,W,Saint Mary's_2025
+2025,1280,Mississippi St.,8,W,Mississippi St._2025
+2025,1124,Baylor,9,W,Baylor_2025
+2025,1435,Vanderbilt,10,W,Vanderbilt_2025
+2025,1433,VCU,11,W,VCU_2025
+2025,1251,Liberty,12,W,Liberty_2025
+2025,1103,Akron,13,W,Akron_2025
+2025,1285,Montana,14,W,Montana_2025
+2025,1352,Robert Morris,15,W,Robert Morris_2025
+2025,1110,American,16,W,American_2025
+2025,1291,Mount St. Mary's,16,W,Mount St. Mary's_2025
+2025,1222,Houston,1,X,Houston_2025
+2025,1397,Tennessee,2,X,Tennessee_2025
+2025,1246,Kentucky,3,X,Kentucky_2025
+2025,1345,Purdue,4,X,Purdue_2025
+2025,1155,Clemson,5,X,Clemson_2025
+2025,1228,Illinois,6,X,Illinois_2025
+2025,1417,UCLA,7,X,UCLA_2025
+2025,1211,Gonzaga,8,X,Gonzaga_2025
+2025,1208,Georgia,9,X,Georgia_2025
+2025,1429,Utah St.,10,X,Utah St._2025
+2025,1400,Texas,11,X,Texas_2025
+2025,1462,Xavier,11,X,Xavier_2025
+2025,1270,McNeese St.,12,X,McNeese St._2025
+2025,1219,High Point,13,X,High Point_2025
+2025,1407,Troy,14,X,Troy_2025
+2025,1459,Wofford,15,X,Wofford_2025
+2025,1188,SIUE,16,X,SIUE_2025
+2025,1120,Auburn,1,Y,Auburn_2025
+2025,1277,Michigan St.,2,Y,Michigan St._2025
+2025,1235,Iowa St.,3,Y,Iowa St._2025
+2025,1401,Texas A&M,4,Y,Texas A&M_2025
+2025,1276,Michigan,5,Y,Michigan_2025
+2025,1279,Mississippi,6,Y,Mississippi_2025
+2025,1266,Marquette,7,Y,Marquette_2025
+2025,1257,Louisville,8,Y,Louisville_2025
+2025,1166,Creighton,9,Y,Creighton_2025
+2025,1307,New Mexico,10,Y,New Mexico_2025
+2025,1314,North Carolina,11,Y,North Carolina_2025
+2025,1361,San Diego St.,11,Y,San Diego St._2025
+2025,1471,UC San Diego,12,Y,UC San Diego_2025
+2025,1463,Yale,13,Y,Yale_2025
+2025,1252,Lipscomb,14,Y,Lipscomb_2025
+2025,1136,Bryant,15,Y,Bryant_2025
+2025,1106,Alabama St.,16,Y,Alabama St._2025
+2025,1384,St. Francis PA,16,Y,St. Francis PA_2025
+2025,1196,Florida,1,Z,Florida_2025
+2025,1385,St. John's,2,Z,St. John's_2025
+2025,1403,Texas Tech,3,Z,Texas Tech_2025
+2025,1268,Maryland,4,Z,Maryland_2025
+2025,1272,Memphis,5,Z,Memphis_2025
+2025,1281,Missouri,6,Z,Missouri_2025
+2025,1242,Kansas,7,Z,Kansas_2025
+2025,1163,Connecticut,8,Z,Connecticut_2025
+2025,1328,Oklahoma,9,Z,Oklahoma_2025
+2025,1116,Arkansas,10,Z,Arkansas_2025
+2025,1179,Drake,11,Z,Drake_2025
+2025,1161,Colorado St.,12,Z,Colorado St._2025
+2025,1213,Grand Canyon,13,Z,Grand Canyon_2025
+2025,1423,UNC Wilmington,14,Z,UNC Wilmington_2025
+2025,1303,Nebraska Omaha,15,Z,Nebraska Omaha_2025
+2025,1313,Norfolk St.,16,Z,Norfolk St._2025
+2026,1181,Duke,1,W,Duke_2026
+2026,1163,Connecticut,2,W,Connecticut_2026
+2026,1277,Michigan St.,3,W,Michigan St._2026
+2026,1242,Kansas,4,W,Kansas_2026
+2026,1385,St. John's,5,W,St. John's_2026
+2026,1257,Louisville,6,W,Louisville_2026
+2026,1417,UCLA,7,W,UCLA_2026
+2026,1326,Ohio St.,8,W,Ohio St._2026
+2026,1395,TCU,9,W,TCU_2026
+2026,1416,UCF,10,W,UCF_2026
+2026,1378,South Florida,11,W,South Florida_2026
+2026,1320,Northern Iowa,12,W,Northern Iowa_2026
+2026,1465,Cal Baptist,13,W,Cal Baptist_2026
+2026,1295,North Dakota St.,14,W,North Dakota St._2026
+2026,1202,Furman,15,W,Furman_2026
+2026,1373,Siena,16,W,Siena_2026
+2026,1196,Florida,1,X,Florida_2026
+2026,1222,Houston,2,X,Houston_2026
+2026,1228,Illinois,3,X,Illinois_2026
+2026,1304,Nebraska,4,X,Nebraska_2026
+2026,1435,Vanderbilt,5,X,Vanderbilt_2026
+2026,1314,North Carolina,6,X,North Carolina_2026
+2026,1388,Saint Mary's,7,X,Saint Mary's_2026
+2026,1155,Clemson,8,X,Clemson_2026
+2026,1234,Iowa,9,X,Iowa_2026
+2026,1401,Texas A&M,10,X,Texas A&M_2026
+2026,1433,VCU,11,X,VCU_2026
+2026,1270,McNeese St.,12,X,McNeese St._2026
+2026,1407,Troy,13,X,Troy_2026
+2026,1335,Penn,14,X,Penn_2026
+2026,1225,Idaho,15,X,Idaho_2026
+2026,1250,Lehigh,16,X,Lehigh_2026
+2026,1341,Prairie View A&M,16,X,Prairie View A&M_2026
+2026,1276,Michigan,1,Y,Michigan_2026
+2026,1235,Iowa St.,2,Y,Iowa St._2026
+2026,1438,Virginia,3,Y,Virginia_2026
+2026,1104,Alabama,4,Y,Alabama_2026
+2026,1403,Texas Tech,5,Y,Texas Tech_2026
+2026,1397,Tennessee,6,Y,Tennessee_2026
+2026,1246,Kentucky,7,Y,Kentucky_2026
+2026,1208,Georgia,8,Y,Georgia_2026
+2026,1387,Saint Louis,9,Y,Saint Louis_2026
+2026,1365,Santa Clara,10,Y,Santa Clara_2026
+2026,1275,Miami OH,11,Y,Miami OH_2026
+2026,1374,SMU,11,Y,SMU_2026
+2026,1103,Akron,12,Y,Akron_2026
+2026,1220,Hofstra,13,Y,Hofstra_2026
+2026,1460,Wright St.,14,Y,Wright St._2026
+2026,1398,Tennessee St.,15,Y,Tennessee St._2026
+2026,1224,Howard,16,Y,Howard_2026
+2026,1420,UMBC,16,Y,UMBC_2026
+2026,1112,Arizona,1,Z,Arizona_2026
+2026,1345,Purdue,2,Z,Purdue_2026
+2026,1211,Gonzaga,3,Z,Gonzaga_2026
+2026,1116,Arkansas,4,Z,Arkansas_2026
+2026,1458,Wisconsin,5,Z,Wisconsin_2026
+2026,1140,BYU,6,Z,BYU_2026
+2026,1274,Miami FL,7,Z,Miami FL_2026
+2026,1437,Villanova,8,Z,Villanova_2026
+2026,1429,Utah St.,9,Z,Utah St._2026
+2026,1281,Missouri,10,Z,Missouri_2026
+2026,1301,N.C. State,11,Z,N.C. State_2026
+2026,1400,Texas,11,Z,Texas_2026
+2026,1219,High Point,12,Z,High Point_2026
+2026,1218,Hawaii,13,Z,Hawaii_2026
+2026,1244,Kennesaw St.,14,Z,Kennesaw St._2026
+2026,1474,Queens,15,Z,Queens_2026
+2026,1254,LIU Brooklyn,16,Z,LIU Brooklyn_2026

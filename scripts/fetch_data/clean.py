@@ -322,14 +322,47 @@ def clean_tournament_games(logger) -> pd.DataFrame:
 
     # Apply team name mapping
     games = apply_team_mapping(games, ["WTeamName", "LTeamName"], logger)
+
+    # Add composite keys
+    games = add_team_season_key(games, ["WTeamName", "LTeamName"], logger=logger)
     
-    # Keep only analysis-relevant columns                      
+    # Keep only analysis-relevant columns
     games = games[["Season", "WTeamID", "WScore", "LTeamID",
                    "LScore", "WSeed", "WTeamName", "LSeed",
-                   "LTeamName", "Round", "SeedDiff", "Upset"]]
+                   "LTeamName", "Round", "SeedDiff", "Upset",
+                   "WTeamSeason", "LTeamSeason"]]
 
     logger.info(f"  Tournament games: {games.shape}")
     return games
+def add_team_season_key(df: pd.DataFrame,
+                        name_cols: list,
+                        season_col: str = "Season",
+                        logger=None) -> pd.DataFrame:
+    """
+    Creates composite TeamSeason key(s) by concatenating
+    TeamName and Season (e.g., 'Virginia_2025').
+
+    For KenPom/seeds tables: name_cols = ["TeamName"]
+        → produces "TeamSeason"
+    For tournament games: name_cols = ["WTeamName", "LTeamName"]
+        → produces "WTeamSeason", "LTeamSeason"
+
+    Args:
+        df:         DataFrame
+        name_cols:  Team name column(s) to combine with season
+        season_col: Name of the season column
+        logger:     Logger instance
+    Returns:
+        DataFrame with new TeamSeason key column(s)
+    """
+    df = df.copy()
+    for col in name_cols:
+        prefix = col.replace("TeamName", "")  # "" for TeamName, "W" for WTeamName, etc.
+        key_col = f"{prefix}TeamSeason"
+        df[key_col] = df[col] + "_" + df[season_col].astype(str)
+        if logger:
+            logger.info(f"  Added key: {key_col} ({df[key_col].nunique()} unique)")
+    return df
 
 def clean_tournament_seeds(logger) -> pd.DataFrame:
     """
@@ -360,8 +393,13 @@ def clean_tournament_seeds(logger) -> pd.DataFrame:
     # Apply team name mapping
     seeds = apply_team_mapping(seeds, ["TeamName"], logger)
 
+    # Add composite key
+    seeds = add_team_season_key(seeds, ["TeamName"], logger=logger)
+    seeds = seeds[["Season", "TeamID", "TeamName", "SeedNum", "Region", "TeamSeason"]]
+
     logger.info(f"  Tournament seeds: {seeds.shape}")
     return seeds
+
 
 def verify_mapping(tournament_df: pd.DataFrame,
                    logger) -> None:
@@ -416,24 +454,30 @@ def clean_kenpom(logger) -> dict:
     four_factors = four_factors.drop(columns=[
         "DataThrough", "ConfOnly", "eFG_Pct", "TO_Pct", "OR_Pct",
         "FT_Rate", "DeFG_Pct", "DTO_Pct", "DOR_Pct", "DFT_Rate",
-        "OE", "DE", "Tempo", "AdjOE", "AdjDE", "AdjTempo"
+        "OE", "DE", "Tempo", "AdjOE", "AdjDE", "AdjTempo", "year"
     ])
+    four_factors = add_team_season_key(four_factors, ["TeamName"], logger=logger)
 
     height = load_raw("height.csv", logger)
     height = height.drop(columns=[
         "DataThrough", "AvgHgt", "HgtEff", "Hgt5", "Hgt4", "Hgt3",
-        "Hgt2", "Hgt1", "Exp", "Bench", "Continuity"
+        "Hgt2", "Hgt1", "Exp", "Bench", "Continuity", "year"
     ])
+    height = add_team_season_key(height, ["TeamName"], logger=logger)
 
     ratings = load_raw("ratings.csv", logger)
     ratings = ratings.drop(columns=[
         "DataThrough", "AdjEM", "Pythag", "AdjOE", "OE", "AdjDE",
         "DE", "Tempo", "AdjTempo", "Luck", "SOS", "SOSO", "SOSD",
-        "NCSOS", "APL_Off", "APL_Def", "ConfAPL_Off", "ConfAPL_Def"
+        "NCSOS", "APL_Off", "APL_Def", "ConfAPL_Off", "ConfAPL_Def", "year",
+        # duplicates already in four_factors
+        "RankOE", "RankDE", "RankTempo", "RankAdjOE", "RankAdjDE", "RankAdjTempo"
     ])
+    ratings = add_team_season_key(ratings, ["TeamName"], logger=logger)
 
     teams = load_raw("teams.csv", logger)
     teams = teams.drop(columns=["Coach", "Arena", "ArenaCity", "ArenaState"])
+    teams = add_team_season_key(teams, ["TeamName"], logger=logger)
 
     return {
         "four_factors": four_factors,
