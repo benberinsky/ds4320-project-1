@@ -112,55 +112,173 @@ I also chose to analyze data from 2002 onwards. This decision was made because o
 ## Metadata
 
 ### ER Diagram
-Add image in here
+[Link to ERD](https://github.com/benberinsky/ds4320-project-1/blob/main/ERD_MM.png)
 
 ### Data
-Update table below
 
 ---
 
-| Spec | Value |
-|---|---|
-| Name | Benjamin Berinsky |
-| NetID | tfu5hw |
-| DOI | [ADD IN HERE](add valid link) |
-| Press Release | [ADD IN HERE](add valid link) |
-| Data | [ADD IN HERE](add valid link) |
-| Pipeline | [ADD IN HERE](add valid link) |
-| License | [ADD IN HERE](add valid link) |
+| Table Name | Description | Link |
+|-----------|-------------|------|
+| `four_factors.csv` | Statistics/national rankings for both offense <br> and defense along with team ratings and tempo  | [Link](https://github.com/benberinsky/ds4320-project-1/blob/main/data/clean/four_factors.csv) |
+| `height.csv` | Advanced height statistic rankings as well as <br> team experience, bench strength, and continuity. | [Link](https://github.com/benberinsky/ds4320-project-1/blob/main/data/clean/height.csv) |
+| `ratings.csv` | Team ratings, strength of schedule, tempo, and <br> advanced statistical national ratings | [Link](https://github.com/benberinsky/ds4320-project-1/blob/main/data/clean/ratings.csv) |
+| `teams.csv` | List of teams including team names, conference affiliations,  <br> and coaching information | [Link](https://github.com/benberinsky/ds4320-project-1/blob/main/data/clean/teams.csv) |
+| `tournament_games.csv` | March Madness game information about results,<br> seeds, and upset indicator | [Link](https://github.com/benberinsky/ds4320-project-1/blob/main/data/clean/tournament_games.csv) |
+| `tournament_seeds.csv` | Basic information about team seeding, region in March <br>Madness| [Link](https://github.com/benberinsky/ds4320-project-1/blob/main/data/clean/tournament_seeds.csv) |
 
 ---
 
 ### Data Dictionary
-Update table below
 
----
+Four Factors
 
-| Spec | Value |
-|---|---|
-| Name | Benjamin Berinsky |
-| NetID | tfu5hw |
-| DOI | [ADD IN HERE](add valid link) |
-| Press Release | [ADD IN HERE](add valid link) |
-| Data | [ADD IN HERE](add valid link) |
-| Pipeline | [ADD IN HERE](add valid link) |
-| License | [ADD IN HERE](add valid link) |
+| Field Name | Data Type | Description | Example |
+|:------------|:-----------|:-------------|:---------|
+| `TeamSeason(PK)` | VARCHAR | Team name and season unique identifier | 'Virginia_2026' |
+| `TeamName` | VARCHAR | Team name | 'Virginia' |
+| `Season` | INTEGER | Ending year of the season | 2026 |
+| `RankeFG_Pct` | INTEGER | Effective field goal percentage rank (offense), <br> Formula: (FGM + 0.5 * 3PM) / FGA | 12 |
+| `RankTO_Pct` | INTEGER | Turnover percentage rank (offense)| 78 |
+| `RankOR_Pct` | INTEGER | Offensive rebounding percentage rank | 44 |
+| `RankFT_Rate` | INTEGER | Free throw rate rank (offense), how often a team shoots <br> free throws | 181 |
+| `RankDeFG_Pct` | INTEGER | Effective field goal percentage allowed rank (defense) | 208 |
+| `RankDTO_Pct` | INTEGER | Turnover percentage forced rank (defense) | 36 |
+| `RankDOR_Pct` | INTEGER | Defensive rebounding percentage rank | 23 |
+| `RankDFT_Rate` | INTEGER | Free throw rate allowed rank (defense)| 97 |
+| `RankOE` | VARCHAR | Offensive efficiency rank (points scored/100 possesions) | 255 |
+| `RankDE` | INTEGER | Defensive efficiency rank (points allowed/100 possesions) | 57 |
+| `RankTempo` | INTEGER | Posessions per 40 minutes rank | 101 |
+| `RankAdjOE` | INTEGER | Offensive Efficiency rank adjust for opponent strength | 18 |
+| `RankAdjDE` | INTEGER | Defensive Efficiency rank adjusted for opponent strength | 125 |
+| `RankAdjTempo` | INTEGER | Tempo rank adjusted for opponent strength | 1 |
 
----
+Height
+
+| Field Name | Data Type | Description | Example |
+|:------------|:-----------|:-------------|:---------|
+| `TeamSeason(PK)` | VARCHAR | Team name and season, unique identifier | 'Virginia_2026' |
+| `TeamName` | VARCHAR | Team name | 'Virginia' |
+| `Season` | INTEGER | Ending year of the season | 2026 |
+| `ConfShort` | VARCHAR | Conference short name | 'ACC' |
+| `AvgHgtRank` | INTEGER | Rank of average height of all players on lineup| 78 |
+| `HgtEffRank` | INTEGER | Rank of average height of all players on lineup adjusted <br> for minutes played | 44 |
+| `Hgt5Rank` | INTEGER | Center height rank | 181 |
+| `Hgt4Rank` | INTEGER | Power Forward height rank | 208 |
+| `Hgt3Rank` | INTEGER | Small Forward height rank | 36 |
+| `Hgt2Rank` | INTEGER | Shooting Guard height rank  | 23 |
+| `Hgt1Rank` | INTEGER | Point Guard height rank | 97 |
+| `ExpRank` | VARCHAR | Experience rank based on average year/grade of all players | 255 |
+| `BenchRank` | INTEGER | Bench strength rank based on % of bench minutes played | 57 |
+| `RankContinuity` | INTEGER | Continuity rank, % of a team's minutes played by the same players <br> from the previous season | 101 |
+
+Ratings
+
+| Field Name | Data Type | Description | Example |
+|:---|:---|:---|:---|
+| `TeamSeason(PK, FK)` | VARCHAR | Team name and season unique identifier | 'Virginia_2026' |
+| `TeamName` | VARCHAR | Team name, mapped to KenPom conventions | 'Virginia' |
+| `Season` | INTEGER | Ending year of the season | 2025 |
+| `Seed` | INTEGER | Tournament seed (1–16), null if not in tournament | 4 |
+| `ConfShort` | VARCHAR | Conference short name | 'ACC' |
+| `Coach` | VARCHAR | Head coach name | 'Tony Bennett' |
+| `Wins` | INTEGER | Number of wins in the season | 27 |
+| `Losses` | INTEGER | Number of losses in the season | 7 |
+| `RankAdjEM` | INTEGER | Adjusted Efficiency Margin rank | 12 |
+| `RankPythag` | INTEGER | Pythagorean win expectation rank | 15 |
+| `RankLuck` | INTEGER | Luck rank (deviation from expected record) | 150 |
+| `RankSOS` | INTEGER | Overall Strength of Schedule rank | 22 |
+| `RankSOSO` | INTEGER | Strength of Schedule (Offense) rank | 18 |
+| `RankSOSD` | INTEGER | Strength of Schedule (Defense) rank | 30 |
+| `RankNCSOS` | INTEGER | Non-Conference Strength of Schedule rank | 55 |
+| `Event` | VARCHAR | Tournament event | 'NIT' |
+| `RankAPL_Off` | INTEGER | Average Possession Length (Offense) rank | 88 |
+| `RankAPL_Def` | INTEGER | Average Possession Length (Defense) rank | 112 |
+| `RankConfAPL_Off` | INTEGER | Conference Avg Possession Length (Offense) rank | 74 |
+| `RankConfAPL_Def` | INTEGER | Conference Avg Possession Length (Defense) rank | 99 |
+
+Teams
+| Field Name | Data Type | Description | Example |
+|:---|:---|:---|:---|
+| `TeamSeason(PK)` | VARCHAR | Team name and season unique identifier | 'Virginia_2026' |
+| `Season` | INTEGER | Ending year of the season | 2015 |
+| `TeamName` | VARCHAR | Team name, mapped to KenPom conventions | 'Air Force' |
+| `TeamID` | INTEGER | Unique Kaggle team identifier | 2 |
+| `ConfShort` | VARCHAR | Conference short name | 'ACC' |
+
+
+Tournament Games
+| Field Name | Data Type | Description | Example |
+|:---|:---|:---|:---|
+| `GameID (PK)` | INTEGER | Auto-incrementing game identifier | 1 |
+| `WTeamSeason (FK)` | VARCHAR | Season and team name of winning team| UVA_2026 |
+| `LTeamSeason (FK)` | VARCHAR | Season and team name of winning team | Duke_2026 |
+| `Season` | INTEGER | Ending year of the season | 2012 |
+| `WTeamID` | INTEGER | Unique Kaggle identifier for the winning team | 1166 |
+| `WScore` | INTEGER | Winning team's final score | 58 |
+| `LTeamID` | INTEGER | Unique Kaggle identifier for the losing team | 1104 |
+| `LScore` | INTEGER | Losing team's final score | 57 |
+| `WSeed` | INTEGER | Winning team's tournament seed (1–16) | 8 |
+| `WTeamName` | VARCHAR | Winning team name, mapped to KenPom conventions | 'Creighton' |
+| `LSeed` | INTEGER | Losing team's tournament seed (1–16) | 9 |
+| `LTeamName` | VARCHAR | Losing team name, mapped to KenPom conventions | 'Alabama' |
+| `Round` | VARCHAR | Tournament round (First Four, R64, R32, S16, E8, F4, Championship) | 'R64' |
+| `SeedDiff` | INTEGER | Absolute difference between winner and loser seeds | 1 |
+| `Upset` | INTEGER | 1 if winner's seed > loser's seed by more than 1, else 0 | 0 |
+
+Tournament Seeds
+
+| Field Name | Data Type | Description | Example |
+|:---|:---|:---|:---|
+| `TeamSeason(PK)` | VARCHAR | Team name and season unique identifier | 'Virginia_2026' |
+| `Season` | INTEGER | Ending year of the season | 2014 |
+| `TeamID` | INTEGER | Unique Kaggle team identifier | 1217 |
+| `TeamName` | VARCHAR | Team name, mapped to KenPom conventions | 'Harvard' |
+| `SeedNum` | INTEGER | Tournament seed (1–16) | 12 |
+| `Region` | VARCHAR | Tournament region (W, X, Y, Z) | 'W' |
+
+
 
 ### Uncertainty Quantification
-Update table below
 
 ---
 
-| Spec | Value |
-|---|---|
-| Name | Benjamin Berinsky |
-| NetID | tfu5hw |
-| DOI | [ADD IN HERE](add valid link) |
-| Press Release | [ADD IN HERE](add valid link) |
-| Data | [ADD IN HERE](add valid link) |
-| Pipeline | [ADD IN HERE](add valid link) |
-| License | [ADD IN HERE](add valid link) |
+| Field Name | Data Type | Uncertainty | Rationale |
+|:------------|:-----------|:-------------|:---------|
+| `RankeFG_Pct`  | INTEGER | +/- 0 ranks | Shooting % is objectively recorded, other than occasional <br> mistake by statkeepers |
+| `RankTO_Pct`  | INTEGER | +/- 0 ranks | When the ball changes possesion it is a turnover, objective metric |
+| `RankFT_Rate`  | INTEGER | +/- 0 ranks | Shooting % is objectively recorded, other than occasional <br> mistake by statkeepers
+| `RankDeFG_Pct` | INTEGER |  +/- 0 ranks | Shooting % is objectively recorded, other than occasional <br> mistake by statkeepers
+| `RankDTO_Pct`  | INTEGER | +/- 0 ranks | When the ball changes possesion it is a turnover, objective metric|
+| `RankDOR_Pct`  | INTEGER | +/- 0 ranks | Rebounds are an official recorded statistic |
+| `RankDFT_Rate`  | INTEGER | +/- 0 ranks | Shooting % is objectively recorded, other than occasional <br> mistake by statkeepers|
+| `RankOE` | INTEGER | +/- 0 ranks | Derived mathematically from official box score data |
+| `RankDE`  | INTEGER | +/- 0 ranks | Derived mathematically from official box score data |
+| `RankTempo`  | INTEGER | +/- 0 ranks | Derived mathematically from official box score data |
+| `RankAdjOE`  | INTEGER | +/- 0 ranks | Derived mathematically from official box score data |
+| `RankAdjDE` | INTEGER | +/- 0 ranks | Derived mathematically from official box score data |
+| `RankAdjTempo`  | INTEGER | +/- 0 ranks | Derived mathematically from official box score data |
+| `AvgHgtRank`  | INTEGER | +/- 5 ranks | Players may lie about their height/recordings may <br> differ by program (not all standardized), inherent uncertainty |
+| `HgtEffRank`  | INTEGER | +/- 5 ranks |  Players may lie about their height/recordings may <br> differ by program (not all standardized), inherent uncertainty |
+| `Hgt5Rank` | INTEGER | +/- 10 ranks | Players may lie about their height/recordings may <br> differ by program (not all standardized), inherent uncertainty <br>, less stable than average (one player) |
+| `Hgt4Rank` | INTEGER | +/- 10 ranks | Players may lie about their height/recordings may <br> differ by program (not all standardized), inherent uncertainty <br>, less stable than average (one player) |
+| `Hgt3Rank`  | INTEGER | +/- 10 ranks | Players may lie about their height/recordings may <br> differ by program (not all standardized), inherent uncertainty <br>, less stable than average (one player) |
+| `Hgt2Rank`  | INTEGER | +/- 10 ranks | Players may lie about their height/recordings may <br> differ by program (not all standardized), inherent uncertainty <br>, less stable than average (one player) |
+| `Hgt1Rank`  | INTEGER | +/- 10 ranks | Players may lie about their height/recordings may <br> differ by program (not all standardized), inherent uncertainty <br>, less stable than average (one player) |
+| `ExpRank` | INTEGER | +/- 5 ranks | Transfer eligibility, redshirt status, etc may lead to non-standardized <br> reporting across teams|
+| `BenchRank`  | INTEGER | +/- 0 ranks | % of time bench is used is objective |
+| `RankContinuity`  | INTEGER | +/- 1 ranks | Mid-season transfers or injuries could shift this slightly depending <br> on when collected  |
+| `RankAdjEM` | INTEGER | +/- 0 ranks | Derived mathematically from official box score data |
+| `RankPythag` | INTEGER | +/- 0 ranks | Derived mathematically from official box score data |
+| `RankLuck`  | INTEGER | +/-10 ranks | Derived mathematically from box score data |
+| `RankSOS`  | INTEGER |+/- 0 ranks | Derived mathematically from official season outcome data |
+| `RankSOSO`  | INTEGER | +/- 0 ranks | Derived mathematically from official season outcome data |
+| `RankSOSD` | INTEGER |  +/- 0 ranks | Derived mathematically from official season outcome data |
+| `RankNCSOS`  |INTEGER|  +/- 0 ranks | Derived mathematically from official season outcome data |
+| `RankAPL_Off`  | INTEGER | +/- 0 ranks| Derived mathematically from official box score  data |
+| `RankAPL_Def`  | INTEGER | +/- 0 ranks| Derived mathematically from official box score  data |
+| `RankConfAPL_Off`  | INTEGER | +/- 0 ranks| Derived mathematically from official box score  data |
+| `RankConfAPL_Def`  | INTEGER | +/- 0 ranks| Derived mathematically from official box score  data |
+| `RankOR_Pct` | INTEGER | +/- 0 ranks| Derived mathematically from official box score  data |
 
 ---
