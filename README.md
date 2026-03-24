@@ -131,7 +131,7 @@ I also chose to analyze data from 2002 onwards. This decision was made because o
 
 ### Data Dictionary
 
-Four Factors
+#### Four Factors
 
 | Field Name | Data Type | Description | Example |
 |:------------|:-----------|:-------------|:---------|
@@ -153,7 +153,7 @@ Four Factors
 | `RankAdjDE` | INTEGER | Defensive Efficiency rank adjusted for opponent strength | 125 |
 | `RankAdjTempo` | INTEGER | Tempo rank adjusted for opponent strength | 1 |
 
-Height
+#### Height
 
 | Field Name | Data Type | Description | Example |
 |:------------|:-----------|:-------------|:---------|
@@ -172,7 +172,7 @@ Height
 | `BenchRank` | INTEGER | Bench strength rank based on % of bench minutes played | 57 |
 | `RankContinuity` | INTEGER | Continuity rank, % of a team's minutes played by the same players <br> from the previous season | 101 |
 
-Ratings
+#### Ratings
 
 | Field Name | Data Type | Description | Example |
 |:---|:---|:---|:---|
@@ -197,7 +197,8 @@ Ratings
 | `RankConfAPL_Off` | INTEGER | Conference Avg Possession Length (Offense) rank | 74 |
 | `RankConfAPL_Def` | INTEGER | Conference Avg Possession Length (Defense) rank | 99 |
 
-Teams
+#### Teams
+
 | Field Name | Data Type | Description | Example |
 |:---|:---|:---|:---|
 | `TeamSeason(PK)` | VARCHAR | Team name and season unique identifier | 'Virginia_2026' |
@@ -207,7 +208,8 @@ Teams
 | `ConfShort` | VARCHAR | Conference short name | 'ACC' |
 
 
-Tournament Games
+#### Tournament Games
+
 | Field Name | Data Type | Description | Example |
 |:---|:---|:---|:---|
 | `GameID (PK)` | INTEGER | Auto-incrementing game identifier | 1 |
@@ -226,7 +228,7 @@ Tournament Games
 | `SeedDiff` | INTEGER | Absolute difference between winner and loser seeds | 1 |
 | `Upset` | INTEGER | 1 if winner's seed > loser's seed by more than 1, else 0 | 0 |
 
-Tournament Seeds
+#### Tournament Seeds
 
 | Field Name | Data Type | Description | Example |
 |:---|:---|:---|:---|
