@@ -11,7 +11,7 @@ Paragraph goes in here
 
 ---
 | Spec | Value |
-|---|---|
+|:---|:---|
 | Name | Benjamin Berinsky |
 | NetID | tfu5hw |
 | DOI | [ADD IN HERE](add valid link) |
@@ -46,7 +46,7 @@ Every year, March Madness rolls around and Americans across the country fill out
 ---
 
 | Term | Description |
-|------|-------------|
+|:------|:-------------|
 | Seed | Ranking from 1-16 within each of the four quadrants of the bracket|
 | Upset | When the lower seeded team beats the higher seeded team |
 | Cinderella | Low seeded team that makes a deep run in the tournament |
@@ -69,7 +69,7 @@ This project lives in the domain of men's college basketball as well as predicti
 ---
 
 | # | Title | Description | Link |
-|---|-------|-------------|------|
+|:---|:-------|:-------------|:------|
 | 1 | "Here's how to pick March Madness men's upsets, according to the data" | History of number of upsets in March Madness by year | [View Paper](https://github.com/benberinsky/ds4320-project-1/blob/main/background_reading/Here's%20how%20to%20pick%20March%20Madness%20men's%20upsets%2C%20according%20to%20the%20data%20_%20NCAA.com.pdf) |
 | 2 | "March Madness Betting Projected to Hit Record of $4B, Even Without Prediction Markets" | March Madness sports betting growing to unprecedented level in 2026 | [View Paper](https://github.com/benberinsky/ds4320-project-1/blob/main/background_reading/March%20Madness%20Betting%20Projected%20to%20Hit%20Record%20of%20%244B%2C%20Even%20Without%20Prediction%20Markets%20-%20Yahoo%20Sports.pdf) |
 | 3 | "How Predictive Analytics in Sports Transform Athletic Performance & Business Operations" | Overview of process and application of predictive sports analytics | [View Paper](https://github.com/benberinsky/ds4320-project-1/blob/main/background_reading/Predictive%20Analytics%20in%20Sports_%20Use%20Cases%20%26%20Future%20Trends.pdf) |
