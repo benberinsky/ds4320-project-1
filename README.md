@@ -18,7 +18,7 @@ Paragraph goes in here
 | Press Release | [ADD IN HERE](add valid link) |
 | Data | [ADD IN HERE](add valid link) |
 | Pipeline | [ADD IN HERE](add valid link) |
-| License | [ADD IN HERE](add valid link) |
+| License | [MIT](https://github.com/benberinsky/ds4320-project-1/blob/main/LICENSE.md) |
 
 ---
 <br>
