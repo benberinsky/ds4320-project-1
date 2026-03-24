@@ -70,11 +70,11 @@ This project lives in the domain of men's college basketball as well as predicti
 
 | # | Title | Description | Link |
 |---|-------|-------------|------|
-| 1 | "Here's how to pick March Madness men's upsets, according to the data" | History of number of upsets in March Madness by year | [View Paper](https://drive.google.com/file/d/1EvnM6Pp1iF-fNtZf7EAbgXAn1IAbMh_e/view?usp=sharing) |
-| 2 | "March Madness Betting Projected to Hit Record of $4B, Even Without Prediction Markets" | March Madness sports betting growing to unprecedented level in 2026 | [View Paper](https://drive.google.com/file/d/1KSSsh4P7CpJSGCwiWB5d9PXWBZWi0mVq/view?usp=sharing) |
-| 3 | "How Predictive Analytics in Sports Transform Athletic Performance & Business Operations" | Overview of process and application of predictive sports analytics | [View Paper](https://drive.google.com/file/d/1nzVsOoD58xOihLZgq6vsVCCFG68M0DR-/view?usp=sharing) |
-| 4 | "The math behind March Madness" | How sports analytics are used to select teams for the tournament, optimal bracket selection strategy | [View Paper](https://drive.google.com/file/d/1PkSjURDFdePN28wWUJMFm4DVfaG9xTk2/view?usp=sharing) |
-| 5 | "What is March Madness: The NCAA tournament explained" | Overview of March Madness, logistics, key terms | [View Paper](https://drive.google.com/file/d/10qEsjpLWvxb4cerhBDKPeQNiBemEee55/view?usp=sharing) |
+| 1 | "Here's how to pick March Madness men's upsets, according to the data" | History of number of upsets in March Madness by year | [View Paper](https://github.com/benberinsky/ds4320-project-1/blob/main/background_reading/Here's%20how%20to%20pick%20March%20Madness%20men's%20upsets%2C%20according%20to%20the%20data%20_%20NCAA.com.pdf) |
+| 2 | "March Madness Betting Projected to Hit Record of $4B, Even Without Prediction Markets" | March Madness sports betting growing to unprecedented level in 2026 | [View Paper](https://github.com/benberinsky/ds4320-project-1/blob/main/background_reading/March%20Madness%20Betting%20Projected%20to%20Hit%20Record%20of%20%244B%2C%20Even%20Without%20Prediction%20Markets%20-%20Yahoo%20Sports.pdf) |
+| 3 | "How Predictive Analytics in Sports Transform Athletic Performance & Business Operations" | Overview of process and application of predictive sports analytics | [View Paper](https://github.com/benberinsky/ds4320-project-1/blob/main/background_reading/Predictive%20Analytics%20in%20Sports_%20Use%20Cases%20%26%20Future%20Trends.pdf) |
+| 4 | "The math behind March Madness" | How sports analytics are used to select teams for the tournament, optimal bracket selection strategy | [View Paper](https://github.com/benberinsky/ds4320-project-1/blob/main/background_reading/The%20math%20behind%20March%20Madness%20_%20Penn%20Today.pdf) |
+| 5 | "What is March Madness: The NCAA tournament explained" | Overview of March Madness, logistics, key terms | [View Paper](https://github.com/benberinsky/ds4320-project-1/blob/main/background_reading/What%20is%20March%20Madness_%20The%20NCAA%20tournament%20explained%20_%20NCAA.com.pdf) |
 
 ---
 
