@@ -23,8 +23,6 @@ Paragraph goes in here
 ---
 <br>
 
-<br>
-
 ## Problem Definition
 
 ### General and Specific Problem
