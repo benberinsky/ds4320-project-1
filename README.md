@@ -17,7 +17,7 @@ Paragraph goes in here
 | DOI | [ADD IN HERE](add valid link) |
 | Press Release | [ADD IN HERE](add valid link) |
 | Data | [Folder](https://1drv.ms/f/c/1A9305D23C7E8C8F/IgD3vwQQw6D5SaeZn0SAQzdtAVopiUO-ln5e1Mwty63JP0Q?e=vC3ilk) |
-| Pipeline | [ADD IN HERE](add valid link) |
+| Pipeline | [Link to notebook](https://github.com/benberinsky/ds4320-project-1/blob/main/scripts/pipeline/solution_pipeline.ipynb) |
 | License | [MIT](https://github.com/benberinsky/ds4320-project-1/blob/main/LICENSE.md) |
 
 ---
