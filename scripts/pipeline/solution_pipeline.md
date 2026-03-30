@@ -35,7 +35,7 @@ con.execute("CREATE OR REPLACE TABLE tournament_seeds AS SELECT * FROM read_csv_
 
 
 
-    <duckdb.duckdb.DuckDBPyConnection at 0x107bcc130>
+    <duckdb.duckdb.DuckDBPyConnection at 0x1055aac30>
 
 
 
@@ -162,7 +162,7 @@ con.execute("""
 
 
 
-    <duckdb.duckdb.DuckDBPyConnection at 0x107bcc130>
+    <duckdb.duckdb.DuckDBPyConnection at 0x1055aac30>
 
 
 
@@ -1050,8 +1050,6 @@ print("\n\n" + "="*80)
     
     
     ================================================================================
-    FULL GAME LISTINGS BY CLUSTER
-    ================================================================================
 
 
 - Cluster 0: High win %, Luck, Def eFG%
@@ -1107,7 +1105,9 @@ for i, cid in enumerate(sorted_clusters):
     ax.axvline(0, color="black", linewidth=0.8)
     ax.set_xlim(-2.5, 2.5)
     ax.tick_params(axis="y", labelsize=10)
-    ax.tick_params(axis="x", labelsize=9)
+    ax.tick_params(axis="x", labelsize=0)
+    # removing x axis labels and ticks for cleaner look
+    ax.set_xticks([])
 
     ax.set_title(
         f'"{cluster_names[cid]}"\n'
