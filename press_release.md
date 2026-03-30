@@ -35,7 +35,7 @@ So what separates these groups? We looked at which metrics were the biggest dete
 
 What *doesn't* matter nearly as much? Bench depth, team height, experience, and tempo. These metrics barely move the needle when it comes to distinguishing the underdogs that win from the ones that don't. Unfortunately there's no hidden "secret stat" - the fundamentals tell you what you need to know.
 
-### Your Cheat Sheet for Next March** 
+### Your Cheat Sheet for Next March
 
 When you're filling out your bracket and deciding where to pick upsets, keep it simple:
 
