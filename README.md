@@ -1,4 +1,4 @@
-# ”DS 4320 Project 1: FILL IN TITLE HERE
+# ”DS 4320 Project 1: Can Regular Season Stats Predict March Madness Upsets?
 
 ### Executive Summary
 Paragraph goes in here
@@ -15,7 +15,7 @@ Paragraph goes in here
 | Name | Benjamin Berinsky |
 | NetID | tfu5hw |
 | DOI | [ADD IN HERE](add valid link) |
-| Press Release | [ADD IN HERE](add valid link) |
+| Press Release | [Link to Markdown File](https://github.com/benberinsky/ds4320-project-1/blob/main/press_release.md) |
 | Data | [Folder](https://1drv.ms/f/c/1A9305D23C7E8C8F/IgD3vwQQw6D5SaeZn0SAQzdtAVopiUO-ln5e1Mwty63JP0Q?e=vC3ilk) |
 | Pipeline | [Link to notebook](https://github.com/benberinsky/ds4320-project-1/blob/main/scripts/pipeline/solution_pipeline.ipynb) |
 | License | [MIT](https://github.com/benberinsky/ds4320-project-1/blob/main/LICENSE.md) |
@@ -26,14 +26,14 @@ Paragraph goes in here
 ## Problem Definition
 
 ### General and Specific Problem
-* **General Problem:** Can we predict upsets in the NCAA tournament?
-* **Specific Problem:** What regular season metrics best characterize teams that upset higher seeds in March Madness, and do these patterns hold over time (allowing for upset forecasting before games take place) or are upsets due to complete random chance?
+* **General Problem:** Can regular season data tell us which underdogs are worth picking in March Madness?
+* **Specific Problem:** Are there distinct types of underdogs based on regular season metrics, and do some types pull off upsets far more often than others, or are upsets due to random chance?
 
 ### Rationale
-The general problem identifies the broad problem space, upset prediction in March Madness, but lacks specific, actionable direction. The specific problem addresses this by identifying regular season team metrics as the data source for analyzing upset probability. The specific problem also expands the scope beyond a single season/tournament, framing the analysis as a study over time to determine whether upset patterns are consistent rather than isolated occurrences. This connects directly back to the general problem of predicting game outcomes, as consistent patterns would enable pre-tournament forecasting. Finally, the specific problem  acknowledges the null hypothesis, that upsets may reflect pure randomness with no consistent predictive signal. Without this clause, confirmation bias may be introduced into analysis to find some sort of correlation over time.
+The general problem identifies the broad problem space, upset prediction/underdog characterization in March Madness, but lacks specific, actionable direction. The specific problem addresses this by identifying regular season team metrics as the data source for analyzing upset probability. The specific problem identifies the desired outcome of the solution, identifying groups of teams (and the metrics that characterize them) that upset teams in March Madness at higher rates This connects directly back to the general problem of predicting game outcomes, as consistent patterns would enable pre-tournament forecasting. Finally, the specific problem  acknowledges the null hypothesis, that upsets may reflect pure randomness with no consistent predictive signal. Without this clause, confirmation bias may be introduced into analysis to find some sort of correlation over time.
 
 ### Motivation
-Every year, March Madness rolls around and Americans across the country fill out their brackets. Even with millions of predictions, a perfect bracket has never been recorded, with the odds estimated at around 1 in 9.2 quintillion. While a perfect bracket may never be achievable, upsets remain the single biggest bracket-buster, with lower knocking out favorites before the first day of the tournament even concludes. This project aims to answer the question: is there a science to identifying March Madness upsets, or are they the result of pure random chance? If certain metrics prove to be strong predictors of upsets, that slight edge could be the difference between office pool glory and watching your coworker walk away with $100 that should've been yours.
+Every year, March Madness rolls around and Americans across the country fill out their brackets. Even with millions of predictions, a perfect bracket has never been recorded, with the odds estimated at around 1 in 9.2 quintillion. While a perfect bracket may never be achievable, upsets remain the single biggest bracket-buster, with lower knocking out favorites before the first day of the tournament even concludes. This project aims to answer the question: is there a science to identifying March Madness underdogs that are likely to pull off upsets, or are they the result of pure random chance? If certain metrics prove to be strong predictors of upsets, that slight edge could be the difference between office pool glory and watching your coworker walk away with $100 that should've been yours.
 
 ### Press Release Headline and Link
 [**Add Headline Here**](add link here)
