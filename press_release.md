@@ -23,5 +23,5 @@
 - Lowest seeds (14/15/16) can be seen mainly grouped in "Weak Conference Winners", huge seed gap, 6.1% upset rate, not worth predicting them to win
 
 ## CHART
-[Figure 1: Underdog Archetypes](https://github.com/benberinsky/ds4320-project-1/blob/main/figures/archetype_profiles.png)
-[Figure 2: Underdog Metric Importance](https://github.com/benberinsky/ds4320-project-1/blob/main/figures/feature_importance.png)
+![Figure 1: Underdog Archetypes](https://github.com/benberinsky/ds4320-project-1/blob/main/figures/archetype_profiles.png)
+![Figure 2: Underdog Metric Importance](https://github.com/benberinsky/ds4320-project-1/blob/main/figures/feature_importance.png)
