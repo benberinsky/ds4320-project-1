@@ -36,7 +36,7 @@ The general problem identifies the broad problem space, upset prediction/underdo
 Every year, March Madness rolls around and Americans across the country fill out their brackets. Even with millions of predictions, a perfect bracket has never been recorded, with the odds estimated at around 1 in 9.2 quintillion. While a perfect bracket may never be achievable, upsets remain the single biggest bracket-buster, with lower knocking out favorites before the first day of the tournament even concludes. This project aims to answer the question: is there a science to identifying March Madness underdogs that are likely to pull off upsets, or are they the result of pure random chance? If certain metrics prove to be strong predictors of upsets, that slight edge could be the difference between office pool glory and watching your coworker walk away with $100 that should've been yours.
 
 ### Press Release Headline and Link
-[**Add Headline Here**](add link here)
+[**Stop Guessing - A Data Driven Guide to Predicting March Madness Upsets**](https://github.com/benberinsky/ds4320-project-1/blob/main/press_release.md)
 
 ## Domain Exposition
 
