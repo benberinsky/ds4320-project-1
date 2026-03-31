@@ -1,9 +1,18 @@
 # ”DS 4320 Project 1: Can Regular Season Stats Predict March Madness Upsets?
 
 ### Executive Summary
-Paragraph goes in here
-
-<br>
+This repository contains all materials for a data-driven analysis of 
+March Madness upsets using 15 years of KenPom regular season metrics. 
+The `data/` directory houses raw and cleaned datasets (also 
+mirrored on OneDrive). The `scripts/` directory contains 
+the data collection and cleaning in python file format, and analysis 
+pipeline in both Jupyter notebook and markdown formats. The `figures/`
+directory includes all visualizations produced by the pipeline as well 
+as an  Entity Relationship Diagram of the data tables. The 
+`background_reading/` directory provides reference articles on March
+Madness prediction. Finally, `press_release.md` presents the key findings 
+in a non-technical format. Further background on the project and data 
+is documented below.
 
 <br>
 
@@ -100,12 +109,12 @@ The second was the 'March Machine Learning Mania 2026' Kaggle competition. The d
 In the data collection process, most of the data was pulled directly from reliable online college basketball analytics sources without alteration. One subjective decision that I made was defining an upset. I determined that a game was an upset if a team that was more than one seed below a team won. This may introduce bias in results because if others define upsets differently because they may find different results in their analysis. Further, since the KenPom data for some statistics only goes back until 2010, while others go back until 2002, there may be some selection bias introduced that not does allow for holistic analysis of historical March Madness data. My decision to use rankings based off years rather than raw numbers as my main source of statistics was a judgement call that could be biased as well.
 
 ### Bias Mitigation
-In my analysis and findings I will clearly document the definition of upsets. I defined it as a team seeded more than one line below their opponent winning. It is also important to document the process of cleaning data and mapping team names. Additionally, the clear documentation of handling of missing data rather than just dropping years/metrics is included.
+In my analysis and findings I will clearly document the definition of upsets. I defined it as a team seeded more than one line below their opponent winning. It is also important to document the process of cleaning data and mapping team names. Additionally, the clear documentation of handling of missing data rather than just dropping years/metrics is included. I also withheld years with incomplete data from my analysis, only looking at 2010 onwards.
 
 ### Critical Decision Rationale
 The most crucial judgement call I made was to define upsets as a seed difference greater than one. I chose to do this because I felt that teams within one seed of each other are not ranked significantly differently. By looking only at multi-seed differences, we weed out games that were coin flips and not significantly upsets. It is possible that a 2 seed difference is not significant enough, and a 3+ seed difference distinction is necessary. In the process of my analysis, I will interpret my results with caution and this condition in mind.
 
-I also chose to analyze data from 2002 onwards. This decision was made because of the data I have access to, but it notably excludes older historical trends. Since some tables only have information from 2010 onwards, my final analysis may be in the scope of 2010-2026. I dropped games from the play-in/first four, but these teams all have the same seed so no games would be classified as upsets. Rounds were assigned based on order of dates as I know that rounds progress in chronological order, but this assignment was still a subjective decision made by me. I selected national rankings for my analysis rather than raw statistics because trends over time change. I want to view teams relative to other teams in the tournament/NCAA in that specific year, not compare them to all other teams historically. Finally, I mapped team names to standardize and join across tables. This could potentially create uncertainty if any of the matches I identified were incorrect.
+I also chose to analyze data from 2010 onwards. This decision was made because of the data I have access to, but it notably excludes older historical trends. Since some tables only have information from 2010 onwards, my final analysis is in the scope of 2010-2026 for a complete and even statistical picture of all teams. I dropped games from the play-in/first four, but these teams all have the same seed so no games would be classified as upsets. Rounds were assigned based on order of dates as I know that rounds progress in chronological order, but this assignment was still a subjective decision made by me. I selected national rankings for my analysis rather than raw statistics because trends over time change. I want to view teams relative to other teams in the tournament/NCAA in that specific year, not compare them to all other teams historically. Finally, I mapped team names to standardize and join across tables. This could potentially create uncertainty if any of the matches I identified were incorrect.
 
 ## Metadata
 
@@ -241,15 +250,32 @@ I also chose to analyze data from 2002 onwards. This decision was made because o
 
 ### Uncertainty Quantification
 
+
+**Note**
+
+All features in this dataset are ordinal rankings (1 through ~363), not raw 
+measurements. Because rankings are uniformly distributed by construction, standard 
+statistical measures like standard deviation are identical across every ranked 
+feature (σ ≈ 104.8 for 363 teams) and convey no meaningful information about data 
+quality or measurement uncertainty. 
+
+For this reason, uncertainty is instead quantified per-feature based on the 
+nature of the underlying measurement. Rather than using statistical estimates,
+context is considered and uncertainty is quantified through estimates/domain knowledge
+The raw statistics are not contained in the tables. The "+/- ranks" column below 
+represents estimated rank displacement: how many positions a team's ranking could reasonably
+move if the underlying data were re-measured or sourced differently.
+
+
 ---
 
 | Field Name | Data Type | Uncertainty | Rationale |
 |:------------|:-----------|:-------------|:---------|
 | `RankeFG_Pct`  | INTEGER | +/- 0 ranks | Shooting % is objectively recorded, other than occasional <br> mistake by statkeepers |
-| `RankTO_Pct`  | INTEGER | +/- 0 ranks | When the ball changes possesion it is a turnover, objective metric |
-| `RankFT_Rate`  | INTEGER | +/- 0 ranks | Shooting % is objectively recorded, other than occasional <br> mistake by statkeepers
+| `RankTO_Pct`  | INTEGER | +/- 0 ranks | When the ball changes possession it is a turnover, objective metric |
+| `RankFT_Rate`  | INTEGER | +/- 0 ranks | Shooting % is objectively recorded, other than occasional <br> mistake by stat-keepers
 | `RankDeFG_Pct` | INTEGER |  +/- 0 ranks | Shooting % is objectively recorded, other than occasional <br> mistake by statkeepers
-| `RankDTO_Pct`  | INTEGER | +/- 0 ranks | When the ball changes possesion it is a turnover, objective metric|
+| `RankDTO_Pct`  | INTEGER | +/- 0 ranks | When the ball changes possession it is a turnover, objective metric|
 | `RankDOR_Pct`  | INTEGER | +/- 0 ranks | Rebounds are an official recorded statistic |
 | `RankDFT_Rate`  | INTEGER | +/- 0 ranks | Shooting % is objectively recorded, other than occasional <br> mistake by statkeepers|
 | `RankOE` | INTEGER | +/- 0 ranks | Derived mathematically from official box score data |
@@ -270,7 +296,7 @@ I also chose to analyze data from 2002 onwards. This decision was made because o
 | `RankContinuity`  | INTEGER | +/- 1 ranks | Mid-season transfers or injuries could shift this slightly depending <br> on when collected  |
 | `RankAdjEM` | INTEGER | +/- 0 ranks | Derived mathematically from official box score data |
 | `RankPythag` | INTEGER | +/- 0 ranks | Derived mathematically from official box score data |
-| `RankLuck`  | INTEGER | +/-10 ranks | Derived mathematically from box score data |
+| `RankLuck`  | INTEGER | +/- 0 ranks | Derived mathematically from box score data |
 | `RankSOS`  | INTEGER |+/- 0 ranks | Derived mathematically from official season outcome data |
 | `RankSOSO`  | INTEGER | +/- 0 ranks | Derived mathematically from official season outcome data |
 | `RankSOSD` | INTEGER |  +/- 0 ranks | Derived mathematically from official season outcome data |
