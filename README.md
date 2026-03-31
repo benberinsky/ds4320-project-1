@@ -21,9 +21,9 @@ in a newspaper-like tone. Further background on the project and data is document
 | Name | Benjamin Berinsky |
 | NetID | tfu5hw |
 | DOI | [10.5281/zenodo.19342434](https://doi.org/10.5281/zenodo.19342434) |
-| Press Release | [Link to Markdown File](https://github.com/benberinsky/ds4320-project-1/blob/main/press_release.md) |
+| Press Release | [Link](https://github.com/benberinsky/ds4320-project-1/blob/main/press_release.md) |
 | Data | [Folder](https://1drv.ms/f/c/1A9305D23C7E8C8F/IgD3vwQQw6D5SaeZn0SAQzdtAVopiUO-ln5e1Mwty63JP0Q?e=vC3ilk) |
-| Pipeline | [Link to notebook](https://github.com/benberinsky/ds4320-project-1/tree/main/scripts/pipeline) |
+| Pipeline | [Link](https://github.com/benberinsky/ds4320-project-1/tree/main/scripts/pipeline) |
 | License | [MIT](https://github.com/benberinsky/ds4320-project-1/blob/main/LICENSE.md) |
 
 ---
