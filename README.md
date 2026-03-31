@@ -10,9 +10,8 @@ pipeline in both Jupyter notebook and markdown formats. The `figures/`
 directory includes all visualizations produced by the pipeline as well 
 as an  Entity Relationship Diagram of the data tables. The 
 `background_reading/` directory provides reference articles on March
-Madness prediction. Finally, `press_release.md` presents the key findings 
-in a non-technical format. Further background on the project and data 
-is documented below.
+Madness prediction. Finally, `press_release.md` presents the key findings
+Further background on the project and data is documented below.
 
 <br>
 
