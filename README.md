@@ -251,7 +251,7 @@ I also chose to analyze data from 2010 onwards. This decision was made because o
 
 **Note**
 
-All features in this dataset are ordinal rankings (1 through ~363), not raw 
+All numerical features in this dataset are ordinal rankings (1 through ~363), not raw 
 measurements. Because rankings are uniformly distributed by construction, standard 
 statistical measures like standard deviation are identical across every ranked 
 feature (σ ≈ 104.8 for 363 teams) and convey no meaningful information about data 
