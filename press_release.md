@@ -24,6 +24,7 @@ After grouping every underdog from the last 15 March Madnesses by their regular 
 The remaining two groups — defensive-minded underdogs (29%) and teams from soft schedules (10%) — fall somewhere in between. But across the board, the same pattern holds: the underdogs that win can score, and they've been tested.
 
 ### The Metrics That Actually Matter
+(findings referenced can be found in figure two with numbers representing normalized importance)
 
 So what separates these groups? I looked at which metrics were the biggest determinants of separating teams into their respective clusters. The biggest differentiators:
 
@@ -31,7 +32,7 @@ So what separates these groups? I looked at which metrics were the biggest deter
 - **Seed gap** — how big the mismatch is on paper. Bigger gaps obviously make upsets harder, but it's not the whole story.
 - **Defensive efficiency** and **strength of schedule** — round out the top four. Notably, offense trumps defense
 
-(findings referenced can be found in figure two with numbers representing normalized importance)
+
 
 What *doesn't* matter nearly as much? Bench depth, team height, experience, and tempo. These metrics barely move the needle when it comes to distinguishing the underdogs that win from the ones that don't. Unfortunately there's no hidden "secret stat" - the fundamentals tell you what you need to know.
 
