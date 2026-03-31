@@ -4,7 +4,7 @@
 This repository contains all materials for a data-driven analysis of 
 March Madness upsets using 15 years of KenPom regular season metrics. 
 The `data/` directory houses raw and cleaned datasets (also 
-mirrored on OneDrive). The `scripts/` directory contains 
+housed on OneDrive). The `scripts/` directory contains 
 the data collection and cleaning in python file format, and analysis 
 pipeline in both Jupyter notebook and markdown formats. The `figures/`
 directory includes all visualizations produced by the pipeline as well 
@@ -15,8 +15,6 @@ in a non-technical format. Further background on the project and data
 is documented below.
 
 <br>
-
----
 
 ---
 | Spec | Value |
