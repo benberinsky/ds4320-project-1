@@ -9,9 +9,9 @@ Each year, around 100 million March Madness brackets are filled out across the c
 
 Although many have tried to build March Madness prediction models, there is unfortunately no secret formula to find the perfect bracket. The tournament is built on chaos (or Madness), and the single-elimination format unexpected results are inevitable. But here's what most people miss: **not all underdogs are created equal.** An 11-seed from a power conference that played a grueling schedule all year is a completely different team than one that ran through a weak conference uncontested. Yet in most brackets, people treat them the same way.
 
-Instead of trying to predict individual game outcomes, we took a different approach. Using 15 years of KenPom data (2010–2024), we grouped every underdog in the tournament based on their regular season statistical profile — offensive and defensive efficiency, shooting percentages, turnover rates, strength of schedule, experience, and more — all aiming to answer the question: **Which types of underdogs actually pull off upsets, and which ones almost never do?**
+Instead of trying to predict individual game outcomes, I took a different approach. Using 15 years of KenPom data (2010–2024), I grouped every underdog in the tournament based on their regular season statistical profile — offensive and defensive efficiency, shooting percentages, turnover rates, strength of schedule, experience, and more — all aiming to answer the question: **Which types of underdogs actually pull off upsets, and which ones almost never do?**
 
-## What We Found: Not All Underdogs Are Created Equal
+## What I Found: Not All Underdogs Are Created Equal
 
 After grouping every underdog from the last 15 March Madnesses by their regular season stats, five distinct profiles emerged with distinct differences in upset rate between groups (findings referenced can be found in figure one)
 
@@ -25,7 +25,7 @@ The remaining two groups — defensive-minded underdogs (29%) and teams from sof
 
 ### The Metrics That Actually Matter
 
-So what separates these groups? We looked at which metrics were the biggest determinants of separating teams into their respective clusters. The biggest differentiators:
+So what separates these groups? I looked at which metrics were the biggest determinants of separating teams into their respective clusters. The biggest differentiators:
 
 - **Offensive efficiency** — how well a team scores relative to their possessions. The single most important separator encapsulating offensive performance in one metric.
 - **Seed gap** — how big the mismatch is on paper. Bigger gaps obviously make upsets harder, but it's not the whole story.
