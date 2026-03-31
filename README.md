@@ -1,4 +1,4 @@
-# ”DS 4320 Project 1: Can Regular Season Stats Predict March Madness Upsets?
+# DS 4320 Project 1: Can Regular Season Stats Predict March Madness Upsets?
 
 ### Executive Summary
 This repository contains all materials for a data-driven analysis of 
