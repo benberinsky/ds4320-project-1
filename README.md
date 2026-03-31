@@ -117,7 +117,7 @@ I also chose to analyze data from 2010 onwards. This decision was made because o
 ## Metadata
 
 ### ER Diagram
-[Link to ERD](!https://github.com/benberinsky/ds4320-project-1/blob/main/ERD_MM.png)
+![Link to ERD](https://github.com/benberinsky/ds4320-project-1/blob/main/figures/ERD_MM.png)
 
 ### Data
 
