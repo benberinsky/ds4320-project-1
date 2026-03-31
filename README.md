@@ -37,12 +37,12 @@ is documented below.
 * **Specific Problem:** Are there distinct types of underdogs based on regular season metrics, and do some types pull off upsets far more often than others, or are upsets due to random chance?
 
 ### Rationale
-The general problem identifies the broad problem space, upset prediction/underdog characterization in March Madness, but lacks specific, actionable direction. The specific problem addresses this by identifying regular season team metrics as the data source for analyzing upset probability. The specific problem identifies the desired outcome of the solution, identifying groups of teams (and the metrics that characterize them) that upset teams in March Madness at higher rates This connects directly back to the general problem of predicting game outcomes, as consistent patterns would enable pre-tournament forecasting. Finally, the specific problem  acknowledges the null hypothesis, that upsets may reflect pure randomness with no consistent predictive signal. Without this clause, confirmation bias may be introduced into analysis to find some sort of correlation over time.
+The general problem identifies the broad problem space, upset prediction/underdog characterization in March Madness, but lacks specific, actionable direction. The specific problem addresses this by identifying regular season team metrics as the data source for analyzing upset probability. The specific problem identifies the desired outcome of the solution, identifying groups of teams (and the metrics that characterize them) that upset teams in March Madness at high rates. This connects directly back to the general problem of predicting game outcomes, as consistent patterns would enable pre-tournament forecasting. Finally, the specific problem  acknowledges the null hypothesis, that upsets may reflect pure randomness with no consistent predictive signal. Without this clause, confirmation bias may be introduced into analysis to find some sort of correlation when none exists.
 
 ### Motivation
 Every year, March Madness rolls around and Americans across the country fill out their brackets. Even with millions of predictions, a perfect bracket has never been recorded, with the odds estimated at around 1 in 9.2 quintillion. While a perfect bracket may never be achievable, upsets remain the single biggest bracket-buster, with lower knocking out favorites before the first day of the tournament even concludes. This project aims to answer the question: is there a science to identifying March Madness underdogs that are likely to pull off upsets, or are they the result of pure random chance? If certain metrics prove to be strong predictors of upsets, that slight edge could be the difference between office pool glory and watching your coworker walk away with $100 that should've been yours.
 
-### Press Release Headline and Link
+### Press Release: 
 [**Stop Guessing - A Data Driven Guide to Predicting March Madness Upsets**](https://github.com/benberinsky/ds4320-project-1/blob/main/press_release.md)
 
 ## Domain Exposition
@@ -65,10 +65,10 @@ Every year, March Madness rolls around and Americans across the country fill out
 ---
 
 ### Domain Explanation
-This project lives in the domain of men's college basketball as well as predictive sports analytics. March Madness is the hallmark of college basketball, a 68 team tournament beginning in March in which teams must go through multiple rounds to win the championship. March Madness brackets are incredibly popular, and even those who are not typically interested in sports often fill out brackets for social or work groups. With the growing popularity of sports betting, March Madness is becoming more and more lucrative. Although predictions are often made randomly/based on gut feeling, predictive sports analytics uses metrics from the past to forecast outcomes. It is often used by sports gamblers and sports books to both set the odds and find potential edges where money can be made from gambling and can be used to forecast upsets in March Madness. This project sits at the intersection of both domains, applying predictive analytics to one of the most unpredictable events in sports.
+This project lives in the domain of men's college basketball as well as predictive sports analytics. March Madness is the hallmark of college basketball, a 68 team tournament beginning in March in which teams must go through multiple rounds to win the championship. March Madness brackets are incredibly popular, and even those who are not typically interested in sports often fill out brackets for social or work groups. With the growing popularity of sports betting, March Madness is becoming more and more lucrative. Although predictions are often made randomly based on gut feeling, predictive sports analytics uses metrics from the past to forecast outcomes. Predictive sports analytics is used by sports gamblers and sports books to both set the odds and find potential edges where money can be made from gambling and can be used to forecast upsets in March Madness. This project sits at the intersection of both domains, applying predictive analytics to one of the most unpredictable events in sports.
 
 ### Background Reading
-[Folder here]([add valid link](https://github.com/benberinsky/ds4320-project-1/tree/main/background_reading))
+[Folder here](https://github.com/benberinsky/ds4320-project-1/tree/main/background_reading)
 
 ### Reading Summary Table
 ---
@@ -96,9 +96,9 @@ The second was the 'March Machine Learning Mania 2026' Kaggle competition. The d
 
 | File Name | Description | Link |
 |:-----------|:-------------|:------|
-| fetch_kenpom_stats.py | Fetches historical season-level stats for mens CBB teams, <br> creating and saving files to data/raw for ratings,  four-factors,<br> height, and point distribution (from KenPom API) | [Link](https://github.com/benberinsky/ds4320-project-1/blob/main/scripts/fetch_data/fetch_kenpom_stats.py) |
-| fetch_kenpom_teams.py | Fetches team info from KenPom API including team name, <br> ID, conference, coach, and arena info for each season, saves <br> to data/raw| [Link](https://github.com/benberinsky/ds4320-project-1/blob/main/scripts/fetch_data/fetch_kenpom_teams.py) |
-| clean.py | Cleans and standardizes raw data from KenPom and Kaggle <br>sources. Applies team name mapping, derives upset flags, <br>assigns tournament rounds, and outputs tables to data/clean/| [Link](https://github.com/benberinsky/ds4320-project-1/blob/main/scripts/fetch_data/clean.py) |
+| fetch_kenpom_stats.py | Fetches historical season-level stats for mens CBB teams, <br> creating and saving files to `data/raw` for ratings,  four-factors,<br> height, and point distribution (from KenPom API) | [Link](https://github.com/benberinsky/ds4320-project-1/blob/main/scripts/fetch_data/fetch_kenpom_stats.py) |
+| fetch_kenpom_teams.py | Fetches team info from KenPom API including team name, <br> ID, conference, coach, and arena info for each season, saves <br> to `data/raw`| [Link](https://github.com/benberinsky/ds4320-project-1/blob/main/scripts/fetch_data/fetch_kenpom_teams.py) |
+| clean.py | Cleans and standardizes raw data from KenPom and Kaggle <br>sources. Applies team name mapping, derives upset flags, <br>assigns tournament rounds, and outputs tables to `data/clean/`| [Link](https://github.com/benberinsky/ds4320-project-1/blob/main/scripts/fetch_data/clean.py) |
 | utils.py | Provides logging, authentication, and save functions <br> used across all fetch and cleaning scripts. | [Link](https://github.com/benberinsky/ds4320-project-1/blob/main/scripts/fetch_data/utils.py) |
 
 ---
@@ -117,7 +117,7 @@ I also chose to analyze data from 2010 onwards. This decision was made because o
 ## Metadata
 
 ### ER Diagram
-[Link to ERD](https://github.com/benberinsky/ds4320-project-1/blob/main/ERD_MM.png)
+[Link to ERD](!https://github.com/benberinsky/ds4320-project-1/blob/main/ERD_MM.png)
 
 ### Data
 
